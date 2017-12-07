@@ -1,0 +1,134 @@
+determine whether gps coordinate fall in polygon region
+https://stackoverflow.com/questions/4287780/detecting-whether-a-gps-coordinate-falls-within-a-polygon-on-a-map
+
+http://paulbourke.net/geometry/polygonmesh/#insidepoly
+
+k-mean algo
+https://datascience.stackexchange.com/questions/761/clustering-geo-location-coordinates-lat-long-pairs
+https://stackoverflow.com/questions/24762435/clustering-geo-location-coordinates-lat-long-pairs-using-kmeans-algorithm-with
+
+ctrl shift I -> network -> f5 -> find cool data -> copy URL
+
+1. try diff method to see for area
+->claw data from mcdonald, atm, circle k, mountain hill
+
+2. try diff cal method -> in defined area most hitted district, k mean, polygon
+-region segmentation
+https://books.google.com.hk/books?id=8e0-nAqXTCMC&pg=PA124&lpg=PA124&dq=data+mining+split+region&source=bl&ots=-B8T2i8gLZ&sig=X1kL1JuK-aU-wUA_OtsxIoCRr_k&hl=zh-TW&sa=X&ved=0ahUKEwj-uovGwq7XAhWGTLwKHVhxD_MQ6AEINjAD#v=onepage&q=data%20mining%20split%20region&f=false
+-k nearest point (The Peak problem)
+-knn
+
+read json
+
+3. try boundary case -> cwb & tai han, shan dang, kam shou (no atm or supermarket)
+(residential area)? no location
+
+
+8/11 pg 14:15-19:15 -> 5 hour
+==========================================================
+15/11 pg 14:11-19:11 -> 5 hour
+
+7-eleven
+knn:
+k=5
+kam shau->yuen long
+hkust -> tko :(
+polyU -> tsim sha tsui (not hung horm?)
+
+svm:
+exponent=2 no normalized (corr classified instance = 832, false = 102)
+kam shau->yuen long
+hkust -> sai kung
+polyU -> tsim sha tsui (not hung horm?)
+the peak -> aberdeen
+
+***normalized (corr classified instance = 265, false = 669)
+
+===============================================================
+24/11 pg 14:50 - 19:20 -> 4.5 hour 
+-check weka can export model?
+-check 2 algo
+try load data from Brian
+
+continue preproc data
+check weka
+check 2 algo: P3m algo, convex hull
+
+==================================================================
+29/11 pg 14:20 - 19:20 -> 5 hour
+-intellij contin wash data
+
+===================================================================
+7/12 pg 09:20 - 19:20 ->10-1.5 = 8.5 hour
+
+svm
+-exponent 2, 10 fold
+causeway bay -> Wan Chai
+Wan Chai -> Wan Chai
+Kam Sau -> YuenLong
+UST -> TKO
+polyU ->
+peak ->
+
+exponrent 2 , 5 fold
+causeway bay -> Wan Chai
+Wan Chai -> Wan Chai
+Kam Sau -> YuenLong
+UST -> TKO
+polyU ->Wan Chai
+peak ->Kwun Tong
+
+exponent 2, 3 fold
+causeway bay -> Wan Chai
+Wan Chai -> Wan Chai
+Kam Sau -> YuenLong
+UST -> TKO
+polyU ->Wan Chai
+peak ->Kwun Tong
+
+exponent 1, 3 fold
+causeway bay -> Tsuen Wan
+Wan Chai -> Tsuen Wan
+Kam Sau -> Tuen Mun
+UST -> Tsuen Wan
+polyU -> Tsuen Wan
+peak ->Kwun Tong
+
+try only govSpace
+exp 1, 5 fold
+causeway bay -> Wan Chai
+Wan Chai -> Wan Chai
+Kam Sau -> YuenLong
+UST -> TKO
+polyU ->Wan Chai
+peak ->Kwun Tong
+
+try only 7-11
+exp=2, 3 fold
+CWB
+Wan Chai
+YUENLONG
+Sai Kung
+Tsim Sha Tsui
+Aberdeen
+
+fold no effect
+原來錯在次序...
+而家一口氣入function=> console log(name,lat,lng)
+
+now new ver.
+		100:Causeway Bay       0.019 
+        2        1:? 1:Wan Chai       0.019 
+        3        1:? 18:Yuen Long       0.019 
+        4        1:? 3:Sai Kung       0.019 
+        5        1:? 47:Tsim Sha Tsui       0.019 
+        6        1:? 6:Central And Western       0.019 
+
+人手加番山頂
+        1        1:? 101:Causeway Bay       0.019 
+        2        1:? 2:Wan Chai       0.019 
+        3        1:? 19:Yuen Long       0.019 
+        4        1:? 4:Sai Kung       0.019 
+        5        1:? 48:Tsim Sha Tsui       0.019 
+        6        1:? 1:The Peak       0.019 
+

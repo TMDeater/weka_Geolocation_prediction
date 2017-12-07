@@ -1,0 +1,935 @@
+Code,_id,Shop Name Tc,Shop Name En,DistrictTc,DistrictEn,Latitude,Longitude,Store.AddressTc,Store.AddressEn,Store.Is24Hours
+247,75,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.5032933,114.1336239,新界上水天平村購物商場116號舖,"Shop 116, Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shiu, NT",TRUE
+1171,583,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.4974863,114.1259598,新界上水太平?平熙樓地下110A號舖,"Shop No.110A on Ground Floor, Ping Hay House, Tai Ping Estate, Sheung Shui,  N.T.",TRUE
+1432,789,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.5007428,114.125774,新界上水彩園?彩珠樓334及336號舖,"Shop Nos. 334 & 336, 3/F, Choi Chu House, Choi Yuen Estate, Sheung Shui, NT",TRUE
+1464,819,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.5037681,114.1292409,新界上水新祥街25號地下,"G/F., No. 25 San Cheung Street North, Sheung Shui, N.T.",TRUE
+441,147,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.5043498,114.1268264,新界上水新豐路75號地下舖,"G/F., No.75 San Fung Avenue, Sheung Shui, NT",TRUE
+126,33,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.5041586,114.1277481,新界上水新財街25-27號地下,"G/F., 25-27 San Tsoi Street, Sheung Shui, NT",TRUE
+1379,741,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.5046418,114.1300457,新界上水馬會道182號地下,"G/F & Cockloft, No.182 Jockey Club Road, Shueng Shui, N.T.",TRUE
+1093,521,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.5030217,114.1279665,新界上水龍琛路76-86號地下B舖,"Shop B, G/F., No.76-86 Lung Sum Avenue, Sheung Shui, NT.",TRUE
+1581,934,7-Eleven 上水,7-Eleven Sheung Shui,上水,Sheung Shui,22.50203576,114.1290388,新界上水龍運街8號新都廣場第一層106e號舖,"Shop No. 106e, Level 1, Metropolis Plaza, No. 8 Lung Wan Street, Sheung Shui, N.T.",TRUE
+1327,699,7-Eleven 上水 (非24小時營業),7-Eleven Sheung Shui (Non-24 Hours),上水,Sheung Shui,22.5009432,114.1293274,新界上水智昌路3號上水中心2樓2012及2013號舖,"Shop Nos. 2012&2013 on Level 2 of Sheung Shui Centre, No. 3 Chi Cheong Road, Sheung Shui, N.T",FALSE
+815,343,7-Eleven 上水 (非24小時營業),7-Eleven Sheung Shui (Non-24 Hours),上水,Sheung Shui,22.50122793,114.1318077,新界上水智昌路3號上水中心2樓4號舖,"Shop 4 Level 2, Sheung Shui Town Centre, 9 Chi Cheong Rd, Sheung Shui, NT",FALSE
+1097,525,7-Eleven 上水 (非24小時營業),7-Eleven Sheung Shui (Non-24 Hours),上水,Sheung Shui,22.5015352,114.1274518,新界上水火車站閘外1號舖位,"Shop SHS 1 at Unpaid Concourse of MTR Sheung Shui Station, Sheung Shui, New Territories",FALSE
+150,46,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.2879098,114.1517914,香港上環信德中心G01干諾道中200號地下,"G01 Shun Tak Centre, 200 Connaught Rd C, HK-Macau Ferry Terminal, HK",TRUE
+1184,592,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.2866614,114.1509753,香港上環德輔道中298號地下及閣樓,"G/F & the Cockloft, No. 298 Des Voeux Road Central, Sheung Wan, Hong Kong",TRUE
+85,20,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.2859651,114.1517966,香港上環永樂街89-91號喜利商業大廈B座地下,"G/F., Blk B, Hiller Comm Bldg., 89-91 Wing Lok St., HK",TRUE
+1568,921,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.28621874,114.1528778,香港上環皇后大道中368號偉利大廈地下7號舖,"Shop No. 7, G/F, Welland Building, No. 368 Queen's Road Central, Hong Kong",TRUE
+1034,481,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.287046,114.14769,"香港上環皇后街1號帝后華庭地下1C, 1D及1E號舖","Shop 1C, 1D & 1E, G/F, Queen's Terrace, 1 Queen Street, Sheung Wan, HK",TRUE
+1168,581,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.285516,114.147574,香港上環荷里活道222號合俊花園地下F及G號舖,"Shops F & G, Ground Floor, Hollywood Garden, No. 222 Hollywood Road, Sheung Wan, HK",TRUE
+1453,809,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.2852548,114.1507236,香港上環蘇杭街106號地下B舖,"Shop B, Ground Floor, 106 Jervois Street, Sheung Wan, Hong Kong",TRUE
+1179,589,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.2830399,114.149811,香港中環半山堅道135-137號金谷大廈地下2號舖,"Shop No. 2, Ground Floor, Golden Valley Mansion, Nos. 135 - 137 Caine Road, Mid-Level, Hong Kong",TRUE
+968,439,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.2857141,114.1499967,香港中環皇后大道中331-333號登富商業大廈地下,"G/F, Teng Fuh Commercial Building, 331-333 Queen's Road Central, Central, HK",TRUE
+690,279,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.2846904,114.1410833,香港般咸道55號地下,"G/F., 55 Bonham Road, HK",TRUE
+1323,696,7-Eleven 上環,7-Eleven Sheung Wan,上環,Sheung Wan,22.284073,114.150921,香港荷李活道123號荷李活華庭地下3號舖,"Shop No.3, Ground Floor, Hollywood Terrace, No.123 Hollywood Road, HK",TRUE
+896,391,7-Eleven 上環 (非24小時營業),7-Eleven Sheung Wan (Non-24 Hours),上環,Sheung Wan,22.28656248,114.1518652,香港上環地鐵站SHW 9號舖,"Kiosk SHW9 Sheung Wan MTR Station, HK",FALSE
+679,275,7-Eleven 上環 (非24小時營業),7-Eleven Sheung Wan (Non-24 Hours),上環,Sheung Wan,22.28645576,114.1519189,香港上環地鐵站店舖SHW1,"Station Kiosk No.SHW 1, Sheung Wan MTR Station, HK",FALSE
+1340,709,7-Eleven 上環 (非24小時營業),7-Eleven Sheung Wan (Non-24 Hours),上環,Sheung Wan,22.286463,114.1536893,香港中環德輔道中199號維德廣場1樓106號舖,"Shop No.106, First Floor, Infinitus Plaza, No.199 Des Voeux Road Central,  Hong Kong",FALSE
+1131,551,7-Eleven 上環 (非24小時營業),7-Eleven Sheung Wan (Non-24 Hours),上環,Sheung Wan,22.2879098,114.1517914,香港干諾道中200號信德中心二樓289號舖,"Shop 289 on 2nd Floor, Shun Tak Centre, 200 Connaught Road Central, Hong Kong",FALSE
+153,48,7-Eleven 上環 (非24小時營業),7-Eleven Sheung Wan (Non-24 Hours),上環,Sheung Wan,22.285072,114.14083,香港高街88號地下,"G/F., 88 High Street, HK",FALSE
+1461,817,7-Eleven 中環,7-Eleven Central,中環,Central,22.282396,114.1523011,香港上環士丹頓街卑利街63-63A號地下及閣樓C舖,"Shop C, G/F & Cockloft, Nos. 36, 36A & 36B Staunton Street, Nos. 63-63A Peel Street, Hong Kong",TRUE
+1132,552,7-Eleven 中環,7-Eleven Central,中環,Central,22.2844157,114.1532866,香港上環威靈頓街166號地下,"G/F, 166 Wellington Street, Sheung Wan, Hong Kong",TRUE
+830,353,7-Eleven 中環,7-Eleven Central,中環,Central,22.2815295,114.1526649,香港中環伊利近街40號地下舖,"G/F., No.40 Elgin Street, Central, Hong Kong",TRUE
+449,149,7-Eleven 中環,7-Eleven Central,中環,Central,22.2800885,114.1508328,香港中環半山西摩道1號輝煌臺7號舖,"Shop 7, G/F., Fairview Height, 1 Seymour Road, HK",TRUE
+1353,720,7-Eleven 中環,7-Eleven Central,中環,Central,22.2822997,114.1550909,香港中環威靈頓街76號地下,"Ground Floor, No.76 Wellington Street, Central, Kong Kong",TRUE
+1492,845,7-Eleven 中環,7-Eleven Central,中環,Central,22.2807024,114.1551169,香港中環德己立街41號地下,"G/F, No.41 D’Aguilar Street, Central, H.K.",TRUE
+518,193,7-Eleven 中環,7-Eleven Central,中環,Central,22.2813956,114.1562438,香港中環德忌立街8-12號業豐大廈地下D舖及閣樓,"Shop D, G/F & C/L., Yip Fung Building, 8-12 D'Aguilar Street, Central, HK",TRUE
+894,390,7-Eleven 中環,7-Eleven Central,中環,Central,22.2856063,114.1542547,香港中環德輔道中154號地下,"G/F., 154 Des Voeux Rd Central, HK",TRUE
+417,137,7-Eleven 中環,7-Eleven Central,中環,Central,22.2836623,114.1568012,香港中環砵典乍街2A 華人銀行大廈地下舖位,"G/F, The Chinese Bank Bldg, 2A Pottinger St, 61-65 Des Voeux Rd C, HK",TRUE
+517,192,7-Eleven 中環,7-Eleven Central,中環,Central,22.2841437,114.1548504,香港中環租庇利街1號喜訊大廈地下C舖,"Shop C, G/F., Haleson Building, 1 Jubilee St., Central, HK",TRUE
+1121,542,7-Eleven 中環,7-Eleven Central,中環,Central,22.2830744,114.1526411,香港中環荷李活道68-70A地下B舖及閣樓,"Shop B, G/F & M/F, No. 68-70A Hollywood Road, Hong Kong",TRUE
+927,411,7-Eleven 中環,7-Eleven Central,中環,Central,22.282791,114.1539563,香港中環閣麟街37號祥興商業大廈地下,"Whole G/F., Cheung Hing Commercial Building, No.37 Cochrane Street, Central, Hong Kong",TRUE
+937,420,7-Eleven 中環,7-Eleven Central,中環,Central,22.2835748,114.1548845,香港中環閣麟街9-11號地下及閣樓舖位,"G/F & C/L, 9-11 Cochrane Street, Central, HK",TRUE
+1503,856,7-Eleven 中環,7-Eleven Central,中環,Central,22.280623,114.155008,香港中環雲咸街41號地下,"Ground Floor, No. 41 Wyndham Street, Central, Hong Kong",TRUE
+489,177,7-Eleven 中環,7-Eleven Central,中環,Central,22.2803743,114.1537985,香港堅道27號地下,"G/F., 27 Caine Road, Hong Kong",TRUE
+273,80,7-Eleven 中環,7-Eleven Central,中環,Central,22.2817315,114.1515305,香港堅道89號地下,"G/F, 89 Caine Road, HK",TRUE
+1201,605,7-Eleven 中環,7-Eleven Central,中環,Central,22.2810291,114.1556883,香港蘭桂芳3號地下,"Ground Floor, No. 3, Lan Kwai Fong, Hong Kong",TRUE
+721,293,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.28198836,114.1577768,港鐵中環站CEN W9號舖                           ,Shop No. CEN W9 at Central Station Hong Kong,FALSE
+1088,516,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.28495423,114.1577312,港鐵香港站HOK 59號舖位,"Concession HOK 59 at Hong Kong MTR Station, Hong Kong",FALSE
+1500,853,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.28493686,114.1577473,港鐵香港站L3樓層HOK 23A舖,"Concession HOK 23A, Level L3, MTR Hong Kong Station",FALSE
+1501,854,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.28454472,114.1584447,港鐵香港站L3樓層HOK 57舖,"Concession HOK 57, Level L3, MTR Hong Kong Station",FALSE
+1450,806,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.284644,114.1580746,港鐵香港站商舖HOK 10,Shop HOK10 at MTR Hong Kong Station,FALSE
+1054,496,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.28681811,114.1610759,香港中環天星碼頭下層 B號舖,"Shop No.B Lower Deck Level, Central Pier, Star Ferry, Hong Kong",FALSE
+1446,802,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.282784,114.157597,香港中環干諾道中13-14號及德輔道中21-23號歐陸貿易中心地下Y2號舖,"Shop Y2, G/F, Euro Trade Centre, Nos.13-14 Connaught Road Central & Nos. 21-23 Des Voeux Road Central, Hong Kong",FALSE
+1223,620,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.282617,114.156554,香港中環昭隆街9號地下1號鋪,"Shop 1, Ground Floor, No.9 Chiu Lung Street, Central, HK",FALSE
+1400,758,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.28107005,114.1594827,香港中環港鐵站非繳費區 CEN K7b號舖                           ,Kiosk No. CEN K7b at Unpaid Concourse of MTR Central Station,FALSE
+497,180,7-Eleven 中環 (非24小時營業),7-Eleven Central (Non-24 Hours),中環,Central,22.28537367,114.1584957,香港大嶼山及機場鐵路香港站東涌線 HOK 30舖位,"Concession No. HOK 30, Tung Chung Line Concourse, Lantau Airport Railway (LAR), HK Station.",FALSE
+1218,617,7-Eleven 九龍城,7-Eleven Kowloon City,九龍城,Kowloon City,22.32876,114.1899509,九龍九龍城南角道24號景輝閣地下3號舖,"Shop 3 G/F, Kingsfield Court, 24 Nam Kok Road, Kowloon City, Kowloon",TRUE
+914,402,7-Eleven 九龍城,7-Eleven Kowloon City,九龍城,Kowloon City,22.3274454,114.1875297,九龍九龍城太子道西362-364號地下C號舖,"Shop C, G/F., 362-364 Prince Edward Road West, Kowloon City, KLN",TRUE
+1444,800,7-Eleven 九龍城,7-Eleven Kowloon City,九龍城,Kowloon City,22.3307992,114.1928948,九龍九龍城沙浦道46號豪門地下2B號舖,"Shop No. 2B, G/F., Le Billionnaire, No. 46 Sa Po Road, Kowloon City, Kowloon",TRUE
+926,410,7-Eleven 九龍城,7-Eleven Kowloon City,九龍城,Kowloon City,22.3303913,114.1882237,九龍九龍城獅子石道87號地下,"G/F., No.87 Lion Rock Road, Kowloon City, Kowloon",TRUE
+706,284,7-Eleven 九龍城,7-Eleven Kowloon City,九龍城,Kowloon City,22.3290927,114.1877924,九龍九龍城衙前圍道132-134號福興大廈地下5號舖位,"Shop 5, G/F. Fuk Hing Building, 132-134 Nga Tsin Wai Road, Kln City, KLN",TRUE
+77,17,7-Eleven 九龍城,7-Eleven Kowloon City,九龍城,Kowloon City,22.3291059,114.1894168,九龍九龍城衙前圍道96號地下A-D舖,"Shop A-D, G/F., Leung Ling House, 96 Nga Tsin Wai Rd, Kowloon City, Kln",TRUE
+231,70,7-Eleven 九龍城,7-Eleven Kowloon City,九龍城,Kowloon City,22.3339166,114.1925633,九龍東頭村旺東樓地下2號舖,"Shop 2, Wong Tung House, Tung Tau Estate II, Kln",TRUE
+1055,497,7-Eleven 九龍城 (非24小時營業),7-Eleven Kowloon City (Non-24 Hours),九龍城,Kowloon City,22.330988,114.188216,九龍九龍城賈炳達道128號九龍城廣場 LG02號舖,"Shop LG02, Kowloon City Plaza, 128 Carpenter Road, Kowloon City, KLN",FALSE
+1211,612,7-Eleven 九龍塘,7-Eleven Kowloon Tong,九龍塘,Kowloon Tong,22.3395633,114.1808442,"九龍九龍塘聯合道320號建新中心地下11, 12及18號舖","Shop 11, 12 & 18 on G/F., Franki Centre, 320 Junction Road, Kowloon Tong, Kowloon",TRUE
+764,321,7-Eleven 九龍塘 (非24小時營業),7-Eleven Kowloon Tong (Non-24 Hours),九龍塘,Kowloon Tong,22.33685793,114.1758871,九龍塘地鐵站2號舖(閘內),Kiosk KOT 2 at MTR Kowloon Tong Station,FALSE
+791,329,7-Eleven 九龍塘 (非24小時營業),7-Eleven Kowloon Tong (Non-24 Hours),九龍塘,Kowloon Tong,22.33640143,114.1765255,九龍塘火車 (地面沙福道出口),"Shop KOT 122, Unpaid Concourse at MTR Kowloon Tong Station (Southern Concourse), Kowloon",FALSE
+792,330,7-Eleven 九龍塘 (非24小時營業),7-Eleven Kowloon Tong (Non-24 Hours),九龍塘,Kowloon Tong,22.33712587,114.1755706,九龍塘火車站10號舖(近又一城出口),"Shop KOT 206, Unpaid Concourse at MTR Kowloon Tong Station, Kowloon",FALSE
+1259,646,7-Eleven 九龍塘 (非24小時營業),7-Eleven Kowloon Tong (Non-24 Hours),九龍塘,Kowloon Tong,22.33712091,114.1759689,港鐵九龍塘站KOT 113號舖,"Shop No. KOT 113 at Kowloon Tong Station, Kowloon",FALSE
+1310,686,7-Eleven 九龍塘 (非24小時營業),7-Eleven Kowloon Tong (Non-24 Hours),九龍塘,Kowloon Tong,22.33715564,114.1759461,港鐵九龍塘站KOT 121號舖,"Shop No. KOT 121, Paid Concourse, MTR Kowloon Tong (East Rail Line) Station",FALSE
+1436,792,7-Eleven 九龍塘 (非24小時營業),7-Eleven Kowloon Tong (Non-24 Hours),九龍塘,Kowloon Tong,22.33678846,114.1760534,港鐵九龍塘站東鐵線下線月台 KOT 203號舖,Shop KOT 203 at MTR Kowloon Tong Station,FALSE
+1361,726,7-Eleven 九龍灣,7-Eleven Kowloon Bay,九龍灣,Kowloon Bay,22.3223523,114.2105826,九龍九龍灣宏開道13號景發工業中心地下4D-E號單位,"Workshop unit 4D-E of unit 4, G/F, Kingsford  Industrial Centre, No.13 Wang Hoi Road, Kowloon Bay, Kln",TRUE
+103,28,7-Eleven 九龍灣,7-Eleven Kowloon Bay,九龍灣,Kowloon Bay,22.3290179,114.2098439,九龍啟業村商場3號舖,"Shop 3, Comm. Centre, Kai Yip Estate, Kln",TRUE
+1468,823,7-Eleven 九龍灣,7-Eleven Kowloon Bay,九龍灣,Kowloon Bay,22.33411397,114.2148301,九龍彩雲(一)?彩雲三期商場地下105號鋪,"Shop Nos. B111, B113 & B114, G/F, Choi Wan Shopping Centre (Phase 3), Choi Wan (I) Estate, Kowloon",TRUE
+339,100,7-Eleven 九龍灣,7-Eleven Kowloon Bay,九龍灣,Kowloon Bay,22.32381434,114.2161994,九龍牛頭角77號淘大花園二期 G205-207舖,"G/F, Shop No.205-207, Phase II Amoy Plaza, 77 Ngau Tau Kok Road, Kln",TRUE
+1457,813,7-Eleven 九龍灣,7-Eleven Kowloon Bay,九龍灣,Kowloon Bay,22.32185729,114.2159379,九龍牛頭角下?牛頭角下?廣場地下1號舖,"Shop 1, G/F, Lower Ngau Tau Kok Estate Plaza, Lower Ngau Tau Kok Estate, Kowloon",TRUE
+1309,685,7-Eleven 九龍灣,7-Eleven Kowloon Bay,九龍灣,Kowloon Bay,22.32024449,114.2156643,九龍牛頭角牛頭角上?牛頭角上?商場2號舖,"Shop No.2, Upper Ngau Tau Kok Estate Shopping Centre, Upper Ngau Tau Kok Estate, Ngau Tau Kok, Kowloon",TRUE
+1518,871,7-Eleven 九龍灣,7-Eleven Kowloon Bay,九龍灣,Kowloon Bay,22.3260642,114.2153284,九龍牛頭角道33號宏光樓地下7號舖,"Shop No. 7, G/F, Wang Kwong Building, No.33 Ngau Tau Kok Road, Kowloon",TRUE
+1493,846,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.3264211,114.2055206,九龍九龍灣宏光道39號宏天廣場地下6號舖,"Shop No. 6, G/F., Skyline Tower, 39 Wang Kwong Road, Kowloon Bay, Kowloon",FALSE
+1485,839,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.32415,114.208426,九龍九龍灣宏照道18號中國建設銀行中心地下B舖,"Shop B, G/F., CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, HK",FALSE
+1360,725,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.3210973,114.2094216,九龍九龍灣宏照道33號國際交易中心地下09號舖,"Shop No. 09, G/F, Exchange Tower, 33 Wang Chiu Road, Kowloon Bay, Kowloon",FALSE
+1382,744,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.3199285,114.2088179,九龍九龍灣宏照道38號企業廣場5期(MegaBox)地下13及14號舖,"Unit 13 & 14 on Ground Floor of MegaBox, Enterprise Square Five, 38 Wang Chiu Road, Kowloon Bay, Kowloon",FALSE
+1539,892,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.32389932,114.2041764,九龍九龍灣展貿徑 1號九龍灣國際展貿中心2樓41號舖,"Shop 41, 2/F, E-Max, Kowloon Bay International Trade & Exhibition Centre, 1 Trademart Drive, Kowloon Bay, Kowloon",FALSE
+1348,716,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.3241554,114.2104256,九龍九龍灣臨興街32號美羅中心1期地下3A號舖,"Shop No. 3A on G/F., Metro Centre Phase I, 32 Lam Hing Street, Kowloon Bay, Kowloon",FALSE
+429,140,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.32637056,114.217582,九龍彩霞村彩月樓地下2號舖位,"Shop No. 2, Choi Yuet House, Choi Ha Estate, Kln",FALSE
+760,319,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.3233609,114.2140818,港鐵九龍灣站4號舖 A 出口,Kiosk KOB 4 at MTR Kowloon Bay Station,FALSE
+1257,645,7-Eleven 九龍灣 (非24小時營業),7-Eleven Kowloon Bay (Non-24 Hours),九龍灣,Kowloon Bay,22.32425413,114.2138886,港鐵九龍灣站KOB 10號舖,"Kiosk No. KOB 10 at (the unpaid concourse) Kowloon Bay Station, Kowloon",FALSE
+1427,784,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3082855,114.169846,九龍佐敦上海街211-215號地下A舖,"Shop A, G/F., No.211-215 Shanghai Street, Jordan, Kowloon",TRUE
+707,285,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3050306,114.1704794,九龍佐敦佐敦道24A-26號金誠大廈地下A舖,"Shop A, G/F., Kam Shing Building, Nos.24A-26 Jordan Road, Jordan, KLN",TRUE
+868,376,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.305828,114.168877,九龍佐敦佐敦道37T號佐敦大廈地下,"G/F., Jordan Mansion, No.37T Jordan Road, Jordan, KLN.",TRUE
+1004,457,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3058242,114.172221,九龍佐敦佐敦道9-11號高基大廈地下3號舖,"Shop 3, G/F, Ko Kie Building, 9-11 Jordan Road, Jordan, KLN",TRUE
+1439,795,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.30600638,114.1705884,九龍佐敦吳松街96及98號地下A舖,"Shop A, G/F, No. 96 & 98 Woosung Street, Jordan, Kowloon",TRUE
+938,421,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3041444,114.1708619,九龍佐敦寶靈街8號寶靈大廈地下,"G/F., Bowring Building, No.8 Bowring Street, Jordan, Kowloon",TRUE
+1336,706,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.30490459,114.1722661,九龍佐敦德興街11-12號興富中心地下,"Shop Nos. 1 & 2 on G/F., Rightful Centre, 11-12 Tak Hing Street, Jordon, KLN",TRUE
+507,187,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3040687,114.1723025,九龍佐敦德興街1號(舖面向德成街)地下D舖,"Shop D, G/F., 1 Tak Hing Street, Jordan, KLN",TRUE
+951,429,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3077788,114.1659045,九龍佐敦文苑街26-48號文耀樓地下26號舖位,"Shop 26, G/F, Man Yiu Building, 26-48 Man Yuen Street, Jordan, KLN",TRUE
+1326,698,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3072983,114.1667406,九龍佐敦文英街2-24號文英樓地下24號舖,"Shop No.24 on G/F., Man Ying Buidling, Nos.2-24 Man Ying Street, Jordan, KLN",TRUE
+1356,722,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3031644,114.1724997,九龍佐敦柯士甸道106號耀基大樓地下,"Ground Floor, Yiu Kei Mansion, No.106 Austin Road, Jordan, Kowloon",TRUE
+1086,514,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3069255,114.1718266,九龍佐敦西貢街3-5號昌華商業大廈地下1號舖,"Shop No.1, G/F., Cheung Wah Commercial Building, No.3-5 Saigon Street, Jordan, Kowloon",TRUE
+1506,859,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3051445,114.1693415,九龍佐敦道28-28A號敦成大廈地下A1舖,"Shop A1, G/F, Tun Shing Mansion, Nos. 28-28A Jordan Road, Kowloon",TRUE
+1248,636,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3079,114.1719908,九龍北海街13-15號中?大廈地下及閣樓,"Ground Floor and Mezzanine Floor, Chung Pak Mansion, No.13-15 Pak Hoi Street, Jordan, Kowloon",TRUE
+102,27,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3060633,114.1719613,九龍南京街11號地下,"G/F, 11 Nanking Street, Kln",TRUE
+119,32,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3040846,114.1690145,九龍寶靈街48-50號地下,"G/F, 48-50 Bowring Street, Kln",TRUE
+36,11,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3033127,114.1698988,九龍尖沙咀柯士甸道45-53號聯業大廈地下A舖,"Shop A, G/F, TAL Building, 45-53 Austin Road, Kln",TRUE
+226,69,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.303165,114.174278,九龍柯士甸道144號祥景大廈地下A舖,"Shop A, G/F, Cheung King Mansion, 144 Austin Road, Kln",TRUE
+1426,783,7-Eleven 佐敦,7-Eleven Jordan,佐敦,Jordan,22.3086963,114.1746855,九龍油麻地加士居道30號伊利沙伯醫院 D 座低層地下3號舖,"Room 3 on LG/F., Block D, Queen Elizabeth Hospital, 30 Gascoigne Road, Kln",TRUE
+872,378,7-Eleven 佐敦 (非24小時營業),7-Eleven Jordan (Non-24 Hours),佐敦,Jordan,22.3077368,114.1676927,九龍佐敦渡船街38號建邦商業大廈地下4及5號舖位,"Shop 4 & 5, G/F., Keybond Commercial Building, 38 Ferry Street, Jordan, KLN",FALSE
+610,239,7-Eleven 何文田,7-Eleven Homantin,何文田,Homantin,22.3161858,114.1818921,九龍何文田何文田廣場地下10號舖位,"Shop No.10, G/F., Homantin Plaza, Homantin, KLN",TRUE
+1408,765,7-Eleven 何文田,7-Eleven Homantin,何文田,Homantin,22.3145523,114.177936,九龍何文田忠孝街60號愛民?愛民商場地下G01A及G01B舖,"Shop No. G01A & G01B, Ground Floor, Oi Man Shopping Centre, Oi Man Estate, 60 Chung Hau Street, Homantin, Kowloon",TRUE
+1364,728,7-Eleven 何文田 (非24小時營業),7-Eleven Homantin (Non-24 Hours),何文田,Homantin,22.3161858,114.1818921,九龍何文田佛光街80號何文田廣場2樓211-212號舖,"Shop No. 211 and 212, 2/F, Homantin Plaza, 80 Fat Kwong Street, Homantin, Kowloon",FALSE
+605,235,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4451882,114.0302595,"元朗水車館街1A-1F,1,3,5,7,9,13號連勝大廈地下1號鋪B部份","Portion B of Shop 1, G/F, Winland Building, 1A-1F, 1, 3, 5, 7, 9, 13 Shiu Che Kwun St, Yuen Long, NT",TRUE
+591,229,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4429,114.0296135,新界元朗元朗新街1-49號大棠道23-27號牡丹街2-38號合益廣場A59號地下及閣樓舖位,"Shop Nos.A59 on G/F & Cockloft, Hop Yick Plaza, Nos.2-38 Mau Tan St., Nos.23-27 Tai Tong Road,Nos.1-49 Yuen Long New Street, Yuen Long, NT",TRUE
+1150,565,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4443766,114.0263485,新界元朗元朗青山公路180號地下,"Ground Floor, No.180 Yuen Long Castle Peak Road, Yuen Long, N.T.",TRUE
+410,135,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.48642099,114.0540156,新界元朗加洲花園商場第36-38號舖地下,"Shop No. 36-38, G/F, Palm Springs Comm. Ctr, Palm Springs, Yuen Long, NT",TRUE
+616,243,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.44420199,114.0312409,新界元朗又新街38號富大廈地下12及13號舖位,"Unit 12 & 13, G/F., Hang Fu Bldg., No.38 Yau San St., Yuen Long, NT",TRUE
+22,7,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4416077,114.031036,新界元朗合益路31號合益中心地下57舖,"Shop No. 57, G/F., Hop Yick Ctr., 31 Hop Yick Rd., Yuen Long, NT",TRUE
+919,405,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.446331,114.021567,新界元朗媽廟路12至42號永發大樓地下L號舖位,"Shop L on Ground Floor, Wing Fat House, Nos.12-42 Ma Miu Rd, Yuen Long, NT",TRUE
+1119,540,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4459363,114.0261597,新界元朗安寧路65-79號福安樓地下C號舖,"Shop C, G/F., Fuk On House, Nos.65-79 On Ning Road, Yuen Long, NT.",TRUE
+149,45,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4462453,114.0294276,新界元朗安寧路8號冠煌樓地下C舖,"G/F., Shop C, Koon Wong Mansion, 8 On Ling Road, Yuen Long, NT",TRUE
+360,110,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.444065,114.0277551,新界元朗康景街3-19號利景樓及部份G舖地下,"Shop F & Portion of Shop G, 3-19 Hong King St, Lee King Bldg, Yuen Long, N.T.",TRUE
+1580,933,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.44582947,114.0247281,新界元朗擊讓路17號順發大廈J舖連閣樓 ,"Shop J, G/F, Shun Fat Mansion, No. 17 Kik Yeung Road, Yuen Long, N.T.",TRUE
+1098,526,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4431784,114.024067,新界元朗教育路104-126號永興樓地下10號及10A號舖,"Shop 10 & 10A, G/F., Wing Hing Mansion, Nos.104-126 Kau Yuk Road, Yuen Long, NT.",TRUE
+956,432,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4426028,114.028452,新界元朗教育路1號千色廣場地下29-30號舖,"Shop Nos.29-30, G/F., KOLOUR Yuen Long, No.1 Kau Yuk Road, Yuen Long, NT.",TRUE
+1395,754,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4428337,114.0260129,新界元朗教育路43-49號快活樓地下1號舖,"Shop 1 on G/F., Happy House, Nos.43-49 Kau Yuk Road, Yuen Long, N.T.",TRUE
+1175,586,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4325123,113.9979893,新界元朗盈福街8號翠珊園1-9座地下6號舖,"Shop 6, G/F., Blocks 1-9, Treasure Court, No.8 Ying Fuk Street, Yuen Long, N.T.",TRUE
+1423,780,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.44200059,114.0277541,新界元朗西菁街10號好順泰大廈地下34號舖,"Shop 34, G/F., Ho Shun Tai Building, No.10 Sai Ching Street, Yuen Long, N.T",TRUE
+723,295,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.47754598,114.0454727,"新界元朗錦鏽花園商場D座地下D4a, D4b及D5a號舖                                  ","G/F, Shop D4A, D4b & D5A, Blk D, Town Centre, Fairview Park, Yuen Long, NT",TRUE
+1386,747,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4447473,114.0246655,新界元朗青山公路239-247A號萬昌樓地下E舖,"Shop E on G/F., Man Cheong Bldg, Nos.239-247A Castle Peak Road, Yuen Long, N.T.",TRUE
+1496,849,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4420794,114.0251707,"新界元朗馬田路20-24, 28-30, 30A及30B安寧大廈地下3A號舖","Shop No. 3A, G/F, On Ning Building, Nos. 20-24, 28-30, 30A & 30B Ma Tin Road, Yuen Long, N.T.",TRUE
+1082,510,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.440633,114.021398,新界元朗馬田路80號御庭居地下及閣樓4號舖,"Shop No. 4 on G/F. & Cockloft for Shop No.4 on G/F., Springdale Villas, 80 Ma Tin Road, Yuen Long, N.T.",TRUE
+1236,629,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.442071,114.033685,新界元朗鳳攸南街3號好順景大廈地下1及46舖位,"Shop 1 & 46, G/F, Ho Shun King Bldg, 3 Fung Yau Street South, Yuen Long, N.T",TRUE
+1087,515,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.4421341,114.0325404,新界元朗鳳翔路69號建輝大廈地下1號舖,"Shop No.1, G/F., Kin Fai Building, No.69 Fung Cheung Road, Yuen Long, NT.",TRUE
+1425,782,7-Eleven 元朗,7-Eleven Yuen Long,元朗,Yuen Long,22.440404,114.076605,新界錦田錦田公路84號地下,"Ground Floor, No.84 Kam Tin Road, Kam Tin, N.T.",TRUE
+797,334,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.44614307,114.0350121,元朗西鐵站17號舖,"Shop YUL 17, Unpaid Concourse at MTR Yuen Long Station, New Territories",FALSE
+1018,468,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.43507884,114.0632504,新界九廣西鐵錦上路站非繳費區4號,"Shop No. KSR 4 at Unpaid Concourse of MTR Kam Sheung Road West Rail Line Station, New Territories",FALSE
+942,424,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.43383923,114.063921,新界九廣西鐵錦上路站非繳費區4號及9號舖位,"Shop No. KSR 9 at Unpaid Concourse of MTR Kam Sheung Road West Rail Line Station, New Territories",FALSE
+1482,836,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.4469447,114.0231788,新界元朗俊賢坊8號兆日樓地下J舖,"Shop J, Ground Floor, Shiu Yat House, 8 Chun Yin Square, Yuen Long, N.T.",FALSE
+1557,910,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.44361198,114.0366255,新界元朗元龍街9號形點I一樓1070號舖,"Shop No. 1070, Level 1, YOHO MALL I, No. 9 Yuen Lung Street, Yuen Long, N.T.",FALSE
+1543,896,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.42990217,114.0230924,新界元朗公庵路68號溱泊地下D舖,"Shop D, G/F, Park Signature, No. 68 Kung Um Road, Yuen Long, N.T.",FALSE
+1391,752,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.4449673,114.0270117,新界元朗壽富街33號好利洋樓地下A及B?,"Shop A & B, G/F., Holly Building, No.33 Sau Fu Street, Yuen Long,  N.T.",FALSE
+1511,864,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.4424363,114.0539517,新界元朗映河路1號爾巒商場G06號舖,"Shop G06, G/F, RIVA Shopping Arcade, 1 Ying Ho Road, Yuen Long, N.T.",FALSE
+1529,882,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.420483,114.062501,新界八鄉大欖隧道轉車站(元朗方向),"Customer Service Kiosk at Yuen Long Bound of Tai Lam Tunnel Bus Interchange, Pat Heung, N.T.",FALSE
+1596,949,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.463049,114.053151,新界錦田青山公路潭尾段18號地下103號舖,"Shop No. 103, G/F, the Commercial Accommodation of the development erected on No. 18 Castle Peak Road Tam Mi, Kam Tin, N.T.",FALSE
+796,333,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.44741479,114.0247178,朗屏西鐵站17號舖,"Shop LOP 17-18, Paid Concourse at MTR Long Ping West Rail Line Station, New Territories",FALSE
+1570,923,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.44607613,114.0337139,港鐵元朗站YUL 3號舖,Shop YUL 3 at Paid Concourse of MTR Yuen Long Station,FALSE
+833,355,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.44597201,114.0345079,港鐵元朗站非繳費區 7號舖,"Shop YUL 7 at Unpaid concourse of MTR Yuen Long West Rail Line Station, New Territories",FALSE
+1341,710,7-Eleven 元朗 (非24小時營業),7-Eleven Yuen Long (Non-24 Hours),元朗,Yuen Long,22.44760815,114.0241116,港鐵朗屏站(未繳費區)S01號舖,Shop LOP 1 at MTR Long Ping Station (Unpaid concourse),FALSE
+391,127,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.2905633,114.2011319,香港北角七姊妹道14-16號兆景大廈地下舖位,"G/F & C/L, Siu King Bldg., 14-16 Tsat Tsz Mui Rd, North Point, HK",TRUE
+509,189,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.290928,114.196858,香港北角北角道8號地下C 至 F舖,"Shop C,D,E & F, G/F., 8 North Point Road, North Point, HK",TRUE
+654,263,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.292201,114.195278,香港北角和富道21-53號家居庭地下6號舖位,"Shop 6 G/F, Home World, Provident Centre, 21-53 Wharf Rd, North Point, HK",TRUE
+1056,498,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.2917638,114.1984266,香港北角渣華道70號仁和大廈地下C及D舖,"Shop C & D, G/F, Yan Wo Building, 70 Java Road, North Point, HK",TRUE
+658,265,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.2921211,114.1994075,香港北角渣華道92號地下,"Shop on G/F., 92 Java Road, North Point, HK",TRUE
+1591,944,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.2898544,114.195231,香港北角英皇道298-300號五洲大廈地下部份 A及部份 C2舖,"Portion A and Portion C2 on Ground Floor of No. 300 King's Road, and Ground Floor of No. 298 King's Road, Nos. 29-37 Cheung Hong Street, Continental Mansion, North Point, Hong Kong",TRUE
+666,270,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.29046885,114.1987476,"香港北角英皇道400-404號及明苑西街4A,4B,6A,6B及6C,明苑中心地下3號舖位","Shop 3, G/F., Ming Yuen Centre, 400-404 King's Rd, 4A/4B, 6A/6B & 6C Ming Yuen Western St., North Point, HK",TRUE
+901,393,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.291639,114.2032215,香港北角英皇道560號健威坊底層U3號舖位,"Shop No.U3, UG/F., FitFort, No.560 King's Road, North Point, HK",TRUE
+1012,462,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.2909106,114.1949818,"香港北角電器道233號城市花園 1,2及3座地下2號舖位部份","Portion of Unit No.2 on the Portion of the G/F of the Podium of Block 1,2 & 3 City Garden, No.233 Electric Road, North Point, HK",TRUE
+455,153,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.2874868,114.1921686,香港北角電氣道168號地下2號舖,"Shop 2, G/F., Union Park Tower, 168 Electric Road, HK",TRUE
+1595,948,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.287526,114.1916118,香港北角電氣道168號柏宜大廈地下2號舖,"Shop No. 2, G/F, Union Park Tower, No. 168 Electric Road, North Point, Hong Kong",TRUE
+401,131,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.284882,114.1918019,香港北角電氣道98號地下舖位,"G/F., 98 Electric Road, North Point, HK",TRUE
+1519,872,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.288146,114.193322,香港炮台山英皇道147-151號及油街4號地下2號舖,"Shop No. 2, G/F, Nos.147-151 King’s Road and No. 4 Oil Street, Fortress Hill, Hong Kong",TRUE
+1434,791,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.29234257,114.2015719,香港琴行街15號港濤軒地下5號舖,"Shop No.5, G/F, Island Lodge, 15 Kam Hong Street, Hong Kong",TRUE
+648,259,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.2914324,114.2004585,香港英皇道425-431號安寧大廈地下1號B部份舖位,"Portion B, Shop 1, G/F., On Ning Building, 425-431 King's Road, HK",TRUE
+747,313,7-Eleven 北角,7-Eleven North Point,北角,North Point,22.28335838,114.191857,香港電器道22至52號金殿大廈地下3及20號舖,"Shop No.3 & 20, G/F., Golden Court, No.22-52 Electric Road, Tin Hau, HK",TRUE
+1282,665,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.2835822,114.1530158,港鐵北角站非繳費區地庫二樓3號舖,"Kiosk NOP 3 at 2nd Basement Level, unpaid concourse of North Point Station, North Point, Hong Kong",FALSE
+1202,606,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.29374723,114.1998446,香港北角北角(西)碼頭下層K12號舖位,"Shop K12, Lower Deck, North Point (West) Pier, Hong Kong",FALSE
+637,254,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.29106199,114.1999626,香港北角地鐵站NOP1號舖位,"Kiosk NOP 1, North Point MTR Station, HK",FALSE
+946,427,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.29075921,114.2023283,香港北角英皇道500號港運城一樓130號舖位,"Shop 130, 1/F., Island Place, No.500 King's Road, North Point, Hong Kong",FALSE
+1578,931,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.28570996,114.1962942,香港北角雲景道33號雲景道牛奶公司購物中心地下6號舖,"Shop 6, G/F, Cloudview Rd Dairy Farm Shop CTR, No. 33 Cloudview Road, North Point, Hong Kong",FALSE
+1512,865,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.28948916,114.1939216,香港北角電器道254-280號華凱大廈地下G舖,"Shop G (266), G/F, Wah Hoi Mansion, No. 254-280 Electric Road, North Point, Hong Kong",FALSE
+885,385,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.28474203,114.1995777,香港寶馬山寶馬山道45號賽西湖商場底層地下1號舖位,"Shop No.1 on Lower Ground Floor, Braemar Hill Shopping Centre, No.45 Braemar Hill Road, Braemar Hill, Hong Kong",FALSE
+636,253,7-Eleven 北角 (非24小時營業),7-Eleven North Point (Non-24 Hours),北角,North Point,22.28752791,114.1936541,香港炮台山地鐵站FOH9號舖位,"Kiosk FOH 9, Fortress Hill MTR Station, HK",FALSE
+1388,749,7-Eleven 半山 (非24小時營業),7-Eleven Mid-Level (Non-24 Hours),半山,Mid-Level,22.2703965,114.1499227,香港山頂道118號山頂廣場地下5號舖,"Shop No. 5, G/F, The Peak Galleria, 118 Peak Road, Hong Kong",FALSE
+250,76,7-Eleven 南區,7-Eleven Southern,南區,Southern,22.23717374,114.1971463,香港淺水灣中心沙灘道33號地下B舖,"Shop B, Portion on G/F., Beaah Ctr., 33 Beach Rd., Repulse Bay, HK",TRUE
+1196,602,7-Eleven 南區,7-Eleven Southern,南區,Southern,22.2187,114.2126492,香港赤柱新街11號積德樓LG樓D舖,"Shop D, No. 11, Stanley New Street, Stanley, Hong Kong",TRUE
+390,126,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.3203195,114.188142,九龍土瓜灣北帝街24-24A地下,"Shop A, G/F, 24-24A Pak Tai St., To Kwa Wan, Kln",TRUE
+1026,474,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.3178541,114.1911318,九龍土瓜灣土瓜灣道329號奕賢大廈地下1號舖位,"Shop 1, G/F, Yik Yin Building, 329 To Kwa Wan Road, To Kwa Wan, Kln",TRUE
+1251,639,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.31343331,114.1893411,九龍土瓜灣榮光街52號榮輝大廈地下52號舖,"Shop No. 22, Ground Floor, Wing Fai Mansion, 52 Wing Kwong Street, Kowloon",TRUE
+465,161,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.31786496,114.186278,九龍土瓜灣樂民新村樂善樓地下132號舖位,"Shop 132, G/F., Lok Seen Lau, Lok Man Sun Chuen, To Kwa Wan, KLN",TRUE
+130,36,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.3091267,114.183673,九龍土瓜灣漆咸道423-433義發大廈地下6號舖,"G/F, Shop 6, Yee Fai Building, 423-433 Chatham Road South, Kln",TRUE
+623,247,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.316485,114.189401,九龍土瓜灣落山道74號地下舖位,"G/F., No.74 Lok Shan Rd., To Kwa Wan, KLN",TRUE
+1010,461,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.3220215,114.1883835,九龍土瓜灣譚公道34-38號建安大廈地下J舖,"Shop J, G/F, Kin On Mansion, 34-38 Tam Kung Road, To Kwa Wan, Kln",TRUE
+922,408,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.31349286,114.1877827,"九龍土瓜灣馬頭圍道111號地下A,B及C號舖","Shop A, B & C, G/F., 111 Ma Tau Wai Road, To Kwa Wan, Kowloon",TRUE
+1437,793,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.315284,114.1872921,九龍土瓜灣馬頭圍道272-274號福裕樓地下B舖,"Shop B, G/F, Fook Yue Mansion, Nos. 272-274 Ma Tau Wai Road, To Kwa Wan, Kowloon",TRUE
+1144,561,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.31906342,114.1933617,九龍土瓜灣馬頭角新碼頭街38號翔龍灣廣場地下G28號舖,"Shop G28 G/F, Grand Waterfront Plaza, 38 San Ma Tau Street, Ma Tau Kok, KML No. 102RP, KLN",TRUE
+498,181,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.3219083,114.1897789,九龍土瓜灣馬頭角道33號欣榮花園地下24及25號舖,"Shop 24 & 25, G/F., Jubilant Place, 33 Ma Tau Kok Road, To Kwa Wan, KLN",TRUE
+930,413,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.3233899,114.1892427,九龍馬頭圍木廠街1C地下及閣樓,"Ground Floor and Cockloft, No.1C Mok Cheong Street, Ma Tau Wai, Kowloon",TRUE
+37,12,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.3224296,114.1874546,九龍馬頭圍村洋葵樓地下109號舖,"G/F, 109 Geranum House, Ma Tau Wai Estate, Kln",TRUE
+127,34,7-Eleven 土瓜灣,7-Eleven To Kwa Wan,土瓜灣,To Kwa Wan,22.32508284,114.1881153,九龍馬頭圍道真善美村富寧街地下11號舖,"G/F., Shop 11, Fu Ning Street, Chun Seen Mei Chuen, Ma Tau Wai, Kln",TRUE
+1507,860,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.378,114.1760621,新界大圍美林?美林商場地下G02號舖,"Shop No. G02, G/F, Mei Lam Shopping Centre, Mei Lam Estate, Tai Wai, N.T.",TRUE
+457,155,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.374651,114.176331,新界大圍美田路396地段美松苑停車場地下1號舖,"Shop No 1, Carpark Bldg., Mei Chung Court, Shatin, NT",TRUE
+137,39,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.37437477,114.1773811,新界大圍道2-18號積輝街金禧花園地下15號舖,"Shop 15, Grandeur Garden, 2 -18 Chai Fai Street, Shatin, NT",TRUE
+860,371,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.3694755,114.1780266,新界沙田大圍田心村257號地下,"G/F., No.257 Tin Sam Village, Tai Wai, Shatin, NT",TRUE
+581,224,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.367607,114.175625,新界沙田大圍田心街20-30號雲疊花園地下17號舖位,"Commercial Unit No.17 on G/F., Carado Garden, 20-30 Tin Sam St., Tai Wai, Shatin, NT",TRUE
+1495,848,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.3757344,114.1779092,新界沙田大圍積德里10-22號積達樓C舖地下及閣樓,"Block C, G/F & Cockloft, Chik Tat House, Nos. 10-22 Chik Tak Lane, Tai Wai, Shatin, N.T.",TRUE
+1358,723,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.37801082,114.1761661,新界沙田大圍美林村美林商場地下MS1號舖,"Shop No. MS1, G/F, Mei Lam Shopping Centre, Mei Lam Estate, Tai Wai, Shatin, N.T.",TRUE
+825,350,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.36508829,114.1754285,新界沙田大圍顯俓街下徑口村13B號地下,"G/F., No.13B, Ha Keng Hau Village, Hin Keng Street, Tai Wai, Shatin, NT",TRUE
+214,64,7-Eleven 大圍,7-Eleven Tai Wai,大圍,Tai Wai,22.3779356,114.194003,新界沙田顯徑村商場114號舖,"Shop 114, Shopping Centre, Hin Keng Estate, Tai Wai, NT",TRUE
+878,381,7-Eleven 大圍 (非24小時營業),7-Eleven Tai Wai (Non-24 Hours),大圍,Tai Wai,22.37272786,114.1788483,九廣馬鐵大圍站繳費區40號舖,"Shop No. TAW 40 at Paid concourse of MTR Tai Wai Station, Ma On Shan Line, New Territories",FALSE
+1586,939,7-Eleven 大圍 (非24小時營業),7-Eleven Tai Wai (Non-24 Hours),大圍,Tai Wai,22.37365301,114.1972032,新界沙田博泉街1號水泉澳廣場地下G06號舖,"Shop No. G06, G/F, Shui Chuen O Plaza, No. 1 Pok Chuen Street, Shatin, N.T.",FALSE
+733,301,7-Eleven 大圍 (非24小時營業),7-Eleven Tai Wai (Non-24 Hours),大圍,Tai Wai,22.37271794,114.1786981,港鐵大圍站非繳費區6號舖,"Shop No. TAW 6 at Unpaid concourse of MTR Tai Wai Station, Ma On Shan Line, New Territories",FALSE
+1582,935,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.45273829,114.1669473,新界大埔八號花園地下17號舖                              ,"Shop No. 17, G/F, Eightland Gardens, Tai Po, N.T.",TRUE
+1206,609,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4495384,114.1638609,新界大埔北盛街9號翠河花園地下1號舖位,"Shop 1, G/F., Jade Garden, No.9 Pak Shing Street, Tai Po, N.T.",TRUE
+160,51,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4839763,114.1410556,新界大埔大元村商場101-109號舖,"Shop 101 & 109, Comm. Centre, Tai Yuen Estate, Tai Po, NT",TRUE
+861,372,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4476822,114.1674605,新界大埔大明里寶華樓地下1號部份 D及E舖,"Portion D & E, Shop 1, G/F Po Wah Bldg, 1-27 Tai Ming Lane, Tai Po, NT",TRUE
+355,108,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4476406,114.1661927,新界大埔大榮里2及4號行樂樓地下A舖,"Shop A, G/F., Hang Lok Bldg., 2-4 Tai Wing Lane, Tai Po, N.T.",TRUE
+1319,693,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.45134143,114.1621113,新界大埔太和商場2樓202號舖,"Shop No. 202, Level 2, Tai Wo Shopping Centre, Tai Po, New Territories",TRUE
+1311,687,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.45054818,114.1606468,新界大埔太和商場2樓227A號舖,"Shop No. 227A, Level 2, Tai Wo Shopping Centre, Tai Po, New Territories",TRUE
+1101,528,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.453216,114.167647,新界大埔安慈路3號翠屏花園地下8號舖位,"Shop 8, Level 1, Jade Plaza, No.3 On Chee Road, Tai Po, NT.",TRUE
+1045,489,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.452262,114.1702007,新界大埔安泰路1號大埔廣場地下31號舖位,"Unit 31, G/F, Tai Po Plaza, No.1 On Tai Road, Tai Po, N.T",TRUE
+1129,549,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.45260319,114.1719872,新界大埔安邦路3號大埔超級城C區541A地舖,"Shop No. 541A on Level 1, Zone C, Tai Po Mega Mall, 3 On Pong Road, Tai Po, NT",TRUE
+1397,755,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.45264781,114.1689107,新界大埔安邦路9號大埔超級城A區地下011a號舖,"Shop No. 011a on  Level 1, Zone A, Tai Po Mega Mall, 9 On Pong Rd., Tai Po, NT",TRUE
+155,49,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.45411778,114.1747284,新界大埔富善村商場G10舖,"G10 Fu Shin Estate, Tai Po Shopping Centre, Tai Po, NT",TRUE
+1324,697,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.45410787,114.1747177,新界大埔富善村富善商場街市17A號舖,"Shop No. 17A, in the market place at Fu Shin Shopping Centre, Fu Shin Estate, Tai Po, New Territories",TRUE
+169,55,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.44827499,114.1742751,新界大埔廣福村商場P 102-103舖,"Shop P102 & 103, Comm. Centre, Kwong Fuk Estate, Tai Po, NT",TRUE
+691,280,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4475923,114.1688538,新界大埔廣福道148號同福樓地下,"G/F., Tung Fuk Building, No.148 Kwong Fuk Road, Tai Po, NT",TRUE
+653,262,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4484616,114.1674039,新界大埔廣福道93號前部份舖位,"Front Portion of Westmost Shop, G/F, No.93-95 Kwong Fuk Rd, Tai Po, NT",TRUE
+934,417,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4482732,114.1662064,新界大埔懷仁街36號寶仁樓地下C號舖,"Shop C on Ground Floor of PoYan Building, No.36 Wai Yan Street, Tai Po, NT",TRUE
+1222,619,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.452742,114.163216,新界大埔翠怡街3號翠怡花園地下1號舖位," Shop 1, Level 1, Greenery Plaza, No.3 Chui Yi Street, Tai Po, N.T.",TRUE
+422,138,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.453442,114.164888,新界大埔舊墟直街9號銳發大廈地下2號舖位,"Shop 2, G/F, Yuet Fat Mansion, 9 Kau Hui Chik St., Tai Po, N.T.",TRUE
+1377,739,7-Eleven 大埔,7-Eleven Tai Po,大埔,Tai Po,22.4422485,114.1673362,新界大埔運頭塘村運頭塘商場地下11號,"Shop No. 11, Ground Floor of Wan Tau Tong Shopping Centre, Wan Tau Tong Estate, Tai Po, New Territories",TRUE
+1190,597,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.44451435,114.1694605,新界大埔墟港鐵站外11號舖位,"Shop TAP 11 at Unpaid Concourse of MTR Tai Po Market Station, New Territories",FALSE
+1224,621,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.44441767,114.1709974,新界大埔墟車站TAP 2號舖,"Shop No. TAP 2 at MTR Tai Po Market Station, N.T.",FALSE
+1531,884,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.462444,114.152219,新界大埔康樂園康樂園市中心徑1號地下4號舖,"Shop No. 4, G/F, No. 1 Town Centre Crescent, Hong Lok Yuen, Tai Po, N.T.",FALSE
+1367,731,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.4482904,114.1742182,新界大埔廣福商場廣仁樓地下S11號舖,"Shop No. S11 on the Ground Floor of Kwong Yan House, Kwong Fuk Shopping Centre, Tai Po, New Territories",FALSE
+1123,543,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.44343101,114.1692339,新界大埔新達廣場第一層098號舖,"Shop No.098 on Level 1 of Uptown Plaza, Tai Po, N.T.",FALSE
+1563,916,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.4311381,114.2060257,新界大埔科進路21號逸瓏灣商場低層地下LG02及LG03號舖,"Shop Nos. LG02 & LG03, Lower Ground Floor, Mayfair by the Sea II, No. 21 Fo Chun Road, Tai Po, N.T.",FALSE
+1431,788,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.4690319,114.194227,新界大埔露屏路10號香港教育學院中央大樓C座地下C-P-13室,"Room C-P-13, G/F, Central Facilities Building, Block C, The Hong Kong Institute of Education, No.10 Lo Ping Road, Tai Po, N.T.",FALSE
+1401,759,7-Eleven 大埔 (非24小時營業),7-Eleven Tai Po (Non-24 Hours),大埔,Tai Po,22.45074897,114.1611859,港鐵太和站繳費區 TWO 1及2號舖,Shop No. TWO 1 & 2 at Paid Concourse of MTR Tai Wo Station,FALSE
+729,298,7-Eleven 大學 (非24小時營業),7-Eleven University (Non-24 Hours),大學,University,22.321702,114.177987,港鐵大學站非繳費區1號舖,"Shop UNI 1, Unpaid concourse at MTR University Station, New Territories",FALSE
+1234,627,7-Eleven 大嶼山,7-Eleven Lantau Island,大嶼山,Lantau Island,22.310096,114.000903,香港大嶼山愉景灣愉景灣廣場C座地下G38B及G39號舖,"Shop G38B & G39, G/F, Block C, DB Plaza, Discovery Bay City, Lantau Island, HK",TRUE
+1249,637,7-Eleven 大嶼山,7-Eleven Lantau Island,大嶼山,Lantau Island,22.29679475,114.0176207,香港大嶼山愉景灣碼頭C及D號舖,"Spaces No. C& D, Discovery Bay Pier, Lantau Island, Hong Kong",TRUE
+475,169,7-Eleven 大嶼山,7-Eleven Lantau Island,大嶼山,Lantau Island,22.2641337,114.00186,香港大嶼山梅窩銀運路3號梅窩中心地下13號舖,"Shop 13, G/F., & C/1, Mui Wo Centre, No. 3 Ngan Wan Road, Mui Wo, HK",TRUE
+1173,585,7-Eleven 大嶼山,7-Eleven Lantau Island,大嶼山,Lantau Island,22.29664089,113.9210343,香港大嶼山赤獵角駿坪路10號亞洲空運中心第二期貨車停車場3樓舖位 ,"Shop at 3/F, Multi-level truck park, Tower 2, Asia Airfreight Terminal, No.10 Chun Ping Road, Chek Lap Kok, Lantau, Hong Kong",TRUE
+1562,915,7-Eleven 大嶼山 (非24小時營業),7-Eleven Lantau Island (Non-24 Hours),大嶼山,Lantau Island,22.30812928,114.016301,大嶼山愉景灣海澄湖畔路92號LG樓21A號舖,"Shop No. LG21A, LG/F, No. 92 Siena Avenue, DB North Plaza, Discovery Bay, Outlying Island",FALSE
+1008,460,7-Eleven 大嶼山 (非24小時營業),7-Eleven Lantau Island (Non-24 Hours),大嶼山,Lantau Island,22.25609948,113.9029536,新界大嶼山昂坪 昂坪市集地下21號舖位,"Shop No.21, G/F., Ngong Ping Village, Ngong Ping, Lantau Island, N.T",FALSE
+1572,925,7-Eleven 大嶼山 (非24小時營業),7-Eleven Lantau Island (Non-24 Hours),大嶼山,Lantau Island,22.26553968,113.9969771,新界大嶼山梅窩銀礦灣路6號地下6號舖,"Shop No. 6, G/F, No. 6 Ngan Kwong Wan Road, Mui Wo, Lantau Island, N.T",FALSE
+821,347,7-Eleven 大嶼山 (非24小時營業),7-Eleven Lantau Island (Non-24 Hours),大嶼山,Lantau Island,22.3081051,114.0166047,香港大嶼山愉景灣商場C座地下G40A舖 ,"Shop G40A, G/F, Blk C, DB Plaza, Discovery Bay, Lantau Island",FALSE
+1587,940,7-Eleven 大嶼山 (非24小時營業),7-Eleven Lantau Island (Non-24 Hours),大嶼山,Lantau Island,22.31542583,114.0399185,香港大嶼山香港迪士尼公園迪士尼行政大樓二期 BOH-645 室,"BOH-645, Team Disney Two, Hong Kong Disneyland Resort, Lantau, Hong Kong",FALSE
+900,392,7-Eleven 大嶼山 (非24小時營業),7-Eleven Lantau Island (Non-24 Hours),大嶼山,Lantau Island,22.31972343,114.0373886,香港大嶼山香港迪士尼公園迪欣湖活動中心,"Boat House (Portion), Inspiration Lake Recreation Center, Hong Kong Disneyland Resort, Lantau Island, Hong Kong",FALSE
+1264,651,7-Eleven 大角咀,7-Eleven Tai Kok Tsui,大角咀,Tai Kok Tsui,22.3198494,114.1656248,九龍大角咀塘尾道51號新港豪庭地下D號舖,"Shop D, G/F, Metro Regalia, 51 Tong Mi Rd., Tai Kok Tsui, KLN",TRUE
+1490,843,7-Eleven 大角咀,7-Eleven Tai Kok Tsui,大角咀,Tai Kok Tsui,22.322102,114.16161,九龍大角咀大全街6-20號及大角咀道129-137號大同新?大富樓地下A1E舖,"Shop A1E, G/F, Tai Fu Building, Nos.6-20 Tai Tsun Street, Nos.129-137 Tai Kok Tsui Road, Cosmopolitan Estate, Kowloon",TRUE
+1194,600,7-Eleven 大角咀,7-Eleven Tai Kok Tsui,大角咀,Tai Kok Tsui,22.3212566,114.1611671,九龍大角咀大同新? 埃華街67-87號大眾樓地下K1舖位,"Shop No.K1 on G/F., Tai Chung Building, Nos.67-87 Ivy Street, Cosmopolitan Estate, Tai Kok Tsui, Kowloon",TRUE
+275,81,7-Eleven 大角咀,7-Eleven Tai Kok Tsui,大角咀,Tai Kok Tsui,22.3197653,114.1626069,九龍大角咀新九龍廣場地下79-80號舖,"Shop 079-080, G/F, New Kowloon Plaza, Taikoktsui, Kln",TRUE
+148,44,7-Eleven 大角咀,7-Eleven Tai Kok Tsui,大角咀,Tai Kok Tsui,22.3208349,114.1645344,九龍大角咀福全街25號宏福樓地下,"G/F., 25 Fuk Tsuen Street, Wang Fuk House, Kln",TRUE
+1217,616,7-Eleven 大角咀,7-Eleven Tai Kok Tsui,大角咀,Tai Kok Tsui,22.3245393,114.160445,九龍大角咀福利街八號港灣豪庭廣場地下G34號舖,"Shop G34, G/F,  Metro Harbour Plaza, No. 8 Fuk Lee Street, Tai Kok Tsui, Kowloon",TRUE
+93,22,7-Eleven 大角咀,7-Eleven Tai Kok Tsui,大角咀,Tai Kok Tsui,22.3206456,114.1617244,九龍大角咀道79號興旺大廈地下7號舖,"Shop 7, G/F, Hing Wong Mansion, 79 Tai Kok Tsui Road, Kln",TRUE
+717,291,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.45278911,114.000417,元朗天水圍嘉湖山莊樂湖居新北江商場地下4號舖                                ,"Shop No.4 of Portion B, G/F., Commercial Development, Locwood Court, Kingswood Villas, No.1 Tin Wu Road, Tin Shui Wai, NT",TRUE
+528,197,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.45733035,114.0046442,新界元朗天水圍嘉湖銀座第 2 期地下G33-G34號舖位,"Shop G33-G34, G/F, Phase 2, Kingswood Ginza, Tin Shui Wai, NT",TRUE
+463,159,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.45171575,114.001506,新界元朗天水圍天湖路1號嘉湖新北江商場地下A10-A13號舖位,"Shop A10-A13, G/F., Kingswood Richly Plaza, 1 Tin Wu Road, Tin Shui Wai, NT",TRUE
+1250,638,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.45854991,114.0017313,"新界天水圍俊宏軒俊宏廣場L01, L02及L03號舖","Shop Nos. L01, L02 & L03, Ground Floor, Grandeur Terrace, Tin Shui Wai, NT",TRUE
+814,342,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.46831844,114.0000764,新界天水圍俊宏軒商場L29號舖,"Shop No L29 on Ground Floor of Grandeur Terrace, Tin Shui Wai.",TRUE
+694,281,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.46818708,114.0003526,新界天水圍俊宏軒地下G02舖位,"Ground Floor, Grandeur Terrace, Tin Shui Wai Town Lot No.28, Yuen Long, NT",TRUE
+1266,652,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.457916,114.002851,新界天水圍天恩路12-18號嘉湖銀座一期地下G58-60號舖,"Shop 58-60, G/F., Phase 1 of Fortune Kingswood, Tin Shui Wai, NT",TRUE
+1368,732,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.457916,114.002851,新界天水圍天恩路12至18號嘉湖銀座廣場1期地下G73B號舖,"Shop No. G73B, G/F., of Phase 1, Fortune Kingswood, 12-18 Tin Yan Road, Tin Shui Wai, NT",TRUE
+840,358,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.45328984,114.0073827,新界天水圍天慈村天慈商場2號舖,"Shop 2, Tin Tsz Shopping Centre, Tin Shui Wai, New Territories",TRUE
+1233,626,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.46232752,114.0033674,新界天水圍天晴?天晴商場地下7號舖位  ,"Shop 7, G/F., Tin Ching Shopping Centre, Tin Ching Estate, Tin Shui Wai, N.T.",TRUE
+1553,906,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.45075765,114.0043561,新界天水圍天湖路天耀廣場地下L032號舖,"Shop No. L032, G/F, Tin Yiu Plaza, Tin Yiu Estate, Tin Wu Road, Tin Shui Wai, N.T.",TRUE
+622,246,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.4682416,113.9988399,新界天水圍天澤村天澤商場地下11號舖位,"Shop No.11 G/F., Tin Chak Shopping Ctr., Tin Chak Est., Tin Shui Wai, NT",TRUE
+1526,879,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.456017,113.998373,新界天水圍天瑞 (I及II) ?天瑞商場地下G1A號舖,"Shop No. G1A, G/F, Tin Shui Shopping Centre, Tin Shui (I & II) Estate, Tin Shui Wai, N.T.",TRUE
+1139,557,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.46125424,113.9964795,新界天水圍天華?服務設施大樓地下1A號舖位,"Shop 1A, Free Standing Building, Tin Wah Estate, Tin Shui Wai, N.T.",TRUE
+1433,790,7-Eleven 天水圍,7-Eleven Tin Shui Wai,天水圍,Tin Shui Wai,22.4615626,113.9977878,新界天水圍頌富廣場1期地下1號及2號舖,"Shop Nos. 1 & 2, G/F, Chung Fu Plaza Phase 1, Tin Shui Wai, N.T.",TRUE
+795,332,7-Eleven 天水圍 (非24小時營業),7-Eleven Tin Shui Wai (Non-24 Hours),天水圍,Tin Shui Wai,22.44826507,114.0048453,天水圍西鐵站35號舖,"Shop TIS 34-35, Paid Concourse at MTR Tin Shui Wai West Rail Line Station, New Territories",FALSE
+699,282,7-Eleven 天水圍 (非24小時營業),7-Eleven Tin Shui Wai (Non-24 Hours),天水圍,Tin Shui Wai,22.44827747,114.0046334,新界九廣西鐵天水圍站非繳費區1-2號舖,"Shop No. TIS 1-2 at Unpaid Concourse, MTR Tin Shui Wai Station, New Territories",FALSE
+1172,584,7-Eleven 天水圍 (非24小時營業),7-Eleven Tin Shui Wai (Non-24 Hours),天水圍,Tin Shui Wai,22.45727086,114.0047514,新界天水圍嘉湖銀座二期地下G07A號舖,"Shop No. G07A on Ground Floor of Phase 2, Fortune Kingswood, Tin Shui Wai, NT",FALSE
+1588,941,7-Eleven 天水圍 (非24小時營業),7-Eleven Tin Shui Wai (Non-24 Hours),天水圍,Tin Shui Wai,22.46547545,113.9989692,新界天水圍天秀路8號1樓1116號舖,"Shop No. 1116, 1/F, the development to be erected on Tin Shui Wai Town Lot No.26, No. 8 Tin Sau Road, Tin Shui Wai, N.T.",FALSE
+1556,909,7-Eleven 天水圍 (非24小時營業),7-Eleven Tin Shui Wai (Non-24 Hours),天水圍,Tin Shui Wai,22.46117244,113.9980379,新界天水圍頌富廣場1樓L117A號舖,"Shop No. L117A, 1/F, Chung Fu Plaza (Phase 1), Tin Chung Court, Tin Shui Wai, Yuen Long, N.T.",FALSE
+486,176,7-Eleven 太古城,7-Eleven Tai Koo Shing,太古城,Tai Koo Shing,22.28597428,114.2184162,香港太古太古城第3期富山閣地下14號舖位,"Shop G14 on G/F., Fu Shan Mansion, Stage III, Tai Koo Shing, HK",TRUE
+1260,647,7-Eleven 太古城,7-Eleven Tai Koo Shing,太古城,Tai Koo Shing,22.285279,114.220157,香港港島東太古城第5期寧安閣G506至G507號舖,"Shop Nos. G506~G507, Ning On Mansion, Stage V, Taikoo Shing, Island East, Hong Kong",TRUE
+775,325,7-Eleven 太古城 (非24小時營業),7-Eleven Tai Koo Shing (Non-24 Hours),太古城,Tai Koo Shing,22.28465393,114.2163295,太古地鐵站3號舖(閘內),Kiosk TAK 15 at MTR Tai Koo Station,FALSE
+1472,826,7-Eleven 太古城 (非24小時營業),7-Eleven Tai Koo Shing (Non-24 Hours),太古城,Tai Koo Shing,22.286399,114.220274,香港太古太古城太榮路2號南海閣(T-54座)地下G901C舖,"Shop No. G901C, G/F, Nam Hoi Mansion (Tower 54), No. 2 Tai Wing Avenue, Tai Koo Shing, Hong Kong",FALSE
+556,210,7-Eleven 太古城 (非24小時營業),7-Eleven Tai Koo Shing (Non-24 Hours),太古城,Tai Koo Shing,22.28368103,114.2154014,香港康怡花園康安街2-8號地下A5號舖位,"Shop No.A5, G/F., Nos.2-8 Hong On St., Kornhill, HK",FALSE
+1497,850,7-Eleven 太子,7-Eleven Prince Edward,太子,Prince Edward,22.324847,114.167356,"九龍旺角基隆街2, 2A, 4, 4A, 8-16號及砵蘭街379A-379E號華寶大廈地下8號舖","Shop No. 8, G/F, Wah Po Mansion, Nos. 2, 2A, 4, 4A, 8-16 Ki Lung Street & Nos. 379A-379E Portland Street, Kowloon",TRUE
+1487,841,7-Eleven 太子,7-Eleven Prince Edward,太子,Prince Edward,22.3243663,114.1676548,九龍砵蘭街372-378號地下A號舖,"Shop A on G/F, Nos. 372-378 Portland Street, Kowloon",TRUE
+1474,828,7-Eleven 太子 (非24小時營業),7-Eleven Prince Edward (Non-24 Hours),太子,Prince Edward,22.32407052,114.168224,港?太子站PRE18號舖,Kiosk No. PRE18 at MTR Prince Edward Station,FALSE
+710,287,7-Eleven 太子 (非24小時營業),7-Eleven Prince Edward (Non-24 Hours),太子,Prince Edward,22.32463127,114.1682482,港鐵太子站9及10號舖位,"Kiosk PRE 9 & PRE 10, Prince Edward MTR Station, KLN",FALSE
+1415,772,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.30381768,114.2502326,將軍澳善明?善智樓地下1號舖位,"Shop No. 1, G/F., Shin Chi House, Shin Ming Estate, Tseung Kwan O, NT",TRUE
+662,268,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.31557967,114.2643785,將軍澳坑口站HAH1號舖位,"Concession HAH 1 at MTR Hang Hau Station, Tseung Kwan O, NT",TRUE
+1428,785,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.316094,114.262367,將軍澳常寧路10號安寧花園第二座地下17號舖,"Shop 17, G/F, Block 2, On Ning Garden, No.10 Sheung Ning Road, Tseung Kwan O, N.T.",TRUE
+627,250,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.30598653,114.2511821,將軍澳彩明商場1號舖位,"Shop 1, Choi Ming Shopping Centre, Tseung Kwan O, NT",TRUE
+579,223,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.3109738,114.2611767,"新界唐明街1號將軍澳富康花園地下53, 54, 57及58號舖位","Shop 53-54& 57-58, G/F, Beverly Garden, 1 Tong Ming St, Tseung Kwan O, NT",TRUE
+1111,534,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.31727441,114.2647728,新界將軍澳厚德?厚德商場東翼地下G41-42號舖,"Shop No. G41-42 on G/F., East Wing, Hau Tak Shopping Centre, Hau Tak Estate, Tseung Kwan O, N.T.",TRUE
+1514,867,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.306734,114.262383,新界將軍澳唐俊街11號寶盈花園地下S7及S7A舖,"Shop Nos. S7 & S7A, G/F of Commercial Centre, Bauhinia Garden, 11 Tong Chun Street, Tseung Kwan O, N.T.",TRUE
+576,221,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.32064645,114.2665243,新界將軍澳坑口村地下4號A舖位,"G/F., 4A Hang Hau Village, Tseung Kwan O, NT",TRUE
+1166,579,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.32529374,114.2561898,新界將軍澳寶林?寶林購物中心二樓206號舖位,"Shop 206, 2/F of Po Lam Shopping Centre, Po Lam Estate, Tseung Kwan O, N.T.",TRUE
+1508,861,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.3065039,114.2630811,新界將軍澳怡明?怡悅樓地下1號?,"Shop No.1, G/F, Yee Yuet House, Yee Ming Estate, Tseung Kwan O, N.T.",TRUE
+293,86,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.32084992,114.2615676,新界將軍澳景林村景林商場第2號舖    ,"Shop No. 2, G/F, King Lam Shopping Centre, King Lam Estate, No. 38 Po Lam Road North, Tseung Kwan O, N.T.",TRUE
+499,182,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.3239167,114.2545187,新界將軍澳毓雅里7號富麗花園地下2號舖,"Shop No. 2, G/F., Finery Park, 7 Yuk Nga Lane, Tseung Kwan O, NT",TRUE
+1346,714,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.32268602,114.2491382,新界將軍澳翠林村翠林商場5樓123號舖,"Shop No. 123, 5/F, Tsui Lam Shopping Centre, Tsui Lam Estate, Tseung Kwan O, New Territories",TRUE
+480,171,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.322671,114.255324,新界將軍澳貿泰路8號茵怡花園第3座地下10號舖,"Shop 10, G/F., Blk 3, Verbena Heights, 8 Mau Tai Rd., Tseung Kwa O, NT",TRUE
+550,207,7-Eleven 將軍澳,7-Eleven Tseung Kwan O,將軍澳,Tseung Kwan O,22.313879,114.265714,新界將軍澳銀澳路1號新寶城新寶城商場地下28-29舖位,"Shop 28-29, G/F., La Cite Noble Shopping Centre, La Cite Noble, No.1 Ngan O Road, Tseung Kwan O, NT",TRUE
+1412,769,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.310416,114.256385,將軍澳唐明街2號尚德商場2樓228號舖,"Shop No. 228, 2/F., Sheung Tak Shopping Centre, Sheung Tak Estate, Tseung Kwan O, N.T.",FALSE
+661,267,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.32244782,114.2578125,將軍澳寶琳站POA7號舖位,"Concession POA 7 at MTR Po Lam Station, Tseung Kwan O, NT",FALSE
+1585,938,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.30779801,114.25913,新界將軍澳唐俊街12號天晉匯1樓107號舖,"Shop No.107 on First Floor of Pop Walk, No. 12 Tong Chun Street, Tseung Kwan O, N.T.",FALSE
+1424,781,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.314742,114.2657466,新界將軍澳培成路18號海悅豪園購物商場地下上層2及3號舖,"Shop 2 & 3, Upper Ground Floor, Maritime Bay Shopping Mall, 18 Pui Shing Road, Tseung Kwan O, N.T",FALSE
+1297,676,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.31444,114.263394,新界將軍澳培成路8號南豐廣場1樓B03A號舖,"Shop B03A, Podium Level One, Nan Fung Plaza, No. 8 Pui Shing Road, Tseung Kwan O, N.T.",FALSE
+1590,943,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.3236814,114.2574524,新界將軍澳新都城2期1樓1003號?,"Shop No. 1003 on Level 1 of Metro City Phase II, Tseung Kwan O, N.T.",FALSE
+805,340,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.32246023,114.2569649,新界將軍澳新都城中心第3期2樓243號舖,"Shop 243 on Level 2, Metro City Phase III, The Metropolis, Sai Kung NT",FALSE
+1092,520,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.304566,114.251152,新界將軍澳景嶺路八號，調景嶺地鐵站上蓋都會?商場第三層L3-001號舖位,"Shop No.L3-001 at Level 3 of Metro Town, Tiu Keng Leng MTR Station, No. 8 King Ling Road, Tseung Kwan O, N.T.",FALSE
+1455,811,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.320683,114.256649,新界將軍澳運亨路1號新都城中心一期2樓237號舖,"Shop No. 237, Level 2, Metro City Phase I, 1 Wan Hang Road, Tseung Kwan O, NT",FALSE
+827,351,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.31969366,114.2525929,新界西貢將軍澳寶琳北路1號康盛花園商場一樓114號舖位,"Shop 114, 1/F, Commercial & Garage Block, Hong Sing Garden, 1 Po Lam Road North, Tseung Kwan O, Sai Kung, NT",FALSE
+838,357,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.3060498,114.2511234,新界調景嶺彩明商場2樓205號舖位,"Shop No. 205, 2/F, Choi Ming Shopping Center, Tseung Kwan O, NT",FALSE
+738,304,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.31557967,114.2644215,港鐵坑口站HAH 12號舖位,"Kiosk HAH 12 Hang Hau MTR Station, KLN",FALSE
+736,302,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.32246767,114.2578769,港鐵寶琳站POA 1號舖位,"Kisok POA 1 Po Lam MTR Station, KLN",FALSE
+737,303,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.30732157,114.2600012,港鐵將軍澳站TKO 1號舖位,"Kisok TKO 1 Tseung Kwan O MTR Station, KLN",FALSE
+1567,920,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.30754242,114.2605537,港鐵將軍澳站TKO16號舖,Concession No. TKO 16 at MTR Tseung Kwan O Station,FALSE
+1315,689,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.29591624,114.2695284,港鐵康城站LHP 1號舖,Concession No. LHP 1 at MTR LOHAS Park Station,FALSE
+1316,690,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.29572763,114.2688525,港鐵康城站LHP 4號舖,Concession No. LHP 4 at MTR LOHAS Park Station,FALSE
+739,305,7-Eleven 將軍澳 (非24小時營業),7-Eleven Tseung Kwan O (Non-24 Hours),將軍澳,Tseung Kwan O,22.30370849,114.2521477,港鐵調景嶺站TIK 1號舖位,"Kiosk TIK 1 Tiu Keng Leng MTR Station, KLN",FALSE
+804,339,7-Eleven 小西灣 (非24小時營業),7-Eleven Siu Sai Wan (Non-24 Hours),小西灣,Siu Sai Wan,22.26646058,114.2500153,香港小西灣藍灣半島上層地下60號舖,"Shop No.60 UG/F, Island Resort Mall, 28 Siu Sai Wan Road, Chai Wan",FALSE
+563,213,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.30259055,114.172018,九龍佐敦彌敦道176號好收成大廈地下D舖及C舖後半部份(舖面向山林道),"Shop D and Rear Portion of Shop C, G/F., Good Results Building, 176 Nathan Rd., Jordan, KLN",TRUE
+1445,801,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2958686,114.1728713,九龍尖沙咀中間道5-6號遠東大廈地下9號舖位,"Shop No.9, G/F, Far East Mansion, Nos.5-6 Middle Road, T.S.T., Kowloon",TRUE
+1355,721,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2972567,114.1726391,九龍尖沙咀加拿分道1-9號美麗都大廈地下58號舖,"Shop 58 on G/F, Mirador Mansion, Nos.1-9 Carnarvon Road, TST, KLN",TRUE
+887,387,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2985613,114.1739669,九龍尖沙咀加拿分道33至35號發利大廈地下33S舖位,"Shop 33S, G/F., James S. Lee Mansion, No.33-35 Carnarvon Rd, TST, KLN",TRUE
+672,273,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2982188,114.1733125,九龍尖沙咀加拿芬道22號地下舖位,"G/F., No.22 Carnarvon Road, TST, KLN",TRUE
+1565,918,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.30086462,114.1782019,九龍尖沙咀加連威老道100號港晶中心地下56-57號舖,"Shop Nos. 56-57, G/F, Harbour Crystal Centre, No.100 Granville Road, Tsim Sha Tsui, Kowloon",TRUE
+1246,634,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.297072,114.1706759,九龍尖沙咀宜昌街6號地下部份,"Portion of Ground Floor, No.6 Ichang Street, Tsim Sha Tsui, Kowloon",TRUE
+1130,550,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.3026088,114.1754722,九龍尖沙咀柯士甸路14-18號僑豐大廈地下5及5A號舖位,"Shop No.5 & 5A, G/F., Kiu Fung Mansion, Nos.14-18 Austin Avenue, TST, KLN",TRUE
+327,97,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.29470021,114.1690153,九龍尖沙咀梳利士巴道3號星光行地下7號舖,"Shop 7, G/F Star House, 3 Salisbury Road, TST, Kln",TRUE
+523,196,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.297612,114.1713928,九龍尖沙咀樂道23號地下B舖位,"Shop B, G/F., No. 23 Lock Road, TST, KLN",TRUE
+1302,679,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.298007,114.173865,九龍尖沙咀河內道1A號地下,"Ground Floor, No.1A Hanoi Road, Tsim Sha Tsui, Kowloon",TRUE
+400,130,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2970722,114.1751935,九龍尖沙咀漆咸道17-19號帝后廣場地下12號舖,"Shop 12, G/F, Empress Plaza, 17-19 Chatham Rd., TST, Kln.",TRUE
+508,188,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.300959,114.1761942,九龍尖沙咀漆咸道南81號南海大廈地下A舖(舖面向天文台道),"Shop A, G/F., South Sea Apartment, 81 Chatham Road South, TST, KLN",TRUE
+1041,485,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2960773,114.1714083,九龍尖沙咀漢口道8-10號漢中大廈地下A舖,"Shop A, G/F, Hanchung Mansion, 8-10 Hankow Road, TST, Kln",TRUE
+308,91,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2979489,114.1741949,九龍尖沙咀赫德道5-9A德裕中心地下1及2號舖,"Shop 1 & 2, G/F, Hart Avenue Plaza, 5-9A Hart Avenue, TST, Kln",TRUE
+1033,480,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.3003372,114.1730106,九龍尖沙咀金巴利道20號香檳大廈地下A舖,"Shop A, G/F, Champagne Court, 20 Kimberley Road, TST, Kln",TRUE
+746,312,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.3017935,114.1755154,九龍尖沙咀金巴利道74-76號奇盛中心地下B號舖位,"Shop Unit B on G/F., Kee Shing Centre, 74-76 Kimberley Road, TST, KLN",TRUE
+1458,814,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2968418,114.1733357,九龍尖沙咀麼地道16號半島大廈地下6號舖,"Shop No. 6, G/F, Peninsula Apartments, No.16 Mody Road , T.S.T., Kowloon",TRUE
+1156,570,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.2971396,114.1722443,"九龍尖沙咀麼地道1A-1H及1J美麗都大廈地下27, 28號舖位及1樓34室","Shop 27-28 G/F, Shop 34 on 1/F, Mirador Mansion, 1A-1H & 1J Mody Rd, TST, Kln",TRUE
+464,160,7-Eleven 尖沙咀,7-Eleven Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui,22.3008235,114.1735215,九龍金巴利道27-33號永利大廈地下3號舖,"Shop 3, G/F., Wing Lee Bldg., 27-33 Kimberley Road, Kowloon",TRUE
+1035,482,7-Eleven 尖沙咀 (非24小時營業),7-Eleven Tsim Sha Tsui (Non-24 Hours),尖沙咀,Tsim Sha Tsui,22.29382417,114.1686049,九龍尖沙咀天星碼頭 KP-3舖位,Tsim Sha Tsui Star Ferry Kowloon Point Ferry Pier Shop KP-3,FALSE
+1053,495,7-Eleven 尖沙咀 (非24小時營業),7-Eleven Tsim Sha Tsui (Non-24 Hours),尖沙咀,Tsim Sha Tsui,22.30025414,114.1674328,九龍尖沙咀廣東道33號中港城 UG/F 48-49舖,"Shop 48-49, Upper Ground Floor, China Hong Kong City, 33 Canton Road, Tsimshatsui, KLN",FALSE
+1189,596,7-Eleven 尖沙咀 (非24小時營業),7-Eleven Tsim Sha Tsui (Non-24 Hours),尖沙咀,Tsim Sha Tsui,22.29763355,114.1722018,九龍尖沙咀港鐵站外12號舖位,"Kiosk No. TST 12 at Unpaid Concourse of MTR Tsim Sha Tsui Station, Kolwoon",FALSE
+1330,702,7-Eleven 尖沙咀 (非24小時營業),7-Eleven Tsim Sha Tsui (Non-24 Hours),尖沙咀,Tsim Sha Tsui,22.29756406,114.1721427,港鐵 尖沙咀站繳費區 TST 7舖位,"Kiosk. No. TST 7 at Paid Concourse of Tsim Sha Tsui MTR Station, Kowloon",FALSE
+1329,701,7-Eleven 尖沙咀 (非24小時營業),7-Eleven Tsim Sha Tsui (Non-24 Hours),尖沙咀,Tsim Sha Tsui,22.29757399,114.1721803,港鐵尖沙咀站非繳費區 TST 5舖位,"Kiosk. No. TST 5 at Unpaid Concourse of Tsim Sha Tsui MTR Station, Kowloon",FALSE
+1347,715,7-Eleven 尖沙咀 (非24小時營業),7-Eleven Tsim Sha Tsui (Non-24 Hours),尖沙咀,Tsim Sha Tsui,22.30362164,114.1668749,港鐵柯士甸站(繳費區)AUS114號舖,"Shop AUS 114, (Paid Concourse of) MTR Austin Station",FALSE
+1385,746,7-Eleven 尖沙咀 (非24小時營業),7-Eleven Tsim Sha Tsui (Non-24 Hours),尖沙咀,Tsim Sha Tsui,22.30496911,114.1663384,港鐵柯士甸站非繳費區AUS111號舖,Shop AUS111 at Unpaid Concourse of MTR Austin Station,FALSE
+253,77,7-Eleven 尖沙咀東,7-Eleven Tsim Sha Tsui East,尖沙咀東,Tsim Sha Tsui East,22.29970447,114.1774683,九龍尖沙咀東加連威老道96號希爾頓中心地庫1號舖,"Shop 1, Lower G/F, Hilton Tower, 96 Granville Road, Tsimshatsui East, Kln",TRUE
+1521,874,7-Eleven 尖沙咀東,7-Eleven Tsim Sha Tsui East,尖沙咀東,Tsim Sha Tsui East,22.2980097,114.1768149,九龍尖沙咀東麼地道63號好時中心地下G23號舖,"Shop G23, G/F, Houston Centre, No. 63 Mody Road, Tsim Sha Tsui East, Kowloon",TRUE
+1547,900,7-Eleven 尖沙咀東,7-Eleven Tsim Sha Tsui East,尖沙咀東,Tsim Sha Tsui East,22.29841775,114.1781844,九龍尖沙咀麼地道68號帝國中心地下G9-G11舖,"Shop Nos. G9-G11, G/F, Empire Centre, No. 68 Mody Road, Tsim Sha Tsui, Kowloon",TRUE
+1365,729,7-Eleven 尖沙咀東,7-Eleven Tsim Sha Tsui East,尖沙咀東,Tsim Sha Tsui East,22.300215,114.1782124,尖沙咀東科學館道14號新文華商業中心地下1E舖位,"Shop No.1E of Retail Portions on the Ground Floor of Commercial Podium Mandarin Plaza, No14 Science Museum Road, TST East, Kln",TRUE
+1100,527,7-Eleven 尖沙咀東 (非24小時營業),7-Eleven Tsim Sha Tsui East (Non-24 Hours),尖沙咀東,Tsim Sha Tsui East,22.2950056,114.1751325,九龍尖東火車站地面34號舖位,"Shop ETS 34 at Ground Floor of MTR East Tsim Sha Tsui Station, Kowloon",FALSE
+1410,767,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.4063965,113.9628178,屯門田景路31號良景?良景商場1樓L101號舖,"Shop no. L101, Level 1, Commercial/ Car Park Block, Leung King Shopping Centre, Leung King Estate, No 31 Tin King Rd., Tuen Mun, N.T.",TRUE
+471,166,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.4259644,113.9994356,新界元朗洪水橋第4280號地段麗珊園地下2號舖,"Shop 2 G/F., Beauty Court, Hung Siu Kiu Lot 4280 in D.D. 124, Yuen Long, NT",TRUE
+1061,500,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.40245122,113.9778247,新界屯門 井財街15號金銘大廈地下21號舖位,"Shop 21, G/F, Kam Men Mansion, 15 Tseng Choi Street, Tuen Mun, N.T.",TRUE
+216,65,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3812751,113.977948,新界屯門三聖村豐漁樓地下2號舖,"Shop 2, Fung Yu House, Sam Shing Estate, Tuen Mun, NT",TRUE
+67,14,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3965363,113.9769258,新界屯門仁愛堂圍42-58號金滿閣地下A及B舖,"G/F., Shops A & B, Golden Court, 42-58 Yan Oi Tong Circuit, Tuen Mun, NT",TRUE
+350,105,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.38471965,113.9767706,新界屯門兆麟苑商場地下第1-2號舖,"Shop 1-2, Siu Lun Court Shopping Centre, Siu Lun Court, Tuen Mun, N.T.",TRUE
+1032,479,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3962621,113.9749668,新界屯門啟民徑15-45號美恆大樓地下12號舖位,"Shop 12, G/F, Mei Hang Building, No. 15-45, Kai Man Path, Tuen Mun, N.T.",TRUE
+519,194,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.39997886,113.9725167,新界屯門大興花園1期商場平台地下2及3號舖位,"Shop 2-3 G/F, Commercial Podium Phase I of Tai Hing Garden, Tsuen Mun, NT",TRUE
+1096,524,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3875601,113.9757177,新界屯門安定?定祥樓地下101號舖位,"Shop No.101, G/F., Ting Cheung House, On Ting Estate, Tuen Mun, N.T.",TRUE
+1252,640,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.39394779,113.9762047,新界屯門屯隆街3號屯門市廣場2期地下7號舖,"Shop No.7 on Ground Floor, Tuen Mun Town Plaza, Phase II, 3 Tuen Lung Street, Tuen Mun, New Territories",TRUE
+98,25,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.39663105,113.9662778,新界屯門山景村商場中心8-9號舖,"8-9 Comm. Centre, Shan King Estate, Tuen Mun, NT",TRUE
+1165,578,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.39893237,113.966825,新界屯門山景購物中心地下110號舖位,"Shop No.110 on the Ground Floor of Shan King Shopping Centre, Tuen Mun, N.T.",TRUE
+212,63,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.39320877,113.9775056,新界屯門市廣場第一期55號地舖,"Shop 55, G/F, Tuen Mun Town Plaza, Phase I, TMTL 209, NT.",TRUE
+290,85,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3811514,113.9643672,新界屯門新屯門商場三樓178-180號舖,"Shop 178-180, Level 3, Sun Tuen Mun Shopping Centre, Tuen Mun, NT",TRUE
+1187,595,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.402352,113.979807,新界屯門景峰徑 2號景峰花園地下G09及G10號舖位 ,"Shop G09 & G10, G/F., Prime View Garden, No.2 King Fung Path, Tuen Mun, NT",TRUE
+1154,568,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3738515,113.9691894,新界屯門湖秀街2號悅湖山莊地下70-72及99-101號舖位,"Shop Nos.70-72, 99-101, G/F., Yuet Wu Villa, No.2 Wu Sau Street, Tuen Mun, N.T.",TRUE
+1021,470,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3725674,113.9663783,新界屯門湖翠路168-236號海趣坊84號舖位,"Shop No.84, Ocean Walk, 168-236 Wu Chui Road, Tuen Mun, N.T.",TRUE
+624,248,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.373568,113.962322,新界屯門湖翠路2號美樂花園地71號舖位,"Shop No.71 on G/F., Melody Garden, No.2 Wu Chui Road, Tuen Mun, NT",TRUE
+1292,671,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.400526,113.971001,新界屯門石排頭路11號康德花園地下4號部份舖位,"Portion of Shop 4 on Ground Floor, Hong Tak Gardens, No.11 Shek Pai Tau Road, Tuen Mun, N.T.",TRUE
+384,123,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.4076909,113.968327,新界屯門良德街12號海麗花園第G16A舖地下,"Shop no. G16A, Venice Gardens, 12 Leung Tak Street, Tuen Mun, NT",TRUE
+1124,544,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.4187747,113.9855449,新界屯門藍地福亨村路8號豫豐花園 S & R號舖,"Shop Nos.S & Portion of Shop No.R on the G/F, The Sherwood, No.8 Fuk Hang Tsuen Road, Lam Tei, Tuen Mun, N.T.",TRUE
+1574,927,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3986633,113.975113,新界屯門鄉事會路117-157號及青賢街2A-2I號康麗花園屯門巴黎倫敦紐約戲院商場地下17A舖,"Shop No. 17A, G/F, Tuen Mun Paris London New York Cinema Shopping Centre, Hong Lai Garden, Nos. 117-157 Tuen Mun Heung Sze Wui Road, Nos. 2A-2I Tsing Yin Street, Tuen Mun, N.T.",TRUE
+435,144,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.40750492,113.9766768,新界屯門醫院主樓地下便利店舖位,"Convenience Store at G/F., Atrium Block, Tuen Mun Hospital, Tuen Mun, NT",TRUE
+1320,694,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3714599,113.9927393,"新界屯門青山公路1號香港黃金海岸黃金海岸商場地下15, 16及17號舖位","Shop Nos.15, 16 & 17 on G/F, Marina Magic Shopping Mall, Hong Kong Gold Coast, 1 Castle Peak Road, Tuen Mun, NT",TRUE
+1007,459,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.385692,113.980365,"新界屯門青山公路351號彩華花園地下24號舖A,B及C 部份","Portion of A,B,C of Unit 24 on G/F., The Rainbow Garden, No.351 Castle Peak Road, Tuen Mun, NT",TRUE
+211,62,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.3881582,113.9789385,新界屯門青河坊18號置樂花園地下55-56號舖,"G/F., Shop 55-56, Chi Lok Fa Yuen, 18 Tsing Hoi Circuit, Tuen Mun, NT",TRUE
+713,289,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.38899775,113.978616,新界屯門青海圍6號屯門花園地下M舖位,"Shop M, G/F., Tuen Mun Fa Yuen, 6 Tsing Hoi Circuit, Tuen Mun, NT",TRUE
+570,218,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.38409714,113.9667499,新界屯門龍門路43號龍門居地下39號部份舖位,"Shop 39A, G/F, Lung Mun Oasis, 43 Lung Mun Road, Tuen Mun, NT",TRUE
+1398,756,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.382513,113.966183,新界屯門龍門路45號富健花園地下63號舖位,"Shop 63, G/F., Glorious Garden, No.45 Lung Mun Road, Tuen Mun, N.T.",TRUE
+458,156,7-Eleven 屯門,7-Eleven Tuen Mun,屯門,Tuen Mun,22.36619456,114.0589106,新界深井麗都花園地下2號舖,"Shop No.2, G/F., Lido Garden, Sham Tseng, NT",TRUE
+794,331,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.39488024,113.9731121,屯門西鐵站25號舖,"Shop TUM 25, Unpaid Concourse at MTR Tuen Mun Station, New Territories",FALSE
+943,425,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.41098389,113.9785194,新界九廣西鐵兆康站非繳費區18號舖位,"Shop No. SIH 18 at Unpaid Concourse of MTR Siu Hong West Rail Line Station, New Territories",FALSE
+745,311,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.40054673,113.9743701,新界屯門 TMT Lot No.396卓爾廣場一字樓120及12號舖位,"Shop Nos. 120 & 125 on Level 1 of Commercial complex of Chelsea Heights, Tuen Mun Town Lot No.396, Tuen Mun, NT",FALSE
+1380,742,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.39215726,113.9758641,新界屯門TMTL 282 時代廣場南翼第三層11號舖位,"Shop No. 11 on Level 3, South Wing, Trend Plaza, Tuen Mun, TMTL282, NT",FALSE
+1473,827,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.3953946,113.9739056,新界屯門屯門鄉事會路83號V City地下G-12號舖,"Shop G-12, G/F., V City, No. 83 Tuen Mun Heung Sze Wui Road, Tuen Mun, N.T.",FALSE
+1372,735,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.3959914,113.9695379,新界屯門建榮街25號百利中心地下2A號舖,"Workshop No. 2A on G/F, Parklane Centre, 25 Kin Wing Street, Tuen Mun, N.T.",FALSE
+798,335,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.38254087,113.9777832,新界屯門恆福中心商場101號舖,"Shop 101 G/F, Hanford Plaza, 333 Castle Peak Rd, Castle Peak Bay, Tuen Mun, NT",FALSE
+529,198,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.36723138,114.0129724,新界屯門浪琴軒地庫二層001號舖位,"Shop No.001 on Basement 2, Palatial Coast, Tuen Mun, NT",FALSE
+1527,880,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.374663,113.963247,新界屯門蝴蝶?蝴蝶廣場地下R105號舖,"Shop No. R105, G/F, Butterfly Plaza, Butterfly Estate, Tuen Mun, N.T.",FALSE
+1128,548,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.384158,113.974356,新界屯門豐安街2號翠寧花園地下4號舖位 ,"Shop 4 on G/F., Tsui Ning Garden, No.2 Fung On Street, Tuen Mun, NT.",FALSE
+702,283,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.3677422,114.0609154,新界青山公路深井段38號海韻花園地下H3號舖,"Shop No.H3, G/F., Rhine Garden, 38 Castle Peak Road, Sham Tseng, NT",FALSE
+831,354,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.41189639,113.9785624,港鐵兆康站非繳費區5號舖,"Shop SIH 5 at Unpaid concourse of MTR Siu Hong West Rail Line Station, New Territories",FALSE
+1402,760,7-Eleven 屯門 (非24小時營業),7-Eleven Tuen Mun (Non-24 Hours),屯門,Tuen Mun,22.39446857,113.9730263,港鐵屯門站非繳費區TUM 1 & 2號舖,Shop No. TUM 1 & 2 at Unpaid Concourse of MTR Tuen Mun Station,FALSE
+1516,869,7-Eleven 彩虹,7-Eleven Choi Hung,彩虹,Choi Hung,22.333553,114.209224,九龍坪石?停車場地下G3號?,"Shop G3, Carpark, Ping Shek Estate, Kowloon",TRUE
+1469,824,7-Eleven 彩虹,7-Eleven Choi Hung,彩虹,Choi Hung,22.32962329,114.2059869,九龍宏光道80號麗晶花園商場,"Portion of Unit G26 (Units G26B, G26C & G26D) on Ground Floor of Richland Gardens (Commercial & Garage Block), No.80 Wang Kwong Road, Kowloon",TRUE
+1303,680,7-Eleven 彩虹,7-Eleven Choi Hung,彩虹,Choi Hung,22.34270293,114.2082721,九龍富山?富仁樓地下五號舖位,"Shop No.5, G/F., Fu Yan House, Fu Shan Estate, Kowloon",TRUE
+1177,588,7-Eleven 彩虹,7-Eleven Choi Hung,彩虹,Choi Hung,22.33461017,114.2067084,九龍彩虹?金華樓地下6號舖位,"No.6, G/F., Kam Wah House, Choi Hung Estate, Kowloon",TRUE
+1314,688,7-Eleven 彩虹,7-Eleven Choi Hung,彩虹,Choi Hung,22.3352563,114.2182917,九龍彩輝村彩葉樓地下9號舖,"Shop No. 9, Ground Floor, Choi Yip House, Choi Fai Estate, Kowloon",TRUE
+1488,842,7-Eleven 彩虹,7-Eleven Choi Hung,彩虹,Choi Hung,22.332804,114.2146987,九龍彩雲(一)?彩雲二期商場UG層A116號鋪,"Shop No. A116, UG/F, Choi Wan Shopping Centre (Phase 2), Choi Wan (I) Estate, Kowloon",TRUE
+1307,684,7-Eleven 彩虹,7-Eleven Choi Hung,彩虹,Choi Hung,22.3406051,114.210513,九龍牛池灣瓊東街8號嘉峰臺地下2號舖,"Shop No. 2 , Ground Floor, Shopping Centre, Kingsford Terrace, 8 King Tung Street, Kowloon",TRUE
+962,435,7-Eleven 彩虹 (非24小時營業),7-Eleven Choi Hung (Non-24 Hours),彩虹,Choi Hung,22.333995,114.209801,九龍彩虹清水灣道8號匯八坊地庫二層B203號舖位,"Shop B203 on Basement Two, Infinity Eight, No.8 Clear Water Bay Road, Kowloon",FALSE
+1483,837,7-Eleven 彩虹 (非24小時營業),7-Eleven Choi Hung (Non-24 Hours),彩虹,Choi Hung,22.3315397,114.2029199,九龍晴朗商場地下A028號舖,"Shop A028, G/F, Ching Long Shopping Centre, Kowloon",FALSE
+762,320,7-Eleven 彩虹 (非24小時營業),7-Eleven Choi Hung (Non-24 Hours),彩虹,Choi Hung,22.33483346,114.2091894,彩虹地鐵站2號舖(閘內),Kiosk CHH 13 at MTR Choi Hung Station,FALSE
+639,255,7-Eleven 慈雲山,7-Eleven Tsz Wan Shan,慈雲山,Tsz Wan Shan,22.344578,114.197701,九龍慈雲山雙鳳街30號地下,"G/F, 30 Sheung Fung Street, Tsz Wan Shan, KLN",TRUE
+483,173,7-Eleven 慈雲山,7-Eleven Tsz Wan Shan,慈雲山,Tsz Wan Shan,22.3482096,114.2005978,九龍黃大仙慈雲山毓華街23號慈雲山中心商場3樓324-325號舖,"Shop 324-325, Level 3, Tsz Wan Shan Shopping Ctr, 23 Yuk Wah St, KLN",TRUE
+83,18,7-Eleven 慈雲山,7-Eleven Tsz Wan Shan,慈雲山,Tsz Wan Shan,22.3470235,114.2017588,九龍黃大仙慈雲山芳華里1-11號毓華樓地下D舖,"Shop D, G/F&C/L Yuk Wah Mansion, 1-11 Fong Wah Lane, Tsz Wan Shan, Kln",TRUE
+1080,509,7-Eleven 慈雲山,7-Eleven Tsz Wan Shan,慈雲山,Tsz Wan Shan,22.348217,114.200536,九龍黃大仙毓華街23號慈雲山中心一樓103及104號舖位,"Shop Nos.103 & 104, First Floor, Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Wong Tai Sin, Kowloon",TRUE
+1261,648,7-Eleven 慈雲山 (非24小時營業),7-Eleven Tsz Wan Shan (Non-24 Hours),慈雲山,Tsz Wan Shan,22.3437111,114.1983108,九龍慈雲山環鳳街32號地下,"Ground Floor, No.32 Wan Fung Street , Sze Wan Shan ,  Kowloon",FALSE
+1195,601,7-Eleven 新蒲崗,7-Eleven San Po Kong,新蒲崗,San Po Kong,22.33599952,114.2024732,九龍彩虹道242號采頤花園地下766號舖位,"Shop Nos. 766, G/F.,Rhythm Garden, No.242 Choi Hung Road, KLN",TRUE
+965,438,7-Eleven 新蒲崗,7-Eleven San Po Kong,新蒲崗,San Po Kong,22.3370986,114.1975326,九龍新蒲崗大有街32號泰力工業中心地下4A舖位,"Workshop No.4A, G/F, Laurels Industrial Centre, 32 Tai Yau St, San Po Kong, Kln",TRUE
+1141,558,7-Eleven 新蒲崗,7-Eleven San Po Kong,新蒲崗,San Po Kong,22.3352259,114.1956843,九龍新蒲崗崇齡街36及38號地下A舖位,"Block A, Ground Floor, Nos.36 and 38 Shung Ling Street, San Po Kong, Kowloon",TRUE
+385,124,7-Eleven 新蒲崗,7-Eleven San Po Kong,新蒲崗,San Po Kong,22.3344868,114.1957104,九龍新蒲崗崇齡街88號地舖,"G/F, 88 Shung Ling St., Yue Yee Mansion, San Po Kong, Kowloon",TRUE
+1197,603,7-Eleven 新蒲崗,7-Eleven San Po Kong,新蒲崗,San Po Kong,22.3346829,114.1975094,九龍新蒲崗爵祿街116-118號/ 康強街1-17號裕富大廈地下4號舖位,"Shop 4 on Ground Floor, Yue Fu Mansion, Nos.1-17 Hong Keung Street, Nos.116-118 Tseuk Luk Street, San Po Kong, Kowloon",TRUE
+35,10,7-Eleven 新蒲崗,7-Eleven San Po Kong,新蒲崗,San Po Kong,22.3363251,114.1949783,九龍衍慶街2-32號新蒲崗大廈地下,"Shop J G/F, San Po Kong Mansion, Nos. 2-32 Yin Hing St, Kowloon",TRUE
+660,266,7-Eleven 新蒲崗,7-Eleven San Po Kong,新蒲崗,San Po Kong,22.33743351,114.1951293,九龍黃大仙彩虹道121號啟德花園第二期地下19號舖位,"Shop 19, G/F, Kai Tak Garden Phase II, 121 Choi Hung Rd, Wong Tai Sin, KLN",TRUE
+1038,483,7-Eleven 新蒲崗 (非24小時營業),7-Eleven San Po Kong (Non-24 Hours),新蒲崗,San Po Kong,22.33716681,114.1981964,九龍新蒲崗大友街29號宏基中心地下4號舖位,"Workshop No.4, G/F, Winning Centre, 29 Tai Yau Street, San Po Kong, Kln",FALSE
+892,389,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3187127,114.1586431,九龍大角咀海輝道11號奧海城1期商場底層UG02舖,"Shop UG02, UG/F., Olympian City 1, Kowloon",TRUE
+1387,748,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.319741,114.170333,九龍旺角 (通菜街93號地下) 亞皆老街73-81號及通菜街93號宏安大廈地下6號舖,"Flat 6, G/F., (also known as G/F of No.93 Tung Choi Street) Wang On Bldg, Nos.73-81 Argyle Street & No.93 Tung Choi Street, Mong Kok, Kowloon.",TRUE
+1006,458,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3211469,114.1679481,九龍旺角上海街380-390號上海大廈地下D舖,"Shop D, G/F, Shanghai Mansion, 380-390 Shanghai Street, Mong Kok, Kln",TRUE
+1030,478,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3163042,114.1686828,"九龍旺角上海街479-481號地下3a, 3b及3c舖位","Shop 3a, 3b & 3c, G/F, 479-481 Shanghai Street, Mong Kok, Kln",TRUE
+921,407,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3170441,114.1685744,九龍旺角上海街514號地下舖位,"G/F., No.514 Shanghai Street, Mong Kok, KLN",TRUE
+1291,670,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.323024,114.1672135,九龍旺角上海街701號地下,"Ground Floor, No.701 Shanghai Street, Mong Kok, Kowloon",TRUE
+630,251,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.319704,114.1710911,九龍旺角亞皆老街99號地舖,"G/F., 99 Argyle St., Mong Kok, KLN",TRUE
+567,215,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.324083,114.1675766,"九龍旺角太子道西(舖面向大南街)104-106號,璟璜大廈地下8號及10號部份舖位","Portion of G/F., Shop Nos.8 & 10, King Wong Building, 104-106 Prince Edward West, (Facing Tai Nan St), KLN",TRUE
+1466,821,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3187471,114.1717104,九龍旺角奶路臣街19F號得寶大廈地下16號舖,"Shop No.16, G/F, Tak Bo Building, No. 19F Nelson Street, Mong Kok, Kowloon",TRUE
+1103,530,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.315977,114.172711,九龍旺角廣華街3號百利達購物廣場地下2號舖位,"Shop No.2 on G/F., Paradise Square, 3 Kwong Wa Street, Mong Kok, Kowloon",TRUE
+1013,463,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3221491,114.1696877,九龍旺角弼街62號地下部份舖位,"Portion of G/F, 62 Bute Street, Mong Kok, Kln",TRUE
+911,399,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3199094,114.169713,九龍旺角彌敦道688號旺角中心一期A舖部份地下17至19號,"Shop Nos. 17-19, G/F., Portion A, Argyle Centre Phase 1, No.688 Nathan Rd, Mong Kok, KLN",TRUE
+547,204,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.320274,114.167128,九龍旺角旺角道21號地下舖位,"G/F., 21 Mong Kok Rd., Mong Kok, KLN",TRUE
+1062,501,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3179137,114.1687442,九龍旺角朗豪坊 L1字樓37號舖,"Shop 37, L1 Langham Place, Mong Kok, KLN",TRUE
+1422,779,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3143855,114.167832,九龍旺角東安街38號安蘭閣地下4及5號舖,"Shop Nos. 4 & 5, G/F, Orchid Court, No. 38 Tung On Street, Mong Kok, Kowloon",TRUE
+1419,776,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3236551,114.1698756,九龍旺角水渠道34-36號東樂大樓地下A舖,"Shop A on Ground Floor, Tung Lok Mansion, Nos. 34-36 Nullah Road, Kowloon",TRUE
+536,201,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3180828,114.1718321,九龍旺角洗衣街33-37號地下2號舖位,"Shop No.2, G/F., 33-37 Sai Yee St., Mong Kok, KLN",TRUE
+1541,894,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.31558712,114.1643885,九龍旺角海庭道2號海富商場地下12B號及13號舖,"Shop Nos.12B and 13, G/F, Hoi Fu Shopping Centre, No. 2 Hoi Ting Road, Mong Kok, Kowloon",TRUE
+582,225,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3150086,114.1693731,九龍旺角登打士街32-34號歐美廣場地下1號舖位,"Shop No. 1, G/F., Omega Plaza, Nos. 32-34A Dundas Street, (Facing Portland Street), Mong Kok, KLN",TRUE
+1460,816,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3174868,114.1689146,九龍旺角砵蘭街215號及山東街31至35號地下C及D號舖,"Shop C & D, G/F, No. 215 Portland Street, Nos. 31-35 Shantung Street, Mong Kok, Kowloon",TRUE
+1378,740,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3185296,114.1690628,九龍旺角砵蘭街244號遠東發展旺角大廈地下B1,"Shop B1, G/F., Far East Bank Mong Kok Building, No.244 Portland Street, Mong Kok, Kowloon",TRUE
+1052,494,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3177635,114.1746129,九龍旺角窩打老道65-65D號年豐樓地下A2舖,"Shop A2, G/F, Nin Fung Building, 65-65D Waterloo Road, Mong Kok, Kln",TRUE
+1149,564,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3183783,114.175096,九龍旺角窩打老道69D號地下舖位,"Ground Floor, No.69D Waterloo Road, Mong Kok, Kowloon",TRUE
+1106,531,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.316973,114.171468,九龍旺角花園街7-9號地下7C及7D舖位,"Shop 7C & 7D on G/F., No.7-9 Fa Yuen Street, Mong Kok, Kowloon",TRUE
+1256,644,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3196305,114.1699584,九龍旺角西洋菜街北157號恆安樓地下舖位,"Ground Floor of Hang On Building, No.157 Sai Yeung Choi Street North, Mong Kok, Kowloon",TRUE
+132,37,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.31690221,114.1725826,九龍旺角豉油街60-104號鴻都大廈地下16號舖,"Shop 16, G/F., 60-104 Soy Street, Concord Bldg., Kln",TRUE
+598,232,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3213907,114.1703009,九龍旺角通菜街126A地下舖位.,"G/F., No.126A Tung Choi St., Mong Kok, KLN",TRUE
+1560,913,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.31835997,114.1706622,九龍旺角通菜街59A-59B號至 61A-61C號及奶路臣街6A-6E號德發大廈地下4號舖,"Shop No. 4, G/F, Prosperity Building, Nos. 59A-59B & 61A-61C Tung Choi Street and Nos. 6A-6E Nelson Street, Mong Kok, Kowloon",TRUE
+505,185,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3197615,114.1704484,九龍旺角通菜街81號地下舖位,"G/F., 81 Tung Choi Street, Mong Kok,  KLN",TRUE
+28,8,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.32559396,114.1700104,九龍旺角運動埸道19號金華閣地下,"G/F., Comfort Court, 19 Playing Field Rd., Kln",TRUE
+1142,559,7-Eleven 旺角,7-Eleven Mong Kok,旺角,Mong Kok,22.3159141,114.1693378,九龍旺角長沙街10號地下舖位及閣樓,"Ground Floor and Cockloft, No.10 Chang Sha Street, Mong Kok, Kowloon",TRUE
+1524,877,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.316713,114.161513,九龍大角咀海庭道18號奧海城2期商場高層地下UG02C舖,"Shop No. UG02C on Upper Ground Floor, Olympian City Two, Kowloon",FALSE
+1502,855,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.318761,114.174918,九龍旺角勝利道8號地下,"G/F, No. 8 Victory Avenue, Mong Kok, Kowloon",FALSE
+642,257,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.31922222,114.1693747,九龍旺角地鐵站13號舖位,"Kiosk No.MOK 13, Mong Kok MTR Station, KLN",FALSE
+1293,672,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.3248371,114.1717798,九龍旺角太子道西178號太華樓地下,"Ground Floor of Tai Wah Mansion, No.178 Prince Edward Road West, Kowloon",FALSE
+1322,695,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.32282993,114.1727757,九龍旺角東站非繳費區MKK27號舖,"Shop No. MKK 27 at the unpaid concourse of MTR Mong Kok East Station, Kowloon",FALSE
+1275,659,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.32292421,114.1725826,九龍旺角東鐵站MKK15號舖,"Shop MKK 15 at Mong Kok East Station, Kowloon",FALSE
+1148,563,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.31809076,114.1600513,港奧運鐵站閘外OLY 6號舖位,"Concession No. OLY6, Unpaid Concourse at Olympic MTR Station",FALSE
+1304,681,7-Eleven 旺角 (非24小時營業),7-Eleven Mong Kok (Non-24 Hours),旺角,Mong Kok,22.32173323,114.1726202,港鐵旺角東站非繳費區 MKK 4舖位,"Kiosk MKK4 at Unpaid Concourse of Mong Kok East Station, Kowloon",FALSE
+565,214,7-Eleven 東涌,7-Eleven Tung Chung,東涌,Tung Chung,22.28886809,113.9396918,香港東涌東堤灣畔第六座地下13號舖位,"Shop 13 G/F., Tower 6, Tung Chung Crescent, Tung Chung, Lantau Island, HK",TRUE
+631,252,7-Eleven 東涌,7-Eleven Tung Chung,東涌,Tung Chung,22.28145227,113.9349604,香港東涌逸東村逸東商場地下8號舖位,"Shop 8, G/F., Yat Tung Shopping Centre, Yat Tung Estate, Tung Chung, HK",TRUE
+1494,847,7-Eleven 東涌 (非24小時營業),7-Eleven Tung Chung (Non-24 Hours),東涌,Tung Chung,22.288871,113.943569,新界東涌富東街6號富東?富東廣場地下9號舖    ,"Shop No.9, Ground Floor, Fu Tung Plaza, Fu Tung Estate, 6 Fu Tung Street, Tung Chung, N.T.",FALSE
+1083,511,7-Eleven 東涌 (非24小時營業),7-Eleven Tung Chung (Non-24 Hours),東涌,Tung Chung,22.28954811,113.9416015,新界東涌東涌地鐵站上層天橋平臺TUC19號舖位,"Kiosk TUC 19 at Deck Level, Upper Part of Concession, Tung Chung MTR Station, Tung Chung, N.T.",FALSE
+780,326,7-Eleven 東涌 (非24小時營業),7-Eleven Tung Chung (Non-24 Hours),東涌,Tung Chung,22.28950592,113.941682,東涌站1號舖(閘外),Kiosk TUC 1 at MTR Tung Chung Station,FALSE
+781,327,7-Eleven 東涌 (非24小時營業),7-Eleven Tung Chung (Non-24 Hours),東涌,Tung Chung,22.28912124,113.9412904,東涌站7號舖(閘內),Kiosk TUC 7 at MTR Tung Chung Station,FALSE
+1576,929,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.27695989,114.2396052,香港杏花?杏花新城地下G58A舖,"Shop Unit G58A, Paradise Mall, Heng Fa Chuen, Hong Kong",TRUE
+369,114,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.26258084,114.2519143,"香港柴灣小西灣富景花園商場第 9, 14, 14A, 21-22號舖地下","G/F., Shop Nos. 9,14,14A,21&22, Fullview Garden,Siu Sai Wan, Hong Kong",TRUE
+496,179,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.265095,114.248152,香港柴灣小西灣道9號富欣花園地下第47及48號舖,"Shop No.47 + 48, Harmony Garden, 9 Siu Sai Wan Road, Chai Wan, HK",TRUE
+232,71,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.26407268,114.2370334,香港柴灣新翠商場119-120號舖,"Shop 120 & Portion of Shop 119 Level 1, New Jade Shopping Arcade, Chai Wan, HK",TRUE
+722,294,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.264105,114.239671,香港柴灣柴灣道341-343號及怡順街1-3號宏德居A座地下49號舖        ,"Shop 49, G/F., Block A, Walton Estate, Nos.341-343 Chai Wan Rd., and Nos.1-3 Yee Shun St., Chai Wan, HK",TRUE
+1182,591,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.26388899,114.2402387,香港柴灣柴灣道350號樂軒臺地下401號舖,"Shop 401, G/F, Lok Hin Terrace, 350 Chai Wan Road, Chai Wan, Hong Kong",TRUE
+467,163,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.2694517,114.2363751,香港柴灣樂民道3號東區尤德夫人那打素醫院主樓地下,"G/F., Main Block, Pamela Youde Nethersole Hospital, No.3 Lok Man Rd., Chai Wan, HK",TRUE
+1470,825,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.26686,114.2351954,香港柴灣泰民街16號康翠臺商場5樓部份1C之1C-1及部份2C舖,"Shop 1C-1 in the Portion of Shop 1C of and Portion of Shop 2C, Level 5, Commercial Block, Greenwood Terrace, No.16 Tai Man Street, Chai Wan, Hong Kong",TRUE
+157,50,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.2656895,114.2409537,香港柴灣漁灣村魚豐樓地下3-4號舖,"Shop 3 & 4 Yue Fung House, Yue Wan Estate, HK",TRUE
+404,133,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.26308971,114.2390317,香港柴灣環翠村街市舖位 MS1號舖位,"Shop No. MS1, Wan Tsui Market, Wan Tsui Est., Chai Wan, HK",TRUE
+181,57,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.26756763,114.2329404,香港柴灣興民村商場412-414號舖,"Shop 413-414 Comm. Centre, Hing Man Estate, Chai Wan, HK",TRUE
+561,212,7-Eleven 柴灣,7-Eleven Chai Wan,柴灣,Chai Wan,22.26214148,114.2354107,香港柴灣興華村興華商場地下3號舖位,"G/F., Shop 3, Hing Wah Shopping Centre, Hing Wah Estate, Chai Wan, HK",TRUE
+803,338,7-Eleven 柴灣 (非24小時營業),7-Eleven Chai Wan (Non-24 Hours),柴灣,Chai Wan,22.2776358,114.2389515,香港杏花?盛泰道100號杏花新城1樓161號舖,"Shop Unit 161 Paradise Mall, Hang Fa Chuen HK",FALSE
+1077,507,7-Eleven 柴灣 (非24小時營業),7-Eleven Chai Wan (Non-24 Hours),柴灣,Chai Wan,22.26064217,114.2310762,香港柴灣峰華?曉峰樓地下8號舖位,"Shop No.8, Fung Wah Shopping Centre, Fung Wah Estate, Chai Wan, HK",FALSE
+1094,522,7-Eleven 柴灣 (非24小時營業),7-Eleven Chai Wan (Non-24 Hours),柴灣,Chai Wan,22.26332056,114.2351183,香港柴灣興華(一)?商場第二層201號舖位,"Shop No.201, Level 2, Hing Wah (1) Shopping Centre, Chai Wan, Hong Kong",FALSE
+560,211,7-Eleven 柴灣 (非24小時營業),7-Eleven Chai Wan (Non-24 Hours),柴灣,Chai Wan,22.26269751,114.2358989,香港柴灣興華村興華商場一樓105號舖位,"1/F., Shop 105, Hing Wah Shopping Centre, Hing Wah Estate, Chai Wan, HK",FALSE
+1373,736,7-Eleven 樂富,7-Eleven Lok Fu,樂富,Lok Fu,22.33756748,114.1873348,九龍橫頭磡樂富中心1樓1111號舖,"Shop 1111, First Floor, Lok Fu Plaza, Wang Tau Hom, Kowloon",TRUE
+336,99,7-Eleven 樂富,7-Eleven Lok Fu,樂富,Lok Fu,22.34090926,114.1872516,"九龍黃大仙橫頭磡村宏輝中心第三層單位 5, 6, 7, 8","Shop 5, 6, 7 & 8, Level 3, Wang Fai Centre, Wang Tau Hom Estate, Kln",TRUE
+1429,786,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.298909,113.9287398,國際機場超級一號貨站辦公大樓南座地下RCG04A室,"Room RCG04A, G/F, South Office Block,  Super Terminal 1, Hong Kong International Airport, H.K.",TRUE
+1584,937,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.31650272,113.9343619,香港大嶼山機場一號客運大樓第七層離港大堂 7T116舖,"Unit No. 7T116, Level 7, Departures Check-in Hall, Terminal 1, Hong Kong International Airport, Lantau",TRUE
+1583,936,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.3148849,113.9343285,香港大嶼山機場一號客運大樓第五層抵港大堂 5T058舖,"Unit No. 5T058, Level 5, Landside Arrivals Meeters & Greeters Hall, Terminal 1, Hong Kong International Airport, Lantau",TRUE
+1549,902,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.30761934,113.9172149,香港大嶼山機場第五層抵港層入境大堂前區域5E525D及5E525E舖,"Unit Nos. 5E525D & 5E525E, Level 5, Arrivals Pre-Immigration Hall, Hong Kong International Airport, Lantau, Hong Kong",TRUE
+1550,903,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.31414794,113.9308123,香港大嶼山機場翔天廊第3層3P111號舖,"Unit No. 3P111, Level 3, SkyPlaza, Hong Kong International Airport, Lantau, Hong Kong",TRUE
+1068,503,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.31482038,113.933807,香港大嶼山機場翔天廊第5層5P113號舖位,"Unit No.5P113, Level 5, SkyPlaza, Hong Kong International Airport, Lantau, HK",TRUE
+1476,830,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.29766333,113.9245856,香港赤蠟角國際機場國泰航空貨運站辦公大樓3樓RMA304室,"RMA 304, Level 3, Office Block, Cathay Pacific Cargo Terminal, Airport, Chek Lap Kok, Hong Kong",TRUE
+502,183,7-Eleven 機場,7-Eleven Airport,機場,Airport,22.29491364,113.9259589,香港赤蠟角駿運路2號機場空運中心商業中心3樓305室,"Shop 305, 3/F., Comm. Bldg., Airport Freight Forwarding Ctr., 2 Chun Wan Road, Chek Lap Kok, HK",TRUE
+1542,895,7-Eleven 機場 (非24小時營業),7-Eleven Airport (Non-24 Hours),機場,Airport,22.32120721,113.9438331,香港大嶼山機場亞洲國際博覽館一樓中央走廊B舖,"Unit B, Level 1, Central Concourse, AsiaWorld-Expo, Hong Kong International Airport, Lantau, Hong Kong",FALSE
+1554,907,7-Eleven 機場 (非24小時營業),7-Eleven Airport (Non-24 Hours),機場,Airport,22.30380775,113.9018512,香港大嶼山機場南環路80號第二機庫1樓R111,"R111, 1/F, Hangar 2, 80 South Perimeter Road, Hong Kong International Airport, Lantau, Hong Kong",FALSE
+1405,763,7-Eleven 機場 (非24小時營業),7-Eleven Airport (Non-24 Hours),機場,Airport,22.31820489,113.9440343,香港大嶼山機場海天客運碼頭第四層4P106號舖,"Unit No. 4P106 at Level 4 of SkyPier, Hong Kong International Airport, Lantau, Hong Kong (Restricted Area )",FALSE
+1161,575,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.37635403,114.1908297,新界沙田乙明?明信樓地下53號舖位,"Shop 53, G/F., Ming Shun Lau, Jat Min Chuen, Shatin, N.T.",TRUE
+163,52,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.3754435,114.1940495,新界沙田博康村博裕樓9-10號舖,"Shop 9 & 10 Pok Yue House, Pok Hong Estate, Shatin, NT",TRUE
+867,375,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.384114,114.197978,新界沙田大涌橋路52號富豪花園商場一樓13號舖位,"Shop 13 Lvl 1, Belair Garden Shopping Arcade, 52 Tai Chung Kiu Rd, Shatin NT",TRUE
+569,217,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.3838516,114.2145997,新界沙田小瀝源帝堡城第一層101舖位,"Shop 101 on Level I, Castello, Siu Lek Yuen, Shatin, NT",TRUE
+299,87,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.38163685,114.2153344,新界沙田廣源村商場第四座7號舖位,"Shop 7, Commercial Block 4, Kwong Yuen Estate, Shatin, NT",TRUE
+649,260,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.38199399,114.2052412,新界沙田愉翠商場地下1+2舖位,"Shop No.1 + 2, G/F., Yu Chui Shopping Centre, Yu Chui Court, Shatin, NT",TRUE
+141,41,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.36985563,114.1863906,新界沙田新田圍村商場地下11-12號舖,"Shop 11+12, Sun Tin Wai Shopping Centre, Sun Tin Wai Estate, Shatin, NT",TRUE
+1394,753,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.3721304,114.1831586,新界沙田新田村67號地下,"G/F., No.67 San Tin Village, Shatin, N.T.",TRUE
+454,152,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.37739821,114.193874,新界沙田沙角村漁鷹樓地下14-15號舖,"Shop Nos. 14-15 Osprey House, Sha Kok Estate, Shatin, NT",TRUE
+1162,576,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.379572,114.196473,新界沙田沙角街7-11號翠華花園地下12-13號部份舖位,"Portion of shop No.12-13, G/F., Greenwood Garden, No.7-11 Sha Kok Street, Shatin, N.T.",TRUE
+1095,523,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.37768839,114.1942066,新界沙田沙角?沙角商場47號及48號舖位,"Shop Nos. 47 & 48, Sha Kok Shopping Centre, Sha Kok Estate, Shatin, N.T.",TRUE
+129,35,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.38146324,114.1955692,新界沙田河畔花園一期地下36號舖,"Shop 36, Level 1, Podium of Garden Rivera, Shatin, NT",TRUE
+1438,794,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.384747,114.190569,新界沙田瀝源街6號瀝源?福海樓F3樓S17號商舖,"Shop No. S17, F3 Floor, Fook Hoi House, Lek Yuen Estate, 6 Lek Yuen Street, Shatin, N.T.",TRUE
+484,174,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.39985238,114.201808,新界沙田火炭駿景園駿景廣場地下G21號舖,"Shop G21, Plaza Ascot, Royal Ascort, Fotan, NT",TRUE
+1232,625,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.38763869,114.1955477,新界沙田禾輋商場2樓CC01-CC02號舖,"Shop Nos. CC01 and CC02 on Second Floor, Wo Che Shopping Centre, Shatin,",TRUE
+1409,766,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.38749981,114.195478,新界沙田禾輋?德厚街3號禾輋廣場地下G3及G4號舖,"Shop No. G3 & G4, Ground Floor, Commercial Centre, Wo Che Estate, Shatin, NT",TRUE
+193,58,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.37316935,114.1868198,新界沙田秦石村商場地下4號舖,"G/F., Shop 4 Comm. Centre, Chun Shek Estate, Shatin, NT",TRUE
+1548,901,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.37301805,114.1771786,新界沙田積運街2-8號海褔花園地下9號舖,"Shop 9, G/F, Holford Gardens, Nos. 2-8 Chik Wan Street, Shatin, N.T.",TRUE
+1589,942,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.3799565,114.1990913,新界沙田銀城街30-32號威爾斯親王醫院日間診療大樓暨兒童病房2樓便利店,"Convenience Store, 2/F, Day Treatment Block and Children Wards of the Prince of Wales Hospital, Nos. 30-32 Ngan Shing Street, Shatin, N.T.",TRUE
+167,54,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.36546531,114.1783708,新界沙田隆亨熟食檔1-4號舖,"Cooked Food Stall 1-4, Lung Hang Estate, Shatin, NT",TRUE
+383,122,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.3973639,114.1934836,新界火炭沙田商業中心山尾街18-24號地下G18舖,"Shop no. G18, G/F, Shatin Galleria, 18-24 Shan Mei Street, Fotan Shatin, NT",TRUE
+1406,764,7-Eleven 沙田,7-Eleven Shatin,沙田,Shatin,22.38657723,114.2036372,香港新界沙田第一城中心商場地下G76-G77號舖,"Shop Nos. G76-G77, G/F, City One Plaza, City One Shatin, N.T.",TRUE
+1274,658,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.37939354,114.1868319,新界沙田希爾頓中心3樓16及17號舖,"Shop Nos. 16 & 17 on Level 3, Hilton Plaza, 3-9 Shatin Centre Street, Shatin, NT",FALSE
+819,345,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.38298853,114.1906393,新界沙田橫壆街1-15號好運商場3樓74號舖,"Shop 74 on Level 3 Sha Tin New Town Nos. 1-15 Wang Pok Street, Shatin, NT",FALSE
+820,346,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.38254459,114.1904891,新界沙田橫壆街2-16號沙田中心3樓10號舖,"Shop No. 10, on Level 3 , Shatin Centre (Sha Tin Town Lot No. 16)",FALSE
+854,365,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.37692448,114.1946465,港鐵沙田圍站非繳費區12號舖,"Shop No. STW 12, Unpaid concourse of MTR Sha Tin Wai Station, Ma On Shan Line, New Territories",FALSE
+852,363,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.37679303,114.1947189,港鐵沙田圍站非繳費區1號舖,"Shop No. STW 1, Unpaid concourse of MTR Sha Tin Wai Station, Ma On Shan Line, New Territories",FALSE
+788,328,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.38257931,114.1874501,港鐵沙田站大堂閘外,"Kiosk SHT 1, Unpaid Concourse at MTR Sha Tin Station, New Territories",FALSE
+1403,761,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.38255947,114.1870987,港鐵沙田站繳費區 SHT 30 & SHT 31號舖,Shop Nos. SHT 30 & SHT 31 at Paid Concourse of MTR Shatin Station,FALSE
+855,366,7-Eleven 沙田 (非24小時營業),7-Eleven Shatin (Non-24 Hours),沙田,Shatin,22.37464761,114.1859776,港鐵車公廟站非繳費區1號,"Shop No. CKT 1, Unpaid concourse of MTR Che Kung Temple Station, Ma On Shan Line, New Territories",FALSE
+740,306,7-Eleven 油塘 (非24小時營業),7-Eleven Yau Tong (Non-24 Hours),油塘,Yau Tong,22.29803061,114.2368698,港鐵油塘站YAT 4及YAT 6號舖位,"Kiosk YAT 4, Yau Tong MTR Station, KLN",FALSE
+272,79,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.30722603,114.1702518,九龍廟街47-57號正康大廈地下6號舖,"Shop 6, G/F., Ching Hong Building, 45-47 Temple St., Kln",TRUE
+955,431,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.3067337,114.1694451,九龍油麻地上海街141號地下,"G/F., No.141 Shanghai Street, Yau Ma Tei, KLN.",TRUE
+220,66,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.3073518,114.1708277,九龍油麻地吳松街42-52號大觀樓地下  ,"G/F., Corner Shop, Taikoon Mansion, 42-52 Woosung Street, Kln",TRUE
+135,38,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.3084093,114.1706187,九龍油麻地廟街110-112地下漢興商業大廈地下,"G/F, Hon Hing Comm. Building, 110-112 Temple Street, Yaumati, Kln",TRUE
+1420,777,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.3114222,114.170763,九龍油麻地彌敦道483-485A地下2-3號舖位,"Shop Nos. 2 & 3 on Ground Floor, Nos. 483-485A Nathan Road, Yaumatei, KLN",TRUE
+472,167,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.31089733,114.1689107,九龍油麻地眾方街3號駿發花園戲院大樓地下H1舖,"Shop H1, G/F., Prosperous Garden, 3 Public Square St, Yaumatei, KLN",TRUE
+599,233,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.31392,114.169987,九龍油麻地碧街41-47號碧蘭大樓地下D舖位,"Shop D, G/F., Bik Lan House, Nos.41-47 Pitt St., Yaumatei, KLN",TRUE
+1084,512,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.3138939,114.1710652,九龍油麻地碧街56號地下舖位,"Ground Floor, No.56 Pitt Street, Yaumatei, Kowloon",TRUE
+1040,484,7-Eleven 油麻地,7-Eleven Yaumatei,油麻地,Yaumatei,22.312807,114.169168,九龍油麻地窩打老道3C號地下舖位,"G/F, 3C Waterloo Road, Yaumatei, Kln",TRUE
+1167,580,7-Eleven 油麻地 (非24小時營業),7-Eleven Yaumatei (Non-24 Hours),油麻地,Yaumatei,22.3108282,114.1713154,九龍油麻地彌敦道466-472號恩佳大廈地下A舖部份A2-A4舖位,"Portion A2-A4 of Shop A, G/F, Yun Kai Building, Nos.466-472 Nathan Road, Yau Ma Tei, Kowloon",FALSE
+1284,666,7-Eleven 油麻地 (非24小時營業),7-Eleven Yaumatei (Non-24 Hours),油麻地,Yaumatei,22.3128516,114.1652543,九龍油麻地海庭道9號香港專上學院3樓,"Portion of 3rd Floor, The Hong Kong Community College (West Kowloon Campus), 9 Hoi Ting Road, Yau Ma Tei, Kowloon, Hong Kong",FALSE
+1305,682,7-Eleven 油麻地 (非24小時營業),7-Eleven Yaumatei (Non-24 Hours),油麻地,Yaumatei,22.30436362,114.1615641,九龍港鐵站88號舖,Station Concession No. KOW 88 at MTR Kowloon Station,FALSE
+1134,554,7-Eleven 油麻地 (非24小時營業),7-Eleven Yaumatei (Non-24 Hours),油麻地,Yaumatei,22.30522718,114.1610277,港鐵九龍站閘外 KOW 68號舖位,"Concession No. KOW 68 at Unpaid Concourse of Kowloon MTR Station, Kowloon",FALSE
+1135,555,7-Eleven 油麻地 (非24小時營業),7-Eleven Yaumatei (Non-24 Hours),油麻地,Yaumatei,22.30518996,114.1622105,港鐵九龍站閘外 KOW 72號舖位,"Concession No. KOW 72 at Unpaid Concourse of Kowloon MTR Station, Kowloon",FALSE
+1318,692,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3299413,114.166369,九龍大埔道128號逸華軒地下C及D號舖,"Shop C & D on G/F., The Merrylands, 128 Tai Po Road, Kowloon",TRUE
+346,103,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.33097,114.161609,九龍桂林街133-135號地下B舖,"Shop B, G/F, 133-135 Kweillin Street, Sham Shui Po, Kowloon.",TRUE
+1389,750,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3344973,114.1607026,九龍深水?元州街160號元安大廈地下,"G/F., Un On Building, No.160 Un Chau Street, Sham Shui Po, Kowloon",TRUE
+1262,649,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.331314,114.164851,"九龍深水?元州街2A-2B號, 大埔道47-49號及南昌街195-199號, 鑽石樓地下E1舖位","Flat E1 on G/F., Diamond Building, Nos.195-199 Nam Cheong Street, Nos.47-49 Tai Po Road & Nos.2A-2B Un Chau Street, Sham Shui Po, Kowloon",TRUE
+1299,678,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.33218,114.163201,九龍深水?元州街65-69號元昌閣地下C舖位,"Shop C on Ground Floor, Yuen Cheong Court, Nos.65-69 Un Chau Street, Sham Shui Po, Kowloon",TRUE
+1003,456,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3299423,114.1626301,九龍深水?北河街106號新北河大樓地下舖位,"G/F., New Pei Ho Building, No.106 Pei Ho Street, Sham Shui Po, Kowloon",TRUE
+908,397,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3309005,114.1634662,九龍深水?北河街116號福安大廈地下,"G/F., Fuk On Building, No.116 Pei Ho Street, Sham Shui Po, KLN",TRUE
+1016,466,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3280042,114.1608187,九龍深水?北河街44-48號永富大廈地下1號舖,"Shop 1, G/F, Ever Rich Mansion, 44-48 Pei Ho Street, Sham Shui Po, Kln",TRUE
+1254,642,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.329588,114.163289,九龍深水?南昌街141-145號地下B舖位,"Shop B, G/F., No.141-145 Nam Cheong Street, Sham Shui Po, Kowloon",TRUE
+850,362,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3308175,114.1659278,九龍深水?大埔道156號白花大廈地下,"G/F., Pak Far Building, No.156 Tai Po Road, Sham Shui Po, KLN",TRUE
+1459,815,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.332376,114.156141,九龍深水?東京街12號麗閣商場地下39號鋪,"Shop No. 39, G/F, Lai Kok Shopping Centre, Lai Kok Estate, 12 Tonkin Street, Sham Shui Po, Kowloon",TRUE
+712,288,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3327512,114.1623747,九龍深水?欽州街100-102號金必多大廈地下G01號舖,"Shop G01, G/F, Capital Bldg, 100-102 Yen Chow Street, Sham Shui Po, KLN",TRUE
+905,395,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.330632,114.160286,九龍深水?欽州街58號富欣華庭地下D及E號舖位,"Shop Nos.D & E, G/F., Milan Place, No.58 Yen Chow St, Sham Shui Po, KLN",TRUE
+1108,532,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.329886,114.161241,九龍深水?汝州街263號地下,"G/F., No.263 Yu Chau Street, Sham Shui Po, Kowloon",TRUE
+1215,614,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3262971,114.1663922,九龍深水?界限街14號華生樓地下3號舖,"Shop 3 G/F, Wah Sang House, No.14 Boundary Street, Sham Shui Po, Kowloon",TRUE
+1561,914,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.33326671,114.1665342,九龍深水?石硤尾?美盛樓地下3號舖,"Shop No. 3, G/F, Mei Shing House, Shek Kip Mei Estate, Sham Shui Po, Kowloon",TRUE
+1538,891,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.331964,114.161985,九龍深水?福華街146-152號黃金大廈地下47A舖,"Shop No. 47A, G/F, Golden Building, Nos.146-152 Fuk Wa Street, Sham Shui Po, Kowloon",TRUE
+1214,613,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3325018,114.1613297,九龍深水?福華街174號德寶大廈地下,"Ground Floor,Tak Po Building , No.174 Fuk Wa Street, Sham Shui Po,Kowloon",TRUE
+1078,508,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.328529,114.1655098,九龍深水?長沙灣道80-82號文海樓地下B舖位,"Shop B, G/F., Man Hoi Mansion, No.80-82 Cheung Sha Wan Road, Sham Shui Po, Kowloon",TRUE
+940,423,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.338717,114.156201,九龍深水?青山道332號地下?位,"G/F., 332 Castle Peak Road, Sham Shui Po, Kowloon",TRUE
+440,146,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.33651556,114.1607916,九龍深水步樂年花園東沙島街186號地下C1舖,"Shop C1, G/F, 186 Pratas St., Cronin Garden, Sham Shui Po, KLN",TRUE
+578,222,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3266512,114.1680178,九龍深水步界限街43號恆富大廈地下B舖位,"Shop B, G/F., Everich Building, No.43 Boundary Street, Sham Shui Po, KLN",TRUE
+245,74,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.33165776,114.1633183,九龍深水步福榮街68號地下A舖,"Shop A, G/F & C/L, 68 Fuk Wing St., Sham Shui Po, Kln",TRUE
+1024,473,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.32679979,114.15705,九龍深水涉昌新里3號南昌?昌遜樓地下14-15號舖位,"Shop Nos. 14-15, G/F., Cheong Shun House, Nam Cheong Estate, Sham Shui Po, Kowloon",TRUE
+11,4,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.32600583,114.1634899,九龍荔枝角道175-185號嘉福中心商場地下6-11號舖,"Shop No. 6-11, G/F., Godfrey Ctr., 175-185 Lai Chi Kok Rd., Kln",TRUE
+470,165,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3283103,114.1612104,九龍荔枝角道306號地下及閣樓,"G/F., & C/F., No 306 Lai Chi Kok Road, Kowloon",TRUE
+146,43,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3296554,114.1594718,九龍荔枝角道392-394號地下A-B舖,"Shop A & B, G/F, Basement, Lee Luen Yick Bldg, 392-394 Lai Chi Kok Rd, Kln",TRUE
+651,261,7-Eleven 深水?,7-Eleven Sham Shui Po,深水?,Sham Shui Po,22.3360717,114.159704,九龍青山道156-162號永基商業大廈地下B舖,"Shop B, G/F., Wing Kee Commercial Bdg, 156-162 Castle Peak Road, Sham Shui Po, KLN",TRUE
+862,373,7-Eleven 深水? (非24小時營業),7-Eleven Sham Shui Po (Non-24 Hours),深水?,Sham Shui Po,22.33100276,114.1618323,九龍深水?地鐵站SSP18號舖位,"Kiosk SSP18 Sham Shui Po MTR Station, KLN",FALSE
+809,341,7-Eleven 深水? (非24小時營業),7-Eleven Sham Shui Po (Non-24 Hours),深水?,Sham Shui Po,22.3310175,114.1598202,九龍深水?欽州街37K號西九龍中心1樓141號舖,"Shop 141A on 1/F Dragon Centre, 37K Yen Chow Street, Sham Shui Po, KLN",FALSE
+963,436,7-Eleven 深水? (非24小時營業),7-Eleven Sham Shui Po (Non-24 Hours),深水?,Sham Shui Po,22.32766322,114.1529381,港鐵南昌站繳費區19及20號舖位,"Shop NAC 19-20 at Paid Concourse of MTR Nam Cheong West Rail Line Station, Kowloon",FALSE
+1014,464,7-Eleven 深水? (非24小時營業),7-Eleven Sham Shui Po (Non-24 Hours),深水?,Sham Shui Po,22.32766818,114.1529918,港鐵南昌站非繳費區26號舖位,"Shop NAC 26 & 27 at Unpaid Concourse of MTR Nam Cheong Station, Kowloon",FALSE
+1339,708,7-Eleven 深水? (非24小時營業),7-Eleven Sham Shui Po (Non-24 Hours),深水?,Sham Shui Po,22.32731587,114.153083,港鐵南昌站非繳費區NAC 8號舖,"Shop No. NAC 8, Unpaid Concourse of MTR Nam Cheong Station",FALSE
+1163,577,7-Eleven 深水? (非24小時營業),7-Eleven Sham Shui Po (Non-24 Hours),深水?,Sham Shui Po,22.33106231,114.1618323,港鐵深水?站閘外SSP 11號舖位,"Kiosk No. SSP 11, Unpaid Concourse at Sham Shui Po MTR Station",FALSE
+381,120,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2792687,114.176401,香港告士打道138號聯合鹿島大廈地下B舖,"Shop B, G/F, Allied Kajima Bldg., 138 Gloucester Road, Wanchai, HK",TRUE
+328,98,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2782514,114.179954,香港灣仔天樂里9-17號兆豐大廈地下C舖,"Shop C, G/F, Siu Fung Building, 9-17 Tin Lok Lane, Wanchai, HK",TRUE
+323,95,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.27740541,114.1799386,"香港灣仔摩利臣山道12-18號新都大廈A,B,C舖","Portion of shop A, B & C, G/F Sun Tao Bldg, 12-18 Morrison Hill Rd, HK",TRUE
+1509,862,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.27531803,114.172474,香港灣仔春園街47-65號新春園大廈地下G及H舖,"Shops G & H, G/F, New Spring Garden Mansion, Nos. 47-65 Spring Garden Lane, Wanchai, Hong Kong",TRUE
+1027,475,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.279276,114.1798147,香港灣仔洛克道376-382號莊士企業大廈地下1號舖位,"Portion of Shop 1, G/F, Chuang's Enterprises Building, 382 Lockhart Road, Wanchai, HK",TRUE
+84,19,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2810934,114.1756115,香港灣仔港灣道25號海港中心地下G6號舖,"G6, G/F, Harbour Centre, 25 Harbour Rd., Wanchai, HK",TRUE
+728,297,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.27679608,114.1766703,香港灣仔灣仔道151-163號新世紀廣場地下第54-55號舖,"Shop G48 & G49 on G/F., New Century Plaza, Man On House, 151-163 Wanchai Rd., 12 A-C Burrows St., 17-27 Cross Lane, Wan Chai, HK",TRUE
+1125,545,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2776292,114.1784427,香港灣仔灣仔道193號文興大廈地下B舖,"Shop B, G/F, Man Hing Mansion, 193 Wan Chai Road, Wan Chai, Hong Kong",TRUE
+1118,539,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.276965,114.1687131,香港灣仔皇后大道東27號地下,"G/F., 27 Queen's Road East, Wanchai, Hong Kong",TRUE
+151,47,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.278701,114.171969,香港灣仔盧押道20號地下2號舖,"Shop 2, 20 Luard Road, Wanchai, HK",TRUE
+1484,838,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.274132,114.174181,"香港灣仔石水渠街64, 66, 68, 70-70A號地下2號舖","Shop No. 2, G/F, Fu Lok Building, Nos. 64, 66, 68, 70 and 70A Stone Nullah Lane, Wanchai, Hong Kong",TRUE
+1504,857,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2774515,114.1765819,香港灣仔莊士敦道222-230號及茂蘿街1A-1C號富嘉大廈地下1及6號舖,"Shop No. 1 & No. 6, G/F, Fu Kar Building, Nos. 222-230 Johnston Road & Nos. 1A-1C Mallory Street, Wanchai, Hong Kong",TRUE
+1551,904,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.27716714,114.1704623,香港灣仔莊士敦道25-33號長康大廈地下B舖及閣樓,"Shops B, Ground Floor and Cockloft, Cheong Hong Mansion, Nos. 25-33 Johnston Road, Wanchai, Hong Kong",TRUE
+532,199,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2772563,114.1748681,香港灣仔菲林明道11-15號玉滿樓地下C號舖位,"Shop C, G/F., Jade House, 11-15 Fleming Rd., Wanchai, HK",TRUE
+1449,805,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2769548,114.1736085,香港灣仔譚臣道72號地下及閣樓,"Ground Floor and Cockloft, No. 72 Thomson Road, Wan Chai, Hong Kong",TRUE
+656,264,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.27754068,114.1720328,香港灣仔軒尼斯道99號地下1及2號舖位,"Shop 1 & 2 on G/F., 99 Hennessy Road, Wanchai, HK",TRUE
+376,117,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2786166,114.1781891,香港灣仔軒尼詩道313-317B地下G4舖位,"G4, G/F, Hennessy House (CLI Bldg), 313-317B Hennesy Rd, Wanchai, HK",TRUE
+1152,566,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2790943,114.1798611,香港灣仔軒尼詩道375-379號利威商業大廈地下C舖,"Shop C, G/F, Lee West Commercial Bldg, 375-379 Hennessy Rd, Wan Chai, HK",TRUE
+281,82,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2781966,114.1732184,香港灣仔駱克道151號地下A舖       ,"Shop A, G/F, 151 Lockhart Road, Wanchai, HK",TRUE
+1020,469,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2780103,114.170549,香港灣仔駱克道42-50號君悅居地下C&D舖,"Shop C & D, G/F, De Fenwick, 42-50 Lockhart Road, Wanchai, HK",TRUE
+640,256,7-Eleven 灣仔,7-Eleven Wan Chai,灣仔,Wan Chai,22.2779443,114.1710594,香港駱克道64號地下舖位,"G/F., No.64 Lockhart Road, Wanchai, HK",TRUE
+1263,650,7-Eleven 灣仔 (非24小時營業),7-Eleven Wan Chai (Non-24 Hours),灣仔,Wan Chai,22.2797174,114.173065,香港灣仔告士打道7號入境大樓地下3號鋪,"Unit No.3, Ground Floor, Immigration Tower, No.7 Gloucester Road, Wanchai, HK",FALSE
+1306,683,7-Eleven 灣仔 (非24小時營業),7-Eleven Wan Chai (Non-24 Hours),灣仔,Wan Chai,22.28045949,114.1768017,香港灣仔新鴻基中心1樓134至135號舖,"Shop Nos. 134-135, First Floor, Sun Hung Kai Centre, Wan Chai, Hong Kong",FALSE
+1231,624,7-Eleven 灣仔 (非24小時營業),7-Eleven Wan Chai (Non-24 Hours),灣仔,Wan Chai,22.2771858,114.1775854,香港灣仔活道8-10A號長春大廈地下K及L舖位,"Shops K and L on Ground Floor, Cheung Chun Building, Nos.8, 10 & 10A Wood Road, Wan Chai, Hong Kong",FALSE
+663,269,7-Eleven 灣仔 (非24小時營業),7-Eleven Wan Chai (Non-24 Hours),灣仔,Wan Chai,22.281036,114.1748684,香港灣仔港灣道23號鷹君中心1樓111-112號舖位,"Shops 111-112, 1st Floor, Great Eagle Centre, 23 Harbour Road, Wanchai, HK",FALSE
+1207,610,7-Eleven 灣仔 (非24小時營業),7-Eleven Wan Chai (Non-24 Hours),灣仔,Wan Chai,22.27607133,114.1703557,香港灣仔皇后大道東118至120號同勝大廈地下A號舖,"Shop A G/F, Tung Shing Building, 118-120 Queen’s Road East, Wanchai, HK",FALSE
+671,272,7-Eleven 灣仔 (非24小時營業),7-Eleven Wan Chai (Non-24 Hours),灣仔,Wan Chai,22.27809913,114.1762197,香港灣仔軒尼斯道245-251號守時商業大廈地下A2舖位,"Shop A2, G/F, Success Commercial Bldg, 245-251 Hennessy Rd, Wanchai, HK",FALSE
+1352,719,7-Eleven 火炭 (非24小時營業),7-Eleven Fo Tan (Non-24 Hours),火炭,Fo Tan,22.3973884,114.1961394,新界火炭坳背灣街2-12號威力工業中心地下G2舖位,"Workshop unit G2 on LG/F., Valiant Industrial Centre, Nos.2-12 Au Pui Wan Street, Fo Tan, N.T.",FALSE
+1528,881,7-Eleven 火炭 (非24小時營業),7-Eleven Fo Tan (Non-24 Hours),火炭,Fo Tan,22.39483312,114.1980261,港鐵火炭站車站大堂1A號舖,Shop FOT 1A at Unpaid Concourse of MTR Fo Tan Station,FALSE
+1277,661,7-Eleven 火炭 (非24小時營業),7-Eleven Fo Tan (Non-24 Hours),火炭,Fo Tan,22.39581765,114.1985893,港鐵火炭站非繳費區2及3號舖,"Shops FOT 2 & 3 Unpaid Concourse at Fo Tan Station, N.T.",FALSE
+58,13,7-Eleven 牛頭角,7-Eleven Ngau Tau Kok,牛頭角,Ngau Tau Kok,22.3167781,114.2166199,九龍牛頭角定安街37-43號立興大廈地下D舖,"Shop D, G/F & C/L, Lap Hing Bldg., 37-43 Ting On St., Ngau Tau Kok, Kln",TRUE
+1404,762,7-Eleven 牛頭角,7-Eleven Ngau Tau Kok,牛頭角,Ngau Tau Kok,22.32955878,114.2133629,九龍牛頭角彩德商場5樓506號舖位,"Convenience Store at Shop No.506, 5/F., Choi Tak Shopping Centre, Ngau Tau Kok, Kowloon",TRUE
+1399,757,7-Eleven 牛頭角,7-Eleven Ngau Tau Kok,牛頭角,Ngau Tau Kok,22.32164391,114.2200255,九龍牛頭角振華道70號樂華北商場1樓106號舖位,"Shop No. 106, 1/F, Lok Wah (North) Shopping Centre, 70 Chun Wah Road, Ngau Tau Kok, Kowloon",TRUE
+396,129,7-Eleven 牛頭角,7-Eleven Ngau Tau Kok,牛頭角,Ngau Tau Kok,22.3161204,114.2191276,九龍牛頭角觀塘花園大廈孔雀樓285號地下舖位,"Shop 285, Hung Cheuk Lau, Ngau Tau Kok Rd, Kwun Tong Garden Est, Kwun Tong, Kln",TRUE
+1200,604,7-Eleven 牛頭角,7-Eleven Ngau Tau Kok,牛頭角,Ngau Tau Kok,22.31532906,114.2204949,九龍牛頭角道297號觀塘花園大廈?玉蓮臺第三座11號舖,"Shop 11, G/F, Lotus Tower 3, Kwun Tong Garden Estate, 297 Ngau Tau Kok Rd, Kowloon",TRUE
+104,29,7-Eleven 牛頭角,7-Eleven Ngau Tau Kok,牛頭角,Ngau Tau Kok,22.32080525,114.2197198,九龍觀塘振華道50號樂華北村順華樓101-102號舖,"101-102, Shun Wah House,  Lok Wah North Estate, Kln",TRUE
+1440,796,7-Eleven 牛頭角 (非24小時營業),7-Eleven Ngau Tau Kok (Non-24 Hours),牛頭角,Ngau Tau Kok,22.32742503,114.2167801,九龍牛頭角彩福?彩喜樓高層地下舖位,"Mini-Convenience Store at UG/F., Choi Hay House, Choi Fook Estate, Ngau Tau Kok, Kowloon",FALSE
+1176,587,7-Eleven 牛頭角 (非24小時營業),7-Eleven Ngau Tau Kok (Non-24 Hours),牛頭角,Ngau Tau Kok,22.31559952,114.2190331,港鐵牛頭角站閘外 NTK 13號舖,"Kiosk No. NTK 13 of Unpaid Concourse at Ngau Tau Kok Station, Kowloon",FALSE
+70,16,7-Eleven 石硤尾,7-Eleven Shek Kip Mei,石硤尾,Shek Kip Mei,22.3348874,114.1653814,九龍白田村第九座地下15-17號舖      ,"Shop 15-17, G/F, Block 9, Pak Tin Estate, Kln",TRUE
+881,383,7-Eleven 石硤尾,7-Eleven Shek Kip Mei,石硤尾,Shek Kip Mei,22.33396511,114.1673443,九龍石硤尾南昌街223-239號/ 偉智街16號名都廣場地下G2及G3號舖位,"Shop Nos. G2 & G3, G/F., Main Town Plaza, No.223-239 Nam Cheong St & No.16 Wai Chi St, Shek Kip Mei, KLN",TRUE
+86,21,7-Eleven 石硤尾,7-Eleven Shek Kip Mei,石硤尾,Shek Kip Mei,22.332355,114.1654401,九龍石硤尾村42座美山樓1號舖地下,"Shop 1, Mei Shan House, Block 42, Shekkipmei Estate, Kln",TRUE
+1463,818,7-Eleven 石硤尾 (非24小時營業),7-Eleven Shek Kip Mei (Non-24 Hours),石硤尾,Shek Kip Mei,22.3402769,114.1644183,九龍澤安?麗澤樓地下1號舖,"Shop No.1, G/F, Lai Chak House, Chak On Estate, Kowloon",FALSE
+1042,486,7-Eleven 石硤尾 (非24小時營業),7-Eleven Shek Kip Mei (Non-24 Hours),石硤尾,Shek Kip Mei,22.33172227,114.1687953,港鐵石硤尾站6號舖位,"Kiosk SKM 6, Unpaid Concourse, Shek Kip Mei MTR Station, KLN",FALSE
+1043,487,7-Eleven 石硤尾 (非24小時營業),7-Eleven Shek Kip Mei (Non-24 Hours),石硤尾,Shek Kip Mei,22.33176196,114.1688168,港鐵石硤尾站9號舖位,"Kiosk SKM 9, Unpaid Concourse, Shek Kip Mei MTR Station, KLN",FALSE
+675,274,7-Eleven 秀茂坪,7-Eleven Sau Mau Ping,秀茂坪,Sau Mau Ping,22.31946538,114.2320472,九龍秀茂坪秀茂坪商場地下22號舖位,"Shop No.22, G/F., Sau Mau Ping Shopping Centre, Sau Mau Ping, KLN",TRUE
+473,168,7-Eleven 秀茂坪,7-Eleven Sau Mau Ping,秀茂坪,Sau Mau Ping,22.32076059,114.2293382,九龍觀塘秀茂坪曉麗苑曉麗商場2樓203號舖,"Shop 203, Lvl 1, Hui Lai Shopping Centre, Hui Lai Court, Sau Mau Ping, KLN",TRUE
+453,151,7-Eleven 秀茂坪,7-Eleven Sau Mau Ping,秀茂坪,Sau Mau Ping,22.3221873,114.2307919,九龍觀塘秀茂坪村第三期停車場1號舖地下,"Shop No.1, Carpark Block, Phase III, Sau Mau Ping (III) Estate, KLN",TRUE
+1046,490,7-Eleven 秀茂坪,7-Eleven Sau Mau Ping,秀茂坪,Sau Mau Ping,22.33120125,114.2262858,九龍觀塘順利村利溢樓B01號舖位,"Shop No. B01, Lee Yat House, Shun Lee Estate, Sau Mau Ping, KLN",TRUE
+116,31,7-Eleven 秀茂坪,7-Eleven Sau Mau Ping,秀茂坪,Sau Mau Ping,22.3267204,114.2259854,九龍順天村天瑤樓地下8號舖,"Shop 8, Tin Yiu House, Shun Tin Estate, Kwun Tong, Kln",TRUE
+1555,908,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.27852728,114.2287186,香港筲箕灣寶文街2號海峰中心地下7號舖,"Shop 7, G/F, Hoi Fung Centre, No. 2 Po Man Street, Shau Kei Wan, Hong Kong",TRUE
+612,240,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.2810548,114.228716,香港筲箕灣愛禮街2號愛蝶灣地下5號舖位,"Shop 5, Ground Floor, Aldrich Garden, No.2 Oi Lai St., Shaukeiwan, HK",TRUE
+716,290,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.281762,114.221396,香港筲箕灣成安街7號地下舖位,"G/F., No.7 Shing On Street, Shaukeiwan, HK",TRUE
+96,24,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.279425,114.229878,香港筲箕灣東大街62-74號太安閣地下23-28號舖,"62-74, Shaukiwan Main East Road, Shaukiwan, HK",TRUE
+1546,899,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.27845654,114.2266318,香港筲箕灣筲箕灣道305號譽都地下5B舖,"Shop 5B, G/F, iUniQ, No. 305 Shau Kei Wan Road, Shau Kei Wan, Hong Kong",TRUE
+382,121,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.27737191,114.2241347,香港筲箕灣耀東村耀東商場中心地下一號舖位,"Shop 1, G/F., Yiu Tung Shopping Centre, Yiu Tung Estate, Shaukeiwan, HK",TRUE
+8,2,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.280592,114.223464,香港筲箕灣道192-198號延齡大廈地下C舖,"Shop C, G/F., Elle Bldg., 192-198 Shaukiwan Road, Shaukiwan, HK",TRUE
+225,68,7-Eleven 筲箕灣,7-Eleven Shau Kei Wan,筲箕灣,Shau Kei Wan,22.2777238,114.2297389,香港筲箕灣金華街18號金威樓地下,"G/F, Kam Wai Building, 18 Kam Wa Street, Shaukiwan, HK",TRUE
+774,324,7-Eleven 筲箕灣 (非24小時營業),7-Eleven Shau Kei Wan (Non-24 Hours),筲箕灣,Shau Kei Wan,22.27912916,114.2289734,筲箕灣地鐵站4號舖(閘內),Kiosk SKW 6 at MTR Shau Kei Wan Station,FALSE
+1028,476,7-Eleven 筲箕灣 (非24小時營業),7-Eleven Shau Kei Wan (Non-24 Hours),筲箕灣,Shau Kei Wan,22.2786788,114.2299015,香港筲箕灣筲箕灣東大街98-112號景輝大廈地下C2舖位,"Shop C2, G/F, King Fai Building, 98-112 Shau Kei Wan Main Street East, Shaukeiwan, HK",FALSE
+1350,718,7-Eleven 筲箕灣 (非24小時營業),7-Eleven Shau Kei Wan (Non-24 Hours),筲箕灣,Shau Kei Wan,22.2807192,114.2200109,香港筲箕灣興東商場地下9號舖,"Shop No. 9, Hing Tung Shopping Centre, Shau Kei Wan, Hong Kong",FALSE
+1267,653,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.487544,114.14274,新界粉嶺一鳴路15號碧湖商場地下G31號舖,"Shop G31 on G/F., Avon Park, 15 Yat Ming Road, Fanling, N.T.",TRUE
+1452,808,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.4879076,114.1419504,新界粉嶺一鳴路18號華心?華心商場地下R31號鋪,"Shop No. R31, G/F, Wah Sum Shopping Centre, Wah Sum Estate, 18 Yat Ming Road, Fanling, N.T.",TRUE
+546,203,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.487184,114.143212,新界粉嶺一鳴路23號牽晴間購物廣場地下34號舖位,"Shop No.G34, G/F., Dawning Views Plaza, No.23 Yat Ming Road, Fanling, NT",TRUE
+1278,662,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.5005552,114.1437496,新界粉嶺和滿街8號帝庭軒商場地下22號舖,"Shop No. 22 on G/F, Regentville Shopping Mall, 8 Wo Mun Street, Fanling, N.T.",TRUE
+918,404,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.4983675,114.1420078,新界粉嶺和豐街9號榮熙閣地下2號舖位,"Shop 2, G/F., Wing Hay Court, No.9 Wo Fung Street, Fanling, NT",TRUE
+412,136,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.49955774,114.1413563,新界粉嶺海聯廣場地下六號舖位,"Shop 6, G/F., Union Plaza, Fanling, NT",TRUE
+461,157,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.485072,114.141145,新界粉嶺百和路88號花都廣場商場地下22-24號舖,"Shop 22-24, L1, Flora Plaza Shopping Arcade, 88 Pak Wo Road, Fanling, NT",TRUE
+613,241,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.4923181,114.1453752,新界粉嶺粉嶺中心一期地下17A舖位,"Shop No.17A on G/F., Fanling Centre, Phase I, Fanling, NT",TRUE
+933,416,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.4965055,114.1387261,新界粉嶺粉嶺圍北650號地下A舖,"Flat A, G/F., No.650 Fan Leng Wai North, Fanling, NT",TRUE
+932,415,7-Eleven 粉嶺,7-Eleven Fanling,粉嶺,Fanling,22.4992323,114.1423275,新界粉嶺聯和墟和隆街19號地下,"G/F., No.19 Wo Lung Street, Luen Wo Hui, Fanling, NT",TRUE
+681,276,7-Eleven 粉嶺 (非24小時營業),7-Eleven Fanling (Non-24 Hours),粉嶺,Fanling,22.49209862,114.1387439,新界九廣東鐵粉嶺站非繳費區8號舖,"Shop FAN 8, Unpaid Concourse, MTR Fanling Station, New Territories",FALSE
+816,344,7-Eleven 粉嶺 (非24小時營業),7-Eleven Fanling (Non-24 Hours),粉嶺,Fanling,22.49238856,114.1394976,新界粉嶺名都商場L2樓39號舖,"Shop 39, Level 2, Fanling Town Centre, Fanling, New Territories.",FALSE
+609,238,7-Eleven 粉嶺 (非24小時營業),7-Eleven Fanling (Non-24 Hours),粉嶺,Fanling,22.50087605,114.1441002,新界粉嶺帝庭軒商場一字樓25號舖位,"Commercial Unit No.25 on Level I of Commercial Accommodation of Regentville, Fanling, NT",FALSE
+1575,928,7-Eleven 粉嶺 (非24小時營業),7-Eleven Fanling (Non-24 Hours),粉嶺,Fanling,22.50103712,114.1461271,新界粉嶺聯和墟馬適路1號逸峰廣場1樓103號舖,"Shop No. 103, 1/F, Green Code Plaza, No. 1 Ma Sik Road, Luen Wo Hui, Fanling, N.T.    ",FALSE
+573,220,7-Eleven 粉嶺 (非24小時營業),7-Eleven Fanling (Non-24 Hours),粉嶺,Fanling,22.4826146,114.1386403,新界粉嶺華明路22號雍盛商場地下3號舖位,"Shop 3, G/F., Yung Shing Shopping Centre, No.22 Wah Ming Road, Fanling, NT",FALSE
+925,409,7-Eleven 粉嶺 (非24小時營業),7-Eleven Fanling (Non-24 Hours),粉嶺,Fanling,22.49249017,114.1384327,港鐵粉嶺站非繳費區6及7號舖,"Shops FAN 6 & 7 at Unpaid Concourse of MTR Fanling Station, New Territories",FALSE
+1371,734,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.3150303,114.189591,九龍浙江街38A號益豐大廈A座地下舖位,"G/F, Block A, I - Feng Mansions, No. 38A Chi Kiang Street, Kowloon",TRUE
+512,191,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.3120917,114.1892891,九龍紅磡崇安街17號陽光廣場地下H號舖,"Shop No. H, G/F., Sunshine Plaza, 17 Sung On Street, Hunghom, KLN",TRUE
+1090,518,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.3074747,114.1862239,九龍紅磡差館里17-19號聚賢大廈地下2A-2B舖位,"Shop 2A-2B, G/F., Wisdom Building, No.17-19 Station Lane, Hunghom, Kowloon",TRUE
+503,184,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.30540337,114.1903818,九龍紅磡康街6號黃埔花園紫荊苑11期地下3C舖,"Shop G3C, G/F., Bauhinia Mansion (Site 11), Whampoa Garden, Hung Hom",TRUE
+960,434,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.30766773,114.1887403,九龍紅磡戴亞街紅磡?紅暉樓地下1號舖位,"Shop 1, G/F., Hung Fai House, Hung Hom Estate, Dyer Avenue, Hung Hom, Kln",TRUE
+1281,664,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.3121829,114.1873519,九龍紅磡機利士北路661-667號昌盛金舖大樓地下F號舖位,"Shop F , Ground Floor, Cheong Shing Court, Nos.661-673 Gillies Avenue North and Nos.5-7 San Lau Street, Hung Hom, Kowloon",TRUE
+1413,770,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.307789,114.1847841,九龍紅磡機利士南路63號合義樓地下B舖位,"Shop B on Ground Floor, Hop Yee Building, No.63 Gillies Avenue South, Hunghom, Kowloon",TRUE
+743,309,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.309351,114.188622,九龍紅磡民裕街37至45號凱旋工商中心1期地下B1號舖位,"Unit B1, G/F. Phase 1 Kaiser Estate, 37-45 Man Yue Street, Hung Hom, KLN",TRUE
+1375,737,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.309233,114.191398,九龍紅磡海逸道8號漁人碼頭UG層UG12及13號舖,"Shop Nos. UG12-13, UG/F, Fisherman's Wharf, No. 8 Laguna Verde Avenue, Hung Hom, Kowloon",TRUE
+1442,798,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.3058223,114.1860306,九龍紅磡湖光街1-7號聯盛大廈地下17D舖,"Shop 17D, G/F, United Building , Nos.1-7 Wu Kwong Street, Hung Hom, Kowloon",TRUE
+1536,889,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.307058,114.18612,九龍紅磡蕪湖街83號逸酒店地下5號舖(逸．酒店),"Shop 5, G/F, Hotel s'av, No. 83 Wuhu Street, Hung Hom, Kowloon",TRUE
+16,6,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.3062159,114.1877069,九龍紅磡黃埔新村民泰街2-32號永華及達華樓地下B2A-B2B,"Shop B2A,B2B, 2-32 Man Tai St, Wing Wah Bldg & Wing Yuen Bldg, Blk F&G,Whampoa Est, Kln",TRUE
+913,401,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.3039073,114.180889,九龍紅磡黃埔花園1期地下G20號舖位,"Shop No. G20, G/F., Amazing World, Site 1, Whampoa Garden, Hunghom, Kowloon",TRUE
+1573,926,7-Eleven 紅磡,7-Eleven Hung Hom,紅磡,Hung Hom,22.30383505,114.1888864,九龍紅磡黃埔花園第四期地下G13及G13A號舖,"Shop Nos.G13 and G13A, G/F, Site 4, Whampoa Garden, Hunghom, Kowloon",TRUE
+886,386,7-Eleven 紅磡 (非24小時營業),7-Eleven Hung Hom (Non-24 Hours),紅磡,Hung Hom,22.3061742,114.1851705,九龍紅磡福至街38至42號紅磡灣中心地下5號舖位,"Shop No.5, G/F., Hunghom Bay Centre, No.38 - 42 Fuk Chi St, Hunghom, KLN",FALSE
+392,128,7-Eleven 紅磡 (非24小時營業),7-Eleven Hung Hom (Non-24 Hours),紅磡,Hung Hom,22.3042688,114.1792554,九龍紅磡紅磡育才道11號香港理工學院邵逸夫綜合大樓二字樓C210室,"2/F., Rm VA206, Shaw's Amenities Bldg., Yuk Choi Rd., HK Polytechnic, Hung Hom, Kln",FALSE
+727,296,7-Eleven 紅磡 (非24小時營業),7-Eleven Hung Hom (Non-24 Hours),紅磡,Hung Hom,22.30312781,114.1834402,九龍紅磡都會道6號都會商場7樓760號舖,"Shop 760 Level 7, The Metropolis Mall, 6 Metropolis Drive Hunghom Bay, KLn",FALSE
+1579,932,7-Eleven 紅磡 (非24小時營業),7-Eleven Hung Hom (Non-24 Hours),紅磡,Hung Hom,22.30304344,114.1824684,港鐵紅磡站非繳費區 HUH S01號舖,Shop HUH S01 at Unpaid Concourse of MTR Hung Hom Station,FALSE
+1592,945,7-Eleven 紅磡 (非24小時營業),7-Eleven Hung Hom (Non-24 Hours),紅磡,Hung Hom,22.3048838,114.1891165,港鐵黃埔站商舖WHA E1號舖 ,Concession WHA E1 at MTR Whampoa Station  ,FALSE
+1593,946,7-Eleven 紅磡 (非24小時營業),7-Eleven Hung Hom (Non-24 Hours),紅磡,Hung Hom,22.305715,114.1879308,港鐵黃埔站商舖WHA W2號舖 ,Concession WHA W2 at MTR Whampoa Station  ,FALSE
+1276,660,7-Eleven 紅磡 (非24小時營業),7-Eleven Hung Hom (Non-24 Hours),紅磡,Hung Hom,22.3033095,114.1848538,香港九龍紅磡紅樂道8號4樓405室,"Room 405, 4/F, 8 Hung Lok Road, Hung Hom, Kowloon",FALSE
+1133,553,7-Eleven 羅湖 (非24小時營業),7-Eleven Lo Wu (Non-24 Hours),羅湖,Lo Wu,22.52914739,114.1134077,港鐵羅湖火車站2樓入境大堂閘外K8號舖,"Shop LOW K8 on 2/F, Unpaid & Arrival Concourse of MTR Lo Wu Station, New Territories",FALSE
+207,61,7-Eleven 美孚,7-Eleven Mei Foo,美孚,Mei Foo,22.33881538,114.1393179,九龍美孚新村恆柏街2號N32 地舖     ,"Shop N, 32 G/F., Stage Via 2 Humbert St, Mei Foo Sun Chuen, Kowloon",TRUE
+423,139,7-Eleven 美孚,7-Eleven Mei Foo,美孚,Mei Foo,22.335912,114.1408,九龍美孚新村百老匯街69-119號地下99C號舖,"Shop 99C, G/F, 69-119 Broadway, Mei Foo Sun Chuen, Kln",TRUE
+1272,657,7-Eleven 美孚,7-Eleven Mei Foo,美孚,Mei Foo,22.33877569,114.1393769,九龍美孚美孚新?蘭秀街17-36號地下N44A舖位,"Shop No.N44A on G/F., Nos.2-8,9,11,15 & 17 Humbert Street, Nos.17-25,26,27,28-36 Nassau Street, Mei Foo Sun Chuen, Mei Foo, Kowloon",TRUE
+1286,668,7-Eleven 美孚 (非24小時營業),7-Eleven Mei Foo (Non-24 Hours),美孚,Mei Foo,22.334061,114.142194,九龍荔枝角寶輪街1號萬坊商場地下3號舖,"Shop G03, G/F, Manhattan Mid-town, No 1 Po Lun Street, Lai Chi Kok, Kowloon",FALSE
+769,323,7-Eleven 美孚 (非24小時營業),7-Eleven Mei Foo (Non-24 Hours),美孚,Mei Foo,22.33769152,114.136405,美孚地鐵站2號舖(閘內),Kiosk MEF 2 at MTR Mei Foo Station,FALSE
+620,245,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3722207,114.1172509,新界荃灣兆和街3-17號慶興樓地下16號舖部份,"Portion of Shop 16, G/F., Hing Hing Bldg, 3-17 Shiu Wo St, Tsuen Wan, NT",TRUE
+890,388,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3710853,114.1121131,新界荃灣大壩街77-83號大苑樓地下C舖位,"Shop C, G/F., Tai Yuen House, No.77-83 Tai Pa St, Tsuen Wan, NT",TRUE
+478,170,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3687773,114.1232429,新界荃灣大廈街15-17號仁雅大廈地下A舖及閣樓,"Shop A on G/F & C/L., Yen Ya Bldg., 15-17 Tai Ha St., Tsuen Wan, NT",TRUE
+361,111,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.36827315,114.1237718,新界荃灣大窩口村購物中心第二期1號舖,"Shop No. 1, Commercial Centre 2, Tai Wo Hau Estate, Tsuen Wan, N.T.",TRUE
+603,234,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.37260508,114.115748,新界荃灣安榮街2-6號富榮大廈地下9號舖位,"Shop 9 on G/F., Fortune Mansion, Nos.2-6 On Wing St., Tsuen Wan, NT",TRUE
+1022,471,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.370572,114.1162478,新界荃灣川龍街69-77號千龍大樓地下B舖位,"Shop B on G/F., Chin Lung Building, Nos.69 - 77 Chuen Lung Street, Tsuen Wan, N.T.",TRUE
+345,102,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3701071,114.1158213,新界荃灣川龍街93號地下舖位,"G/F., 93 Chuen Lung Street, Tsuen Wan, N.T.",TRUE
+1029,477,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.361879,114.114488,新界荃灣怡樂街1-5號海濱花園 E座地下101號舖位,"Shop No.101 on Ground Floor of Podium E of Riviera Gardens, Nos.1-5 Yi Lok Street, Tsuen Wan, New Territories",TRUE
+1050,492,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.37632426,114.1116965,新界荃灣愉景新城2樓43號舖位,"Shop 43, Level 2, Discovery Park Commercial Centre, Tsuen Wan, N.T.",TRUE
+935,418,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3735739,114.1124101,新界荃灣曹公街2號及海霸街22-32號華達大廈地下C舖,"Shop C, G/F., Wah Dat Building, Nos.22-32 Hoi Pa Street and No.2 Tso Kung Street, Tsuen Wan, N.T.",TRUE
+1126,546,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3664841,114.1178078,新界荃灣楊屋道118號立坊地下A舖,"Shop A on G/F., H Cube, No.118 Yeung Uk Road, Tsuen Wan, NT.",TRUE
+964,437,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3663202,114.1181562,新界荃灣楊屋道138號樂悠居地下6C舖位,"Shop No.6C on G/F. of Indihome, No.138 Yeung Uk Road, Tsuen Wan, N.T",TRUE
+1342,711,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.367939,114.1138738,新界荃灣楊屋道18號荃新天地2期地下G01號舖,"Shop No. G01, G/F., Citywalk 2, 18 Yeung Uk Rd., Tsuen Wan, N.T.",TRUE
+1169,582,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.36993748,114.1135821,新界荃灣楊屋道1號荃新天地地下G69號舖,"Shop No.G69, Ground Floor of Citywalk, No.1 Yeung Uk Road, Tsuen Wan, New Territories",TRUE
+15,5,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3727054,114.111537,新界荃灣沙咀道131-137號運昌樓地下D舖,"Shop D., G/F., Win Cheung Hse, 131-137 Sha Tsui Road, Tsuen Wan, NT",TRUE
+1186,594,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3684,114.117777,新界荃灣沙咀道328號寶石大廈地下8A及9號舖位 ,"Shop Nos.8A-9, G/F., Commercial Premises of Bo Shek Mansion, No.328 Sha Tsui Road, Tsuen Wan, N.T.",TRUE
+1359,724,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3722944,114.1152531,新界荃灣海壩街83-93號荃好景大廈地下F舖位,"Shop F, G/F, Tsuen King Building, Nos. 83-93 Hoi Pa Street, Tsuen Wan, N.T.",TRUE
+433,142,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.36236225,114.1132937,新界荃灣海濱花園怡康街1-7號地下平台 A132號舖部份,"G/F, Shop 132, Podium A, Riviera Garden, 1-7 Yi Hong St, Tsuen Wan, NT",TRUE
+243,73,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3701121,114.1110296,新界荃灣海盛路28號祈德尊新村商場地下5-7號舖,"G/F, Shop 5-7 Comm Ctr, Clague Garden Est, 28 Hoi Shing Rd, Tsuen Wan, NT",TRUE
+1566,919,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.37140832,114.1188969,新界荃灣眾安街67-95號荃灣街市街荃灣千色匯地下G8號舖,"Shop No. G8, G/F, KOLOUR <U+02D6> Tsuen Wan II, Nos. 67-95 Tsuen Wan Market Street, Tsuen Wan, N.T.",TRUE
+586,227,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3693979,114.1165464,新界荃灣眾安街9號地下舖位,"G/F., No.69 Chung On St., Tsuen Wan, NT",TRUE
+300,88,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3638311,114.1143008,新界荃灣石圍角村商場330號舖,"Shop No.330, Comm. Centre, Shek Wai Kok Estate, Tsuen Wan, NT",TRUE
+1448,804,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3690712,114.1214438,新界荃灣荃富街12-28號富麗花園地下41及42號舖,"Shop Nos.  41 & 42, G/F of Podium B, Wealthy Garden, Nos.12-28 Tsuen Fu Street, Tsuen Wan, N.T.",TRUE
+1366,730,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.37685007,114.104079,新界荃灣荃景圍187-195號荃威花園第一期地下7號舖,"Shop No.7, Ground Floor, Phase 1, Commercial Development, Allway Gardens, Nos.187-195 Tsuen King Circuit, Tsuen Wan, N.T",TRUE
+1208,611,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.37670126,114.1067398,新界荃灣荃景圍208號荃德花園地下2號舖位,"Shop 2, G/F., Tsuen Tak Gardens, No.208 Tsuen King Circuit, Tsuen Wan, N.T.",TRUE
+344,101,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3789533,114.1081345,新界荃灣荃景圍94-98號荃灣中心2期15-17座高層地下10-17號,"Shop 10-17, UG/F, Blk 15-17, Tsuen Wan Ctr., Phase II, 94-98 Tsuen King Circuit, NT",TRUE
+1505,858,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.3700542,114.1199213,新界荃灣荃灣街市街120號安裕大廈地下,"G/F, No. 120 Tsuen Wan Market Street, On Yue Building, Tsuen Wan, N.T.",TRUE
+1451,807,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.369245,114.120698,新界荃灣荃華街3號悅來坊商場地下G8B號舖,"Shop No. G8B, G/F, Panda Place of Panda Hotel, No. 3 Tsuen Wah Street, Tsuen Wan, N.T.",TRUE
+752,316,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.372637,114.101919,新界荃灣青山公路530至590號麗城花園一期地下3號舖位,"Shop 3 G/F. Belvedere Garden Phase 1, 530-590 Castle Peak Rd, Tsuen Wan, NT.",TRUE
+958,433,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.369675,114.1177614,新界荃灣鹹田街48號成安樓地下,"Ground Floor, Shing On Building, No.48 Ham Tin Street, Tsuen Wan, NT.",TRUE
+511,190,7-Eleven 荃灣,7-Eleven Tsuen Wan,荃灣,Tsuen Wan,22.37075351,114.0993181,新界荃灣麗城花園2期麗城商場地下3號舖位,"Shop 3 G/F., Belvedere Shopping Centre, Belvedere Garden, Phase II, Tsuen Wan, NT",TRUE
+1051,493,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.36749926,114.1105968,新界荃灣九廣西鐵荃灣西站地下18號舖位,"Shop No. TWW 18, Ground Level, Unpaid Concourse of MTR Tsuen Wan West Station, New Territories",FALSE
+1271,656,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.3780799,114.1367824,新界荃灣梨木樹?梨木樹商場23號舖,"Shop 23, Lei Muk Shue Shopping Centre, Lei Muk Shue Estate, Tsuen Wan, N.T.",FALSE
+1443,799,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.368746,114.1130002,新界荃灣楊屋道8號如心廣場1樓110號舖,"Shop No. 110, 1/F., (Level 2), Nina Tower, No. 8 Yeung Uk Road, Tsuen Wan, NT",FALSE
+1456,812,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.36430942,114.1137725,新界荃灣永順街38號海灣花園2座地下G1A舖,"Shop No. G1A, G/F, Block 2, Waterside Plaza, 38 Wing Shun Street, Tsuen Wan, N.T.",FALSE
+1559,912,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.3724389,114.1075552,新界荃灣海盛路11號One Midtown 地下1號舖前部份舖位,"Front Portion of Unit 1, G/F, One Midtown, No. 11 Hoi Shing Road, Tsuen Wan, N.T.",FALSE
+1072,505,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.36861916,114.121386,"新界荃灣荃華街16號創意無限商場地下120, 121及123號舖位","Shop Nos. 120, 121 and 123, Ground Floor, Smartland, Nos. 36-60 Texaco Road, Tsuen Wan, New Territories",FALSE
+1537,890,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.37012102,114.1207825,"新界葵涌葵涌青山公路659號, 健全街26-34號及健康街25號荃灣帝盛酒店地下","G/F, Dorsett Tsuen Wan, No. 25 Kin Hong Street & Nos. 26-34 Kin Chuen Street & No. 659 Castle Peak Road Kwai Chung, Kwai Chung, N.T.",FALSE
+767,322,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.37361085,114.1177797,港鐵荃灣站2號舖閘外A出口,Kiosk TSW 4 at MTR Tsuen Wan Station,FALSE
+1477,831,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.37335537,114.1183108,港鐵荃灣站TSW 5號舖,Kiosk No. TSW 5 at MTR Tsuen Wan Station,FALSE
+1465,820,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.36833764,114.1099638,港鐵荃灣西站TWW 15號舖,Shop TWW 15 at MTR Tsuen Wan West Station,FALSE
+799,336,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.36854599,114.1098619,荃灣西鐵站3號舖,"Shop TWW 3, Unpaid Concourse at MTR Tsuen Wan West Station, New Territories",FALSE
+687,277,7-Eleven 荃灣 (非24小時營業),7-Eleven Tsuen Wan (Non-24 Hours),荃灣,Tsuen Wan,22.3738014,114.1163447,荃灣青山公路264-298號南豐中心1樓A016-A017號舖位,"A016-A017, 1/F, Nan Fung Centre, 264-298 Castle Peak Rd, Tsuen Wan, NT",FALSE
+907,396,7-Eleven 荔枝角,7-Eleven Lai Chi Kok,荔枝角,Lai Chi Kok,22.33247402,114.1468549,九龍荔枝角海麗?海麗商場地下8號舖位,"Shop No.8, G/F., Hoi Lai Shopping Centre, Hoi Lai Estate, Lai Chi Kok, KLN",TRUE
+1478,832,7-Eleven 荔枝角,7-Eleven Lai Chi Kok,荔枝角,Lai Chi Kok,22.3408195,114.1336201,九龍荔枝角瑪嘉烈醫院道2-10號瑪嘉烈醫院大樓地下,"The Convenience Store, G/F, Main Block, Princess Margaret Hospital, Nos. 2-10 Princess Margaret Hospital Road, Lai Chi Kok, Kowloon",TRUE
+750,315,7-Eleven 荔枝角,7-Eleven Lai Chi Kok,荔枝角,Lai Chi Kok,22.334333,114.147142,九龍荔枝角荔枝角道863號泓景匯一樓33號舖位,"Shop 33, 1/F., Banyan Mall, 863 Lai Chi Kok Road, Lai Chi Kok, Kowloon",TRUE
+1160,574,7-Eleven 荔枝角 (非24小時營業),7-Eleven Lai Chi Kok (Non-24 Hours),荔枝角,Lai Chi Kok,22.337727,114.146341,九龍荔枝角地鐵站閘外 LCK 13號舖位,"Kiosk No.LCK13, Unpaid Concourse at Lai Chi Kok MTR Station",FALSE
+944,426,7-Eleven 荔枝角 (非24小時營業),7-Eleven Lai Chi Kok (Non-24 Hours),荔枝角,Lai Chi Kok,22.33290076,114.1463238,九龍荔枝角海麗?海麗商場一樓104號舖位,"Shop 104, 1/F., Hoi Lai Shopping Centre, Hoi Lai Estate, Lai Chi Kok, KLN",FALSE
+1523,876,7-Eleven 荔枝角 (非24小時營業),7-Eleven Lai Chi Kok (Non-24 Hours),荔枝角,Lai Chi Kok,22.3346569,114.1491577,九龍荔枝角深盛路9號宇晴軒2樓13號舖,"Shop No. 13, 2/F, The Pacifica Mall, No. 9 Sham Shing Road, Lai Chi Kok, Kowloon",FALSE
+1113,536,7-Eleven 落馬洲 (非24小時營業),7-Eleven Lok Ma Chau (Non-24 Hours),落馬洲,Lok Ma Chau,22.51432115,114.0656805,港鐵落馬洲火車站2樓閘外1號舖位,"Shop LMC 201, Level 2 at Unpaid Concourse of MTR Lok Ma Chau Station, New Territories",FALSE
+1112,535,7-Eleven 落馬洲 (非24小時營業),7-Eleven Lok Ma Chau (Non-24 Hours),落馬洲,Lok Ma Chau,22.51442026,114.0657556,港鐵落馬洲火車站閘內1樓22號舖位,"Shop LMC 122, Level 1 at Paid Concourse of MTR Lok Ma Chau Station, New Territories",FALSE
+1114,537,7-Eleven 落馬洲 (非24小時營業),7-Eleven Lok Ma Chau (Non-24 Hours),落馬洲,Lok Ma Chau,22.51446981,114.0655839,港鐵落馬洲火車站閘內3樓6號舖位,"Shop LMC 306, Level 3 at Paid Concourse of MTR Lok Ma Chau Station, New Territories",FALSE
+1110,533,7-Eleven 落馬洲 (非24小時營業),7-Eleven Lok Ma Chau (Non-24 Hours),落馬洲,Lok Ma Chau,22.51443512,114.0655142,港鐵落馬洲火車站閘外1樓18號舖位,"Shop LMC 118, Level 1 at Unpaid Concourse of MTR Lok Ma Chau Station, New Territories",FALSE
+1481,835,7-Eleven 落馬洲 (非24小時營業),7-Eleven Lok Ma Chau (Non-24 Hours),落馬洲,Lok Ma Chau,22.51507439,114.0656269,港鐵落馬洲站1樓離境大堂LMC 113號舖,"Shop No. LMC 113, First Floor Level Departure Concourse, MTR Lok Ma Chau Station",FALSE
+322,94,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.34861714,114.1264674,新界荔景葵涌賢麗苑商場第1號舖,"Shop 1, Yin Lai Court Shopping Centre, Yin Lai Court, Lai King, NT",TRUE
+69,15,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3603251,114.1270049,新界葵涌信芳街10-12號月波樓地下B2舖,"B2, G/F, Yuet Bor Building, 10-12 Shun Fong Street, Kwai Chung, NT",TRUE
+1067,502,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.370257,114.138359,新界葵涌和宜合道186-218號誼發大廈地下16及29號舖,"Shop 16 & 29, G/F, Yee Fat Building, 186-218 Wo Yi Hop Road, Kwai Chung, NT",TRUE
+871,377,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36698,114.138963,"新界葵涌和宜合道50-56號葵涌花園低層地下1A, 1B及1D號舖位","1A, 1B & 1D, LG/F Kwai Chung Fa Yuen, 50-56 Wo Yi Hop Rd, Kwai Chung, NT.",TRUE
+1335,705,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3711838,114.1417988,新界葵涌安蔭村安蔭商場1樓115號舖,"Shop No.115, 1/F, On Yam Shopping Centre, On Yam Estate, Kwai Chung, NT",TRUE
+865,374,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36268,114.133867,新界葵涌工業街2-8號力豐工業大廈地下D舖,"Workshop D, G/F., Effort Industrial Bldg, 2-8 Kung Yip St, Kwai Chung, NT",TRUE
+1564,917,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.34180858,114.1376817,新界葵涌景荔徑8號盈暉薈地下G01.1及G01.2號舖,"Shop G01.1 & G01.2, G/F, Nob Hill Square, No. 8 King Lai Path, Kwai Chung, N.T.",TRUE
+549,206,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36576793,114.1393501,新界葵涌石籬商場第二期地下5號舖位,"Shop No.5, G/F., Shek Lei Shopping Centre, Phase II, Kwai Chung, NT",TRUE
+912,400,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3696654,114.1396833,新界葵涌石蔭路78至84及88至96號天安樓地下2號舖位,"Shop No.2, G/F., Tin On House, Nos.78-84 & 88-96 Shek Yam Rd, Kwai Chung, NT",TRUE
+1205,608,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3455403,114.1283984,新界葵涌祖堯?敬祖路6號祖堯中心地下C座C003號舖位,"C003 , Blk C, G/F Cho Yiu Centre, 6 King Cho Rd, Cho Yiu Chuen, Kwai Chung, NT",TRUE
+1245,633,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3674956,114.1328343,新界葵涌禾塘咀街127-133號錦華樓地下C舖,"Shop C, G/F., Kam Wah House, No.127-133 Wo Tong Tsui Street, Kwai Chung, N.T          .",TRUE
+904,394,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36758856,114.1277254,新界葵涌葵涌商場地下1號舖位,"Shop 1, G/F., Kwai Chung Shopping Centre, Kwai Chung, NT",TRUE
+953,430,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36428462,114.1274223,新界葵涌葵盛東? 葵盛東商場地下1號舖,"Shop 1, G/F., Kwai Shing East Shopping Centre, Kwai Shing East Estate, Kwai Chung, NT.",TRUE
+1158,572,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36077968,114.1223797,新界葵涌葵盛西?購物廊2樓24號舖位,"Shop 24, 2/F., Shopping Arcade, Kwai Shing West Estate, Kwai Chung, N.T.",TRUE
+359,109,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36007273,114.1289887,新界葵涌葵芳村葵健樓第1-2及12-13號舖位,"Shop Nos. 1-2 + 12-13, Kwai Kin House, Kwai Fong Estate, Kwai Fong, N.T.",TRUE
+1127,547,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3672491,114.1353657,新界葵涌青山公路450-454號名賢大樓地下C舖位,"Shop C, G/F., Ming Yin Building, Nos.450-454 Castle Peak Road, Kwai Chung, NT",TRUE
+1219,618,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3539159,114.1307831,新界葵涌麗瑤?麗瑤街市1號舖位,"Shop No.1, Lai Yiu Market, Lai Yiu Estate, Kwai Chung, N.T.",TRUE
+302,89,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.36660631,114.1329771,新界葵興葵興商場地下13-14號舖,"Shop 13 & 14, G/F, Kwai Hing Shopping Centre, Kwai Hing Estate, NT",TRUE
+1296,675,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3571261,114.1273968,新界葵芳興芳路223號新都會廣場1樓163號舖,"Shop 163, L1, Metroplaza, No. 223 Hing Fong Road, Kwai Fong, N.T.",TRUE
+1243,632,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.35768643,114.1297638,新界葵芳葵芳商場地下3號舖,"Shop No.3, Ground Floor, Kwai Fong Shopping Centre, Kwai Fong, NT",TRUE
+1411,768,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3629038,114.1315337,葵涌興芳路166-174號新葵興廣場地下1號舖,"Shop No. 1, Ground Floor, Sun Kwai Hing Plaza, 166-174 Hing Fong Road, Kwai Chung, N.T.",TRUE
+947,428,7-Eleven 葵涌,7-Eleven Kwai Chung,葵涌,Kwai Chung,22.3592346,114.1272836,葵芳盛芳街23-39號勝華大廈地下E舖,"Shop E, G/F., Shing Wah Building, No.23-39 Shing Fong Street, Kwai Fong, NT.",TRUE
+1331,703,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.36587459,114.139393,新界葵涌石籬一村石籬商場一期1樓102號舖,"Shop No.102, 1/F, Shek Lei Shopping Centre Phase 1, Shek Lei (I) Estate, Kwai Chung, New Territories",FALSE
+843,359,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.371558,114.1385919,新界葵涌石蔭商場地下4號舖,"Shop No.4 G/F Shek Yam Shopping Centre, Kwai Chung, New Territories",FALSE
+506,186,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.3431067,114.123498,新界葵涌第三號貨櫃碼頭亞洲貨櫃中心B 座 12 字樓部份,"12/F, Centre B, Container Freight Station Complex Phase 3-5, Terminal 3, Kwai Chung",FALSE
+537,202,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.3486127,114.130347,新界葵涌荔崗街浩景臺地下舖位,"Shop 1, Highland Park, No.11 Lai Kong Street, Kwai Chung, NT",FALSE
+1510,863,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.361519,114.1325849,新界葵涌葵昌路51號九龍貿易中心2樓212號舖,"Shop No. 212 on Level 2 of Kowloon Commerce Centre, No. 51 Kwai Cheong Road, Kwai Chung, N.T.",FALSE
+1417,774,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.36177933,114.1242385,新界葵涌葵聯?聯喜樓地下5號舖位,"Shop No. 5, G/F, Luen Hei House, Kwai Luen Estate, Kwai Chung, N.T.",FALSE
+1525,878,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.36385736,114.1316528,新界葵涌葵興路100-102號葵涌中心地下A02號舖,"Shop A2, G/F, Kwai Chung Centre, No. 100-102 Kwai Hing Road, Kwai Chung, N.T.",FALSE
+1235,628,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.36306423,114.13118,新界葵興站KWH 6號舖,"MTR Station Kiosk No. KWH 6 at Kwai Hing Station, N.T",FALSE
+823,348,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.356719,114.1276771,新界葵芳地鐵站KWF13號舖位,"Kiosk KWF13 Kwai Fong MTR Station, NT",FALSE
+647,258,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.34836906,114.1261482,港鐵荔景站LAK 1舖位,"Kiosk No.LAK 1, Lai King MTR Station, NT",FALSE
+1454,810,7-Eleven 葵涌 (非24小時營業),7-Eleven Kwai Chung (Non-24 Hours),葵涌,Kwai Chung,22.35708613,114.1279292,港鐵葵芳站KWF 10-11鋪位,Kiosk KWF 10-11 at MTR Kwai Fong Station,FALSE
+352,107,7-Eleven 藍田,7-Eleven Lam Tin,藍田,Lam Tin,22.30251486,114.2401314,九龍廣田村廣田商場1號舖位,"Shop No. 1, Kwong Tin Shopping Centre, Kwong Tin Estate, Kowloon.",TRUE
+551,208,7-Eleven 藍田,7-Eleven Lam Tin,藍田,Lam Tin,22.30849282,114.2347831,九龍藍田啟田村啟田商場地下7號舖位,"Shop 7, G/F., Kai Tin Shopping Centre, Kai Tin Estate, Lam Tin, KLN",TRUE
+482,172,7-Eleven 藍田,7-Eleven Lam Tin,藍田,Lam Tin,22.30598156,114.2372721,九龍藍田平田村平田商場地下G01舖,"Shop No. G01, Ping Tin Shopping Centre, Ping Tin Estate, Lam Tin, Kln.",TRUE
+1332,704,7-Eleven 藍田,7-Eleven Lam Tin,藍田,Lam Tin,22.310903,114.238071,九龍藍田碧雲道223號德田村德田商場地下G1B號舖,"Shop No. G1B, G/F, Tak Tin Shopping Centre, 223 Pik Wan Road, Lam Tin, KLN",TRUE
+224,67,7-Eleven 藍田,7-Eleven Lam Tin,藍田,Lam Tin,22.3124428,114.2379817,九龍藍田興田村殷田樓一座地下101號舖,"Shop 101, G/F, Block 1, Yan Tin House, Hing Tin Estate, Kln",TRUE
+1343,712,7-Eleven 藍田,7-Eleven Lam Tin,藍田,Lam Tin,22.29257338,114.2376503,九龍鯉魚門祟信街8號鯉灣天下地下3A號舖,"Shop 3A, G/F, CanarySide, 8 Shung Shun Street, Lei Yue Mun, Kowloon",TRUE
+1337,707,7-Eleven 藍田 (非24小時營業),7-Eleven Lam Tin (Non-24 Hours),藍田,Lam Tin,22.2964166,114.2395606,九龍油塘鯉魚門廣場2樓212A號舖,"Shop No. 212A, Level 2, Lei Yue Mun Plaza, Yau Tong, Kowloon",FALSE
+1381,743,7-Eleven 藍田 (非24小時營業),7-Eleven Lam Tin (Non-24 Hours),藍田,Lam Tin,22.2964166,114.2395606,九龍油塘鯉魚門道80號鯉魚門廣場1樓110號舖,"Shop No. 110, First Floor, Lei Yue Mun Plaza, 80 Lei Yue Mun Road, Yau Tong, Kowloon",FALSE
+552,209,7-Eleven 藍田 (非24小時營業),7-Eleven Lam Tin (Non-24 Hours),藍田,Lam Tin,22.30707094,114.2335519,"九龍藍田匯景花園商場4A17,4A18A,4A18B號舖位(地鐵站交界)","Shop Nos.4A17, 4A18A and 4A18B of Unit A,Level (Site 1) 26 Sceneway Garden, 8 Sceneway Rd., Lam Tin",FALSE
+1247,635,7-Eleven 藍田 (非24小時營業),7-Eleven Lam Tin (Non-24 Hours),藍田,Lam Tin,22.3086347,114.2347775,九龍藍田啟田商場2樓222號舖,"Shop 222, Second Floor, Kai Tin Shopping Centre, Lam Tin, Kowloon",FALSE
+1384,745,7-Eleven 藍田 (非24小時營業),7-Eleven Lam Tin (Non-24 Hours),藍田,Lam Tin,22.3028882,114.2396999,九龍藍田碧雲道168號廣田商場地下9號舖,"Shop No. 9, Ground Floor, Kwong Tin Shopping Centre, 168 Pik Wan Road, Lam Tin, Kowloon",FALSE
+1421,778,7-Eleven 藍田 (非24小時營業),7-Eleven Lam Tin (Non-24 Hours),藍田,Lam Tin,22.31004124,114.237991,九龍藍田碧雲道223號德田?德田商場2樓211號舖,"Shop No. 211, Second Floor, Commercial Block (Also Known as Tak Tin Plaza), Tak Tin Estate, 223 Pik Wan Road, Kowloon",FALSE
+1517,870,7-Eleven 藍田 (非24小時營業),7-Eleven Lam Tin (Non-24 Hours),藍田,Lam Tin,22.30848041,114.232251,九龍藍田鯉安苑停車場大樓地下2號舖,"Shop No. 2, G/F, Carpark Building, Lei On Court, Lam Tin, Kowloon",FALSE
+741,307,7-Eleven 西灣河,7-Eleven Sai Wan Ho,西灣河,Sai Wan Ho,22.28158381,114.2231128,香港筲箕灣興民街1至18號協青社賽馬會大樓地下3號舖位,"Shop 3, G/F., Youth Outreach Jockey Club Building,1-18 Hing Man Street, Shaukeiwan, HK",TRUE
+348,104,7-Eleven 西灣河,7-Eleven Sai Wan Ho,西灣河,Sai Wan Ho,22.2836603,114.2209852,香港筲箕灣道15-31號興祥大廈地下E舖,"Shop E, G/F, Hing Cheung Building, 15-31 Shaukiwan Road, HK",TRUE
+1023,472,7-Eleven 西灣河,7-Eleven Sai Wan Ho,西灣河,Sai Wan Ho,22.28433873,114.2233273,香港西灣河太康街35號鯉景灣C段GC04舖位,"Shop GC04, G/F., Lei King Wan, Site C, 35 Tai Hong Street, Hong Kong",TRUE
+1203,607,7-Eleven 西灣河,7-Eleven Sai Wan Ho,西灣河,Sai Wan Ho,22.28344773,114.2237672,香港西灣河鯉景灣太安街25號D區地下GD18號舖,"Shop No. GD18, G/F, Site D, 25 Tai On Street, Lei King Wan, Hong Kong",TRUE
+1467,822,7-Eleven 西灣河 (非24小時營業),7-Eleven Sai Wan Ho (Non-24 Hours),西灣河,Sai Wan Ho,22.28216954,114.2218843,港鐵西灣河站SWH 8號舖,Shop SWH 8 at MTR Sai Wan Ho Station,FALSE
+1002,455,7-Eleven 西環,7-Eleven Western,西環,Western,22.2827593,114.1268956,香港堅尼地城厚和街47-51號地下B舖,"G/F, Block B, Nos. 47, 49 & 51 Hau Wo Street, Hong Kong",TRUE
+1349,717,7-Eleven 西環,7-Eleven Western,西環,Western,22.2821878,114.1284681,香港士美菲路12號文光閣地下部份C舖,"Portion of Shop C, Ground Floor, Man Kwong Court, No.12 Smithfield, HK",TRUE
+595,230,7-Eleven 西環,7-Eleven Western,西環,Western,22.2878883,114.1445002,香港德輔道西125號大興大廈地下E號舖位,"Shop E, G/F., Tai Hing Bldg., 125 Des Voeux Rd West, HK",TRUE
+597,231,7-Eleven 西環,7-Eleven Western,西環,Western,22.286656,114.136766,"香港德輔道西402-404號創業商場地下70,71及95號舖位","Shop G70, G71 & G95, Chong Yip Shopping Centre, 402-404 Des Voeux Rd West, HK",TRUE
+172,56,7-Eleven 西環,7-Eleven Western,西環,Western,22.2856685,114.1348002,香港石塘咀山道20號高雅大廈地下C舖,"Shop C, G/F & Cockloft, GOA Building, 20 Hill Road, HK",TRUE
+1015,465,7-Eleven 西環,7-Eleven Western,西環,Western,22.287096,114.133787,香港石塘咀德輔道西442號美新樓B座地下5號舖位,"Shop 5, G/F, Block B, Mei Sun Lau, 442 Des Voeux Road West, Shek Tong Tsui, HK",TRUE
+485,175,7-Eleven 西環,7-Eleven Western,西環,Western,22.2875521,114.1421936,香港西營盤正街18號啟正中心地下A舖,"Shop A, G/F., Kaiser Centre, No. 18 Centre Street, Sai Ying Pun, HK",TRUE
+732,300,7-Eleven 西環,7-Eleven Western,西環,Western,22.2868741,114.1432668,香港西營盤皇后大道西240號地下舖位,"G/F., No.240 Queen's Road West, Sai Ying Pun, Hong Kong",TRUE
+1298,677,7-Eleven 西環,7-Eleven Western,西環,Western,22.283644,114.130926,"香港西環卑路乍街18A, 20及20A號如意大樓地下1號舖","Unit 1, Ground Floor, Yue Yee Mansion, Nos.18A, 20 & 20A Belcher's Street, Western,Hong Kong",TRUE
+535,200,7-Eleven 西環,7-Eleven Western,西環,Western,22.2823439,114.1273242,香港西環堅尼地城卑路乍街116-122號聯康大廈地下E舖,"Shop E, Luen Hong Apartments, 116-122 Belcher's St., Kennedy Town, HK",TRUE
+1102,529,7-Eleven 西環,7-Eleven Western,西環,Western,22.287242,114.138692,香港西環德輔道西316A-318號地下,"Ground Floor, No. 316A and 318 Des Voeux Road West, Sai Wan, Hong Kong",TRUE
+1185,593,7-Eleven 西環,7-Eleven Western,西環,Western,22.286656,114.136766,香港西環德輔道西402-404號創業中心地下G7及G8號舖,"Shop Nos. G7 and G8, Ground Floor, Chong Yip Shopping Centre, 402-404 Des Voeux Road West, Sai Wan, Hong Kong",TRUE
+1513,866,7-Eleven 西環,7-Eleven Western,西環,Western,22.2862512,114.1388726,香港西環皇后大道西420-424號冠華大廈地下C舖,"Shop C, G/F, Koon Wah Building, Nos. 420-424 Queen’s Road West, Sai Wan, Hong Kong",TRUE
+1071,504,7-Eleven 西環,7-Eleven Western,西環,Western,22.2855391,114.1419613,香港西環第三街56-72號福滿大廈地下A舖,"Shop A, G/F, Fook Moon Building, 56-72 Third Street, Sai Wan, HK",TRUE
+1532,885,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.281165,114.128247,港鐵堅尼地城站KET 3號舖,Concession No. KET 3 at MTR Kennedy Town Station,FALSE
+1533,886,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.281066,114.127636,港鐵堅尼地城站KET 6號舖,Concession No. KET 6 at MTR Kennedy Town Station,FALSE
+1544,897,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.2878158,114.1440761,港鐵西營盤站SYP 3號舖,Concession No. SYP 3 at MTR Sai Ying Pun Station,FALSE
+1545,898,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.28785551,114.1442853,港鐵西營盤站SYP 4號舖,Concession No. SYP 4 at MTR Sai Ying Pun Station,FALSE
+754,318,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.28082434,114.1280553,香港堅尼地城觀龍樓觀龍樓電梯穿梭大樓地下1號舖位,"Shop No.1, G/F., Kwun Lung Lau Shuttle Lift Complex, Kwun Lung Lau, Kennedy Town, HK",FALSE
+931,414,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.285179,114.133193,香港石塘咀卑路乍街8號西寶城下層地下UG07號舖,"Shop No.UG07 on Upper Ground Floor, The Westwood, 8 Belcher’s Street, Shek Tong Tsui, Hong Kong.",FALSE
+375,116,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.2878376,114.1395461,香港西營盤德輔道西301號天興大廈C舖地下,"Shop C, G/F., Tin Hing Mansion,  301 Des Voeux Road West, Hong Kong",FALSE
+1191,598,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.285693,114.1388065,香港西營盤第三街178-180號榮昇閣地下C部份舖,"Portion of Shop C on G/F, Wing Sing Court, Nos. 178-180 Third Street, Sai Ying Pun, Hong Kong",FALSE
+1486,840,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.2825509,114.1289326,香港西環堅尼地城卑路乍街56號嘉明大廈地下B舖,"Shop B, G/F, Ka Ming Building, No. 56 Belcher’s Street, Kennedy Town, Western, Hong Kong",FALSE
+1390,751,7-Eleven 西環 (非24小時營業),7-Eleven Western (Non-24 Hours),西環,Western,22.2866731,114.1416827,香港西環第一街83號俊景閣地下5及6號舖,"Shop Nos.5 and 6, Ground Floor, Chun King Court, No.83 First Street, Sai Wan, Hong Kong",FALSE
+443,148,7-Eleven 西貢,7-Eleven Sai Kung,西貢,Sai Kung,22.38007683,114.272342,九龍西貢萬年街118號地下,"G/F., 118 Man Nin St., Sai Kung, Kowloon",TRUE
+110,30,7-Eleven 西貢,7-Eleven Sai Kung,西貢,Sai Kung,22.3806097,114.2708623,"新界西貢普通道11, 15-15A號地下","Shop 11A, 15 & 15A, G/F Po Tung Road, Sai Kung",TRUE
+1159,573,7-Eleven 西貢,7-Eleven Sai Kung,西貢,Sai Kung,22.330685,114.2623505,新界西貢清水灣道大埔仔村1號地下舖位及一樓,"Ground Floor & First Floor, No.1 Tai Po Tsai Village, Clear Water Bay Road, N.T.",TRUE
+915,403,7-Eleven 西貢,7-Eleven Sai Kung,西貢,Sai Kung,22.3818346,114.2734238,新界西貢福民路74號合益樓地下及閣樓C及D號舖位,"Shop C & D on G/F & Cockloft C & D above G/F., Hop Yick House, Lot No.940 in D.D.215. (Also known as 74 Fuk Man Rd,) Sai Kung, NT.",TRUE
+1491,844,7-Eleven 西貢,7-Eleven Sai Kung,西貢,Sai Kung,22.3821453,114.2718102,新界西貢親民街18-32號錦華樓B舖地下及閣樓,"G/F including Cockloft of Shop B, Kam Wah Building, Nos.18-32 Chan Man Street, Sai Kung, N.T.",TRUE
+462,158,7-Eleven 西貢 (非24小時營業),7-Eleven Sai Kung (Non-24 Hours),西貢,Sai Kung,22.35652056,114.2518151,新界西貢匡湖居第三期匡湖居購物中心地下C2號舖,"Shop C2, Marina Cove Shopping Centre, Stage III, Marina Cove, Sai Kung, NT",FALSE
+1594,947,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.320638,114.2336713,九龍安達?安達商場低層地下19號舖,"Shop No. LG19, On Tat Shopping Centre, On Tat Estate, Kowloon",TRUE
+379,118,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.315004,114.2300892,九龍官塘翠屏村翠屏商場1B舖位,"Shop No. 1B, Tsui Ping Shopping Cir., Tsui Ping Estate, Kwun Tong, KLN",TRUE
+431,141,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.315026,114.222902,九龍官塘通明街7號光明大樓地下舖位,"G/F, Kwong Ming Bldg.,  7 Tung Ming Street, Kwun Tong, KLN",TRUE
+1137,556,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.31431419,114.2298478,九龍翠屏北?翠屏北商場翠柳樓M2樓102號舖,"Shop 102, Level M2, Tsui Lau House, Tsui Ping North Shopping Circuit, Tsui Ping North Estate, Kln",TRUE
+270,78,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.3165014,114.2260935,九龍觀塘協和街143-167號協和樓地下7號舖,"Shop 7, G/F, Hip Wo House, 143-167 Hip Wo Street, Kwun Tong",TRUE
+1285,667,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.3128786,114.220335,九龍觀塘巧明街94-96號鴻圖中心地下3號舖,"Unit 3, Ground Floor,  Hung To Centre, Nos. 94 -  96 How Ming Street,  Kwun Tong, Kowloon",TRUE
+548,205,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.31394,114.2212701,九龍觀塘觀塘道388號創紀之城地下2B舖位,"Shop No.2B, G/F., Millennium City, No.388 Kwun Tong Rd., Kwun Tong, KLN",TRUE
+1441,797,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.3155863,114.223903,九龍觀塘輔仁街10，12，16-24號輔成樓地下3號舖位,"Shop No. 3, G/F, Fu Shing House, Nos.10, 12, 16-24 Fu Yan Street, Kwun Tong, Kowloon",TRUE
+306,90,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.3134092,114.2247003,九龍觀塘道409號裕華大廈地下B舖,"Shop B, LG/F, Yue Wah Mansion, 409 Kwun Tong Road, Kln",TRUE
+709,286,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.3111987,114.2260006,九龍觀塘開源道68號觀塘廣場地下G2舖,"Shop G2 on G/F, Kwun Tong Plaza, 68 Hoi Yuen Road, Kwun Tong, KLN",TRUE
+742,308,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.312698,114.2242359,九龍觀塘駿業里10號業運工業大廈地下A舖位,"G/F., Shop A, Yip Win Factory Building, 10 Tsun Yip Lane, Kwun Tong, KLN",TRUE
+877,380,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.311199,114.2213103,九龍觀塘鴻圖道44至46號世紀工商中心地下1D號舖位,"Shop 1D, G/F., Century Centre, 44-46 Hung To Road, Kwun Tong, KLN",TRUE
+351,106,7-Eleven 觀塘,7-Eleven Kwun Tong,觀塘,Kwun Tong,22.30675827,114.2282411,"九龍觀塘麗港城商場第 22, 23及23A舖位地下","Shop 22, 23 & 23A, G/F, Laguna Plaza, Cha Kwo Ling Rd., Kwun Tong, Kln.",TRUE
+1376,738,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.307869,114.223588,九龍觀塘偉業街223至231號觀塘223(宏利金融中心)1樓14號舖,"Shop 14, 1/F, Kwun Tong 223 (Manulife Financial Centre), Nos. 223-231 Wai Yip Street, Kwun Tong, KLN",FALSE
+1480,834,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.331915,114.22134,九龍觀塘利安道32號順利紀律部隊宿舍第二層平台第1號?,"Shop 1 on Podium Level 2 of Shun Lee Disciplined Services Quarters, 32 Lee On Road, Kwun Tong, Kowloon, Hong Kong",FALSE
+1120,541,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.31216532,114.2262992,九龍觀塘地鐵站閘外 KWT 23號舖位,"Kiosk No. KWT 23 at Unpaid Concourse of MTR Kwun Tong Station, Kowloon",FALSE
+1369,733,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.31774089,114.2361134,九龍觀塘寶琳路2號寶達商場地下14號舖,"Shop No. 14, Ground Floor, Po Tat Shopping Centre, 2 Po Lam Road, Kwun Tong, Kowloon",FALSE
+1571,924,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.31581292,114.2141595,九龍觀塘海濱道83號One Bay East Citi Tower 1樓E4號舖,"Shop E4 on First Floor, Citi Tower, One Bay East, No.83 Hoi Bun Road, Kwun Tong, Kowloon",FALSE
+880,382,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.31235391,114.2252398,九龍觀塘觀塘道418號創紀之城五期APM地下G02號舖,"Shop G02, G/F APM., Millennium City V, No.418 Kwun Tong Rd, Kwun Tong, KLN",FALSE
+1515,868,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.311609,114.223176,九龍觀塘駿業街64號南益商業中心地下,"G/F, South Asia Commercial Centre, No. 64 Tsun Yip Street, Kwung Tong, Kowloon",FALSE
+1253,641,7-Eleven 觀塘 (非24小時營業),7-Eleven Kwun Tong (Non-24 Hours),觀塘,Kwun Tong,22.31213555,114.2264628,港鐵觀塘站KWT 28號舖,"Kiosk No. KWT 28 at Kwun Tong Station, Kowloon",FALSE
+607,236,7-Eleven 跑馬地,7-Eleven Happy Valley,跑馬地,Happy Valley,22.2680521,114.1866903,香港灣仔跑馬地成和道39G 1號及2號舖位,"Shop 1 & 2, Happy Court, No.39E, 39F & 39G Sing Woo Rd and No.6 Yuen Yuen St., Happy Valley, HK",TRUE
+403,132,7-Eleven 跑馬地,7-Eleven Happy Valley,跑馬地,Happy Valley,22.2688956,114.1842733,香港跑馬地景光街36-44號金光大廈三號舖位,"Shop 3, UG/F., Kam Kwong Mansion, 36-44 King Kwong St, Happy Valley, HK",TRUE
+1,1,7-Eleven 跑馬地,7-Eleven Happy Valley,跑馬地,Happy Valley,22.2695641,114.1841804,香港跑馬地黃泥涌道15號地下,"G/F., Winner House, 15 Wong Nei Chung Road, Happy Valley, HK",TRUE
+939,422,7-Eleven 金鐘 (非24小時營業),7-Eleven Admiralty (Non-24 Hours),金鐘,Admiralty,22.27942699,114.164536,港鐵金鐘站ADM 16號舖位,"Kiosk No. ADM 16 at Admiralty Station, Hong Kong",FALSE
+1577,930,7-Eleven 金鐘 (非24小時營業),7-Eleven Admiralty (Non-24 Hours),金鐘,Admiralty,22.27858933,114.1649365,港鐵金鐘站ADM 23號舖位,Kiosk ADM 23 at MTR Admiralty Station,FALSE
+731,299,7-Eleven 金鐘 (非24小時營業),7-Eleven Admiralty (Non-24 Hours),金鐘,Admiralty,22.27946174,114.164933,香港金鐘夏愨道18號海富中心商場1樓22號舖,"Shop 22 1/F of the podium, Admiralty Centre, 18 Harcourt Rd, Admiralty, HK",FALSE
+802,337,7-Eleven 金鐘 (非24小時營業),7-Eleven Admiralty (Non-24 Hours),金鐘,Admiralty,22.27939225,114.1650242,香港金鐘夏?道18號海富中心1期B舖,"First Floor, Kiosk B at Shopping Centre of Admiralty Centre, Hong Kong",FALSE
+1569,922,7-Eleven 金鐘 (非24小時營業),7-Eleven Admiralty (Non-24 Hours),金鐘,Admiralty,22.27948656,114.1634095,香港金鐘金鐘道89號力寶中心1樓2B及2C舖,"Shops 2B & 2C, 1/F, Lippo Centre, No. 89 Queensway, Admiralty, Hong Kong",FALSE
+1075,506,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2802429,114.1823296,香港灣仔駱克道478-484號本德大廈地下G舖,"Shop G, G/F, Pun Tak Building, 478-484 Lockhart Road, Causeway Bay, HK",TRUE
+589,228,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2783019,114.1836463,香港銅鑼灣利園山道61-73號寶榮大廈地下I舖位,"Shop I, G/F., Po Wing Bldg., No.61-73 Lee Garden Rd., Causeway Bay, HK",TRUE
+468,164,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2777973,114.1827266,香港銅鑼灣勿地臣街16號地下,"G/F., No. 16 Matheson Street, Causeway Bay, HK",TRUE
+1475,829,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2775917,114.1947926,香港銅鑼灣大坑勵德??榮樓第6座22及26號舖(地下連一樓),"Shop Nos. 22 & 26 at G/F & Living Quarter at 1/F, Block 6, Tsuen Wing Lau, Lai Tak Tsuen, Tai Hang, H.K.",TRUE
+719,292,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2802036,114.1854111,香港銅鑼灣怡和街1-1L號香港大廈地下T號舖連閣樓                                 ,"Shop T G/F & M/F, Hong Kong Mansion, No.1-1L Yee Woo Street, HK",TRUE
+920,406,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2796559,114.1889212,香港銅鑼灣摩頓臺13-33號灣景樓地下8及9號舖,"Shop Nos.8 & 9, G/F., Bay View Mansion, 13-33 Moreton Terrace, Causeway Bay, Hong Kong",TRUE
+1289,669,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2794673,114.1830141,香港銅鑼灣波斯富街60號地下,"Ground Floor, No.60 Percival Street, Causeway Bay, Hong Kong",TRUE
+1157,571,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2789715,114.1922614,香港銅鑼灣浣紗街8-10號浣紗大廈地下B舖,"Portion of Shop B on Ground Floor, Wun Sha Mansion, 8-10 Wun Sha Street, Causeway Bay, Hong Kong",TRUE
+1294,673,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2796139,114.1847958,香港銅鑼灣渣甸街25號金利隆中心地下,"G/F, Golden Bloom Centre, No.25 Jardine's Bazaar, Causeway Bay, HK",TRUE
+929,412,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2778629,114.1864329,香港銅鑼灣禮頓道106-126號禮信大廈地下6A及6B舖位,"Shop Nos.6A & 6B, G/F., Lei Shun Court, No.106-126 Leighton Road, Causeway Bay, Hong Kong",TRUE
+1295,674,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2771123,114.1817885,香港銅鑼灣禮頓道21-23號均峰商業大廈地下A及B號舖,"Shop A & Portion of Shop B, Ground Floor, Vulcan House, Nos. 21-23 Leighton Road, Causeway Bay, Hong Kong",TRUE
+452,150,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2801032,114.1868504,香港銅鑼灣糖街29-31號匯景商業大廈地下C舖,"Shop C, G/F, Grand View Comm Bldg, Nos.29-31 Sugar St, Causeway Bay, HK",TRUE
+608,237,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2812524,114.1831818,香港銅鑼灣謝菲道501-515號美漢大廈7號舖位,"Shop 7, G/F., Malahon Apartments, Nos.513 Jaffe Rd., Causeway Bay, HK",TRUE
+1479,833,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2792596,114.1815795,香港銅鑼灣軒尼詩道432-436號人和悅大廈地下2號舖,"Shop No. 2, G/F, Yan Wo Yuet Building, Nos. 432-436 Hennessy Road, Causeway Bay, Hong Kong",TRUE
+325,96,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2817398,114.1921221,香港銅鑼灣道168-174號百成唐樓地下C舖 ,"Shop C, G/F Pak Shing Bldg, 168-174 Tung Lo Wan Rd, Causeway Bay, HK",TRUE
+1153,567,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2785504,114.1858925,香港銅鑼灣邊寧頓街17號地下,"G/F, 17 Pennington Street, Causeway Bay, Hong Kong",TRUE
+1499,852,7-Eleven 銅鑼灣,7-Eleven Causeway Bay,銅鑼灣,Causeway Bay,22.2802553,114.1813473,香港銅鑼灣駱克道447-449號中威商業大廈地下1號舖,"Shop 1, G/F, Chung Wai Commercial Building, Nos. 447-449 Lockhart Road, Causeway Bay, HK",TRUE
+828,352,7-Eleven 銅鑼灣 (非24小時營業),7-Eleven Causeway Bay (Non-24 Hours),銅鑼灣,Causeway Bay,22.28012194,114.184218,港鐵銅鑼灣站CAB E11號舖位,"Kiosk CAB E11, Causeway Bay MTR Station, HK",FALSE
+1241,631,7-Eleven 銅鑼灣 (非24小時營業),7-Eleven Causeway Bay (Non-24 Hours),銅鑼灣,Causeway Bay,22.2789329,114.1915503,香港大坑銅鑼灣道68號地下,"Ground Floor & Cockloft, No.68 Tung Lo Wan Road, Tai Hang, Hong Kong",FALSE
+94,23,7-Eleven 銅鑼灣 (非24小時營業),7-Eleven Causeway Bay (Non-24 Hours),銅鑼灣,Causeway Bay,22.2787415,114.1885344,香港銅鑼灣道19-23號建康大廈地下3號舖,"Shop 3, G/F, Professional Bldg., 19-23 Tung Lo Wan Road, HK",FALSE
+585,226,7-Eleven 鑽石山,7-Eleven Diamond Hill,鑽石山,Diamond Hill,22.34093655,114.2081004,九龍鑽石山斧山道185號宏景花園商場地下A14-A16號舖位,"Shop A14, A15 & A16, G/F, Grand View Garden, 185 Hammer Hill Road, KLN",TRUE
+910,398,7-Eleven 鑽石山,7-Eleven Diamond Hill,鑽石山,Diamond Hill,22.34048751,114.2019796,九龍鑽石山荷里活廣場地下G103號舖位,"Shop G103, Ground Floor, Plaza Hollywood, Diamond Hill, Kowloon",TRUE
+1530,883,7-Eleven 鑽石山 (非24小時營業),7-Eleven Diamond Hill (Non-24 Hours),鑽石山,Diamond Hill,22.34017,114.201562,港鐵鑽石山站DIH 16號舖,Kiosk No. DIH 16 at MTR Diamond Hill Station,FALSE
+100,26,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.33846061,114.1585279,九龍李鄭屋村李鄭屋商場地下109號舖,"Shop 109, G/F, Li Cheng Uk Shopping Centre, Li Cheng Uk Estate, Kln",TRUE
+1091,519,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.337187,114.157771,九龍深水?青山道261號地下,"Ground Floor, No.261 Castle Peak Road, Cheung Sha Wan, Kowloon",TRUE
+1017,467,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.3399235,114.1528101,"九龍深水?青山道465-471號聯邦廣場地下7A, 7B, 7C舖位","Shop 7A, 7B & 7C, G/F, Federal Plaza, 465-471 Castle Peak Road, Cheung Sha Wan, Kln",TRUE
+374,115,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.33711347,114.1593942,九龍深水步寶熙苑寶熙苑商場11號舖,"Shop No. 11, Po Hei Court Shopping Centre, Cheung Sha Wan, KLN",TRUE
+406,134,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.33905851,114.1538219,九龍深水步福榮街512-518號依時大廈地下A號舖位,"Shop B of G/F., Easey Bldg, 512-518 Fuk Wing St., Cheung Sha Wan, KLN",TRUE
+1540,893,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.33711098,114.1544187,九龍長沙灣元州街303號元州?元州商場地下G17號舖,"Shop No. G17, G/F, Un Chau Shopping Centre, Un Chau Estate, No. 303 Un Chau Street, Cheung Sha Wan, Kowloon",TRUE
+1143,560,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.3390496,114.1520172,九龍長沙灣道680號麗新商業中心地下G20-G21號舖,"Unit G20-G21, G/F, Lai Sun Commercial Centre, 680 Cheung Sha Wan Road, KLN",TRUE
+1522,875,7-Eleven 長沙灣,7-Eleven Cheung Sha Wan,長沙灣,Cheung Sha Wan,22.340218,114.15523,九龍長沙灣順寧道360號麗寶花園低層地下4號舖B部份,"Portion B of Shop No. 4 at Lower Ground Floor, Lai Bo Garden, No. 360 Shun Ning Road, Cheung Sha Wan, Kowloon",TRUE
+844,360,7-Eleven 長沙灣 (非24小時營業),7-Eleven Cheung Sha Wan (Non-24 Hours),長沙灣,Cheung Sha Wan,22.33534702,114.1546494,九龍長沙灣幸福?商場5號舖,"Shop No. 5, Fortune Estate, Cheung Sha Wan, Kowloon",FALSE
+1269,655,7-Eleven 長沙灣 (非24小時營業),7-Eleven Cheung Sha Wan (Non-24 Hours),長沙灣,Cheung Sha Wan,22.3368675,114.1536893,九龍長沙灣長沙灣道681號貿易廣場地下1B舖位,"Shop 1B, G/F., Trade Square, No.681 Cheung Sha Wan Road, Cheung Sha Wan, KLN",FALSE
+1146,562,7-Eleven 長沙灣 (非24小時營業),7-Eleven Cheung Sha Wan (Non-24 Hours),長沙灣,Cheung Sha Wan,22.3364449,114.1483479,九龍長沙灣長義街10號昌隆工業大廈地下2A舖位,"Unit 2A, G/F Cheung Lung Ind Bldg, 10 Cheung Yee St, Cheung Sha Wan, Kln",FALSE
+625,249,7-Eleven 長洲,7-Eleven Cheung Chau,長洲,Cheung Chau,22.2069769,114.0287036,長洲海傍道36號地下及二樓,"Ground Floor & First Floor, 36 Praya St., Cheung Chau",TRUE
+309,92,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.35447653,114.0976363,新界荃灣青衣長亨村商場地下1號舖,"Shop 1 Shopping Centre, Cheung Hang Estate, Tsing Yi, NT",TRUE
+312,93,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.34478186,114.1077429,新界青衣島美景花園中座第3-4及17-20號舖,"Shop 3-4 & 17-20, Central Block, Mayfair Garden, Tsing Yi, NT",TRUE
+201,60,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.34968881,114.0985,新界青衣島長康村第二商業中心106-107號舖    ,"Shop 106 & 107, Comm. Centre, 2 Cheung Hong Estate, Tsing Yi Island, NT",TRUE
+287,84,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.3524796,114.1080487,新界青衣翠怡花園第二期商場地下17號舖,"Shop G17, G/F., Comm. Ctr., Greenfield Garden Phase II, Tsing Yi, NT",TRUE
+1216,615,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.34882552,114.105978,新界青衣長康?康貴樓地下5號舖,"SHOP 5, G/F, HONG KWAI HOUSE, CHEUNG HONG ESTATE, TSING YI, N.T.",TRUE
+1230,623,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.3624441,114.1033334,新界青衣長發商場2樓205號舖,"Shop 205, Second Floor, Cheung Fat Shopping Centre, Tsing Yi, N.T.",TRUE
+1085,513,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.34512421,114.1090894,新界青衣長青?長青商場平台2樓9+9A舖位,"Shop No.9 + 9A on 2/F of Podium Level, Cheung Ching Shopping Centre, Cheung Ching Estate, Tsing Yi, NT.",TRUE
+456,154,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.355183,114.107386,新界青衣青敬路75號宏福花園商場地下6號舖,"Shop 6, Commercial Centre, Tivoli Garden, 75 Tsing King Rd., Tsing Yi, NT",TRUE
+875,379,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.342201,114.109786,新界青衣青衣路1號藍澄灣地下1號舖位,"Shop No.1, G/F., Rambler Plaza, No.1 Tsing Yi Road, Tsing Yi, NT",TRUE
+1447,803,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.350226,114.059906,新界馬灣珀麗路8號珀麗灣碼頭第一層S5及S6舖,"Shop No. S5 & S6, Level 1, Park Island – Pier, No. 8 Pak Lai Road, Park Island, Ma Wan, N.T",TRUE
+882,384,7-Eleven 青衣,7-Eleven Tsing Yi,青衣,Tsing Yi,22.35133352,114.0592325,新界馬灣田寮新村602號地下及1樓,"G/F & 1/F., Lot 602, Tin Liu New Village, Ma Wan. NT",TRUE
+1498,851,7-Eleven 青衣 (非24小時營業),7-Eleven Tsing Yi (Non-24 Hours),青衣,Tsing Yi,22.362425,114.103339,新界青衣?杆山路6號長發?長發廣場地下123號舖,"Shop No. 123, G/F, Cheung Fat Plaza, Cheung Fat Estate, No. 6 Tam Kon Shan Road, Tsing Yi, N.T.",FALSE
+834,356,7-Eleven 青衣 (非24小時營業),7-Eleven Tsing Yi (Non-24 Hours),青衣,Tsing Yi,22.35665451,114.0956998,新界青衣長宏?長宏商場地下2號舖位,"Shop 2, G/F., Cheung Wang Shopping Centre, Cheung Wang Estate, Tsing Yi, NT.",FALSE
+753,317,7-Eleven 青衣 (非24小時營業),7-Eleven Tsing Yi (Non-24 Hours),青衣,Tsing Yi,22.35364551,114.1055837,新界青衣青綠街7至19號青怡花園青怡廣場地下39號舖位,"Shop 39, G/F Tsing Yi Square, Tsing Yi Garden, 7-19 Tsing Luk St, Tsing Yi, NT.",FALSE
+1047,491,7-Eleven 青衣 (非24小時營業),7-Eleven Tsing Yi (Non-24 Hours),青衣,Tsing Yi,22.35815774,114.1070831,港鐵青衣站地下TSY 43號舖位,"Kiosk TSY 43, G/F, Unpaid Concourse, Tsing Yi MTR Station, NT",FALSE
+1317,691,7-Eleven 青衣 (非24小時營業),7-Eleven Tsing Yi (Non-24 Hours),青衣,Tsing Yi,22.35834627,114.1073245,港鐵青衣站非繳費區 TSY 56舖位,"Concession No.TSY 56 at Unpaid Concourse of Tsing Yi MTR Station, NT",FALSE
+568,216,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.25862653,114.137494,香港薄扶林置富花園401+401A號舖位,"Shop No.401 + 401A, Chi Fu Landmark, Pokfulam, HK",TRUE
+380,119,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.271144,114.1309321,香港薄扶林道102號瑪麗醫院K座地下便利店舖,"Convenience Shop, G/F, Blk K, Queen Mary Hospital, 102 Pokfulam Rd, HK",TRUE
+572,219,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.2484818,114.1532945,香港香港仔中心25號舖南寧街7-11號,"Shop 25, G/F., Aberdeen Center, Site 2 (7-11 Nam Ning St), HK",TRUE
+1255,643,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.2494538,114.1489223,香港香港仔嘉禾街1-3號金爵大廈地下C及D鋪,"Shop C & D, Ground Floor, Kam Tseuk Mansion, Nos.1-3 Ka Wo Street, Aberdeen, Hong Kong",TRUE
+1089,517,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.2492391,114.1556836,香港香港仔大道178號地下,"G/F., No. 178 Aberdeen Main Road, Hong Kong",TRUE
+438,145,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.2485497,114.1549433,香港香港仔成都道20-28號添喜大廈地下F舖,"Shop F, G/F, Albert House, Nos.20-28 Chengtu Rd, Aberdeen, HK",TRUE
+688,278,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.2476368,114.15498,香港香港仔湖南街11號地下,"G/F., 11 Wu Nam Street, Aberdeen, HK",TRUE
+493,178,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.25085907,114.1496068,香港香港仔田灣村田灣商場102號舖位,"Shop 102, Tin Wan Shopping Centre, Tin Wan Estate, Aberdeen, Hong Kong",TRUE
+286,83,7-Eleven 香港仔,7-Eleven Aberdeen,香港仔,Aberdeen,22.2535575,114.1363138,香港香港仔華富村第二期商業中心第S24A舖 ,"Shop S24A, Comm. Centre, Wah Fu Estate (II), Aberdeen, HK",TRUE
+1534,887,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.284426,114.134623,港鐵香港大學站HKU 3號舖,Concession No. HKU 3 at MTR Hong Kong University Station,FALSE
+1535,888,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.284349,114.134856,港鐵香港大學站HKU 4號舖,Concession No. HKU 4 at MTR Hong Kong University Station,FALSE
+1228,622,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.2519361,114.1382455,香港仔華富(一)?華安樓地下106舖,"Shop 106, Wah On House, Wah Fu (I) Estate, Aberdeen, Hong Kong",FALSE
+748,314,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.25100305,114.1497034,香港田灣?田灣商場地下5號舖位,"Shop No.5, G/F., Tin Wan Shopping Centre,Tin Wan Estate, Hong Kong",FALSE
+466,162,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.2696132,114.1298709,香港薄扶林沙宣道6號地下,"Convenience Store on Residential complex of The University of HK, No.6 Sassoon Rd. Pokfulam, HK",FALSE
+1239,630,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.2474573,114.1582161,香港香港仔大道38號地下,"G/F., No.38 Aberdeen Main Road, Aberdeen, Hong Kong",FALSE
+1520,873,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.244775,114.165932,香港黃竹坑深灣道3號南濤閣地下4號部分舖,"Portion of Shop No. 4, G/F, South Wave Court, No. 3 Shum Wan Road, Wong Chuk Hang, Hong Kong",FALSE
+1418,775,7-Eleven 香港仔 (非24小時營業),7-Eleven Aberdeen (Non-24 Hours),香港仔,Aberdeen,22.2485971,114.1690628,香港黃竹坑香葉道2號One Island South 地下H號舖,"Shop No. H, Ground Floor, One Island South, No.2 Heung Yip Road, Wong Chuk Hang, H.K.",FALSE
+434,143,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.42515425,114.2312774,新界沙田海柏花園馬鞍山廣場第二層201-202舖位,"Shop Nos.201-202 on Level 2, Ma On Shan Plaza, Bayshore Towers, Ma On Shan, Shatin",TRUE
+1155,569,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.40502025,114.2227802,新界沙田馬鞍山恆信街2號富安花園地下21C及21F號舖,"Shop 21C & 21F, G/F Chevalier Garden, 2 Hang Shun Street, Ma On Shan, N.T",TRUE
+199,59,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.41661253,114.2279381,新界沙田馬鞍山恆安村商場商業中心二層235號舖,"Shop 235, Level 2, Comm. Centre, Heng On Est, Ma On Shan, Shatin, NT",TRUE
+1060,499,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.4242993,114.2283458,新界沙田馬鞍山鞍駿街15號雅濤居地下1A號舖位,"Shop No.1A, G/F, The Waterside, 15 On Chun Street, Ma On Shan, Shatin, N.T.",TRUE
+824,349,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.42548896,114.2313766,新界沙田馬鞍山馬鞍山廣場2樓298及299號舖位,"Shop No.298 & 299, Level 2, Ma On Shan Plaza, Ma On Shan, Shatin, NT",TRUE
+363,112,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.42650054,114.2409709,新界馬鞍山利安村商場G3舖位,"Shop G3, Lee On Shopping Centre, Lee On Estate, Ma On Shan, Shatin, N.T.",TRUE
+1345,713,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.4204629,114.2304123,新界馬鞍山恆康街2號耀安商場地下G110號舖,"Shop No. G110, G/F, Yiu On Shopping Centre, 2 Hang Hong Street, Ma On Shan, N.T.",TRUE
+1416,773,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.41301717,114.225103,新界馬鞍山欣安?欣安商場地下2號舖位,"Shop 2, G/F., Yan On Shopping Centre, Yan On Estate, Ma On Shan, NT",TRUE
+670,271,7-Eleven 馬鞍山,7-Eleven Ma On Shan,馬鞍山,Ma On Shan,22.4226905,114.2314804,"新界馬鞍山鞍誠街8號新港城N,P,Q,R座地下30,32號舖位","Shop 30 & 32 on G/F of Podium, Blocks N, P, Q & R of Sunshine City, 8 On Shing Street, Ma On Shan, NT",TRUE
+1430,787,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.4245725,114.2374709,新界沙田馬鞍山錦英路6號富寶花園商場1樓F65號舖,"Shop F65, 1/F., The Commercial Centre, Saddle Ridge Garden, No.6 Kam Ying Road, Ma On Shan, N.T.",FALSE
+848,361,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.42654765,114.2409374,新界馬鞍山利安商場G1號舖,"Shop G1, Lee On Shopping Centre, Ma On Shan, New Territories",FALSE
+1552,905,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.43014514,114.243181,新界馬鞍山烏溪沙路8號迎海薈2樓8號舖,"Shop No. 8, Second Floor, Double Cove Place, No. 8 Wu Kai Sha Road, Ma On Sha, N.T.",FALSE
+1363,727,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.4222003,114.2266043,新界馬鞍山西沙路632號頌安商場1樓135號舖,"Shop No. 135, 1/F, Chung On Shopping Centre, 632 Sai Sha Road, Ma On Shan",FALSE
+858,369,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.40789424,114.2223859,港鐵大水坑站繳費區6號,"Shop No. TSH 6, Paid concourse of MTR Tai Shui Hang Station, Ma On Shan Line, New Territories",FALSE
+853,364,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.41785725,114.2258298,港鐵恆安站非繳費區1號,"Shop No. HEO 1, Unpaid concourse of MTR Heng On Station, Ma On Shan Line, New Territories",FALSE
+857,368,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.38783214,114.208433,港鐵石門站繳費區5號,"Shop No. SHM 5, Paid concourse of MTR Shek Mun Station, Ma On Shan Line, New Territories",FALSE
+859,370,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.38314478,114.2037982,港鐵第一城站繳費區5號,"Shop No. CIO 5, Paid concourse of MTR City One Station, Ma On Shan Line, New Territories",FALSE
+856,367,7-Eleven 馬鞍山 (非24小時營業),7-Eleven Ma On Shan (Non-24 Hours),馬鞍山,Ma On Shan,22.42488152,114.23161,港鐵馬鞍山站繳費區7號,"Shop No. MOS 7, Paid concourse of MTR Ma On Shan Station, Ma On Shan Line, New Territories",FALSE
+388,125,7-Eleven ?魚涌,7-Eleven Quarry Bay,?魚涌,Quarry Bay,22.29134987,114.206349,香港北角七姊妹道180-182號健康村地下A舖,"Shop A, G/F, Healthy Village, 180-182 Tsat Tsz Mui Rd, Podium Lvl, NP, HK",TRUE
+615,242,7-Eleven ?魚涌,7-Eleven Quarry Bay,?魚涌,Quarry Bay,22.2844858,114.2124403,香港英皇道1032-1044號舖位,"Shop No.G5, G/F., Fok Cheong Building, Nos.1032-1044 King's Rd., HK",TRUE
+617,244,7-Eleven ?魚涌,7-Eleven Quarry Bay,?魚涌,Quarry Bay,22.28812355,114.2102972,香港魚則魚涌英皇道963A地下舖位,"G/F., King's Road 963A, Quarry Bay, HK",TRUE
+1328,700,7-Eleven ?魚涌,7-Eleven Quarry Bay,?魚涌,Quarry Bay,22.287873,114.211041,香港?魚涌海光街13-15號海光苑地下5及6D號舖,"Shop 5 & 6D, Ground Floor, Hoi Kwong Court, Nos.13-15 Hoi Kwong Street, Quarry Bay, Hong Kong",TRUE
+1279,663,7-Eleven ?魚涌,7-Eleven Quarry Bay,?魚涌,Quarry Bay,22.29107936,114.207788,香港?魚涌英皇道734號友邦香港大樓地下3號舖,"Shop No. 3, G/F, AIA Hong Kong Tower, No. 734 King's Road, Quarry Bay, Hong Kong",TRUE
+1044,488,7-Eleven ?魚涌 (非24小時營業),7-Eleven Quarry Bay (Non-24 Hours),?魚涌,Quarry Bay,22.2885802,114.2087066,港鐵?魚涌站QUB 2號舖位模範里出口,"Kiosk QUB2, Unpaid Concourse, Quarry Bay MTR Station (West Concourse),  Hong Kong",FALSE
+9,3,7-Eleven ?魚涌 (非24小時營業),7-Eleven Quarry Bay (Non-24 Hours),?魚涌,Quarry Bay,22.2906475,114.2088876,香港英皇道774號地下模範村C座地下12-13號舖,"Shop 12-13, G/F., Blk C, Model Housing Est., 774 King's Road, HK",FALSE
+936,419,7-Eleven ?魚涌 (非24小時營業),7-Eleven Quarry Bay (Non-24 Hours),?魚涌,Quarry Bay,22.2855467,114.2126681,"香港?魚涌華蘭路2-10, 12A-12H及英皇道1025-1037惠安苑底層地下LG3號舖B部份","Portion B of Shop No.LG3 on Lower G/F., of Westlands Gardens, Nos.1025-1037 King’s Road & Nos.2-10, 12A-12H Westlands Road, Quarry Bay, HK",FALSE
+165,53,7-Eleven 鴨?洲,7-Eleven Ap Lei Chau,鴨?洲,Ap Lei Chau,22.24448641,114.1513637,香港仔鴨利洲村多層停車場地下6號舖,"Cooked Food Stall 6, Multi-Storey Carpark, Ap Lei Chau Estate, HK",TRUE
+366,113,7-Eleven 鴨?洲,7-Eleven Ap Lei Chau,鴨?洲,Ap Lei Chau,22.23902956,114.1522837,香港鴨俐洲海怡半島海怡廣場西座地下第 47號舖位,"G/F, Shop 47 Marina Square West Comm Blk, South Horizon,Ap Lei Chau, HK",TRUE
+744,310,7-Eleven 鴨?洲,7-Eleven Ap Lei Chau,鴨?洲,Ap Lei Chau,22.2435877,114.1544241,香港鴨利洲 鴨利洲大街127-129號高寶閣地下B號舖位,"Shop B G/F., Coble Court, No.127-139 Ap Lei Chau Main Street, Ap Lei Chau, HK",TRUE
+235,72,7-Eleven 鴨?洲,7-Eleven Ap Lei Chau,鴨?洲,Ap Lei Chau,22.24105046,114.1558456,香港鴨利洲利東村商業中心一期 102號舖,"Shop 102, Lei Tung Estate, Phase I, Ap Lei Chau, HK",TRUE
+30,9,7-Eleven 鴨?洲,7-Eleven Ap Lei Chau,鴨?洲,Ap Lei Chau,22.24435855,114.1568944,香港鴨利洲大街25-31號年豐大廈地下6-9號舖,"Shop Nos. 6-9, G/F., Ning Fung Mansion, Nos. 25-31 Main St., Ap Lei Chau, HK",TRUE
+1193,599,7-Eleven 鴨?洲,7-Eleven Ap Lei Chau,鴨?洲,Ap Lei Chau,22.244705,114.1501361,香港鴨?洲?利澤樓43號舖,"Shop No. 43, Lei Chak House, Ap Lei Chau Estate, Hong Kong",TRUE
+139,40,7-Eleven 黃大仙,7-Eleven Wong Tai Sin,黃大仙,Wong Tai Sin,22.34107052,114.1925007,九龍黃大仙下村二期龍樂樓地下1號舖,"Shop 1, Lung Lok House, Lower Wong Tai Sin Estate II, Kln",TRUE
+1414,771,7-Eleven 黃大仙,7-Eleven Wong Tai Sin,黃大仙,Wong Tai Sin,22.34982029,114.1955718,九龍黃大仙沙田坳?順田樓地下1號舖位,"Shop 1, G/F., Shun Tin House, Shatin Pass Estate, Wong Tai Sin, Kowloon",TRUE
+1268,654,7-Eleven 黃大仙,7-Eleven Wong Tai Sin,黃大仙,Wong Tai Sin,22.34489101,114.1936836,九龍黃大仙竹園(南)?商場2樓S219C號舖,"Shop S219C, Second Floor, Chuk Yuen (South) Shopping Centre, Chuk Yuen (South) Estate, Wong Tai Sin, Kowloon",TRUE
+145,42,7-Eleven 黃大仙,7-Eleven Wong Tai Sin,黃大仙,Wong Tai Sin,22.34503738,114.1938713,九龍黃大仙竹園村竹園商場S4號舖,"Shop S4, Chuk Yuen Shopping Centre, Chuk Yuen South Estate, Kln",TRUE
+522,195,7-Eleven 黃大仙,7-Eleven Wong Tai Sin,黃大仙,Wong Tai Sin,22.34281704,114.1866964,九龍黃大仙竹園道55號天馬苑天馬苑商場2樓F2號舖位,"Shop No. F2, Tin Ma Court Shopping Centre, Tin Ma Court, KLN",TRUE
+1180,590,7-Eleven 黃大仙 (非24小時營業),7-Eleven Wong Tai Sin (Non-24 Hours),黃大仙,Wong Tai Sin,22.34162623,114.1938418,九龍黃大仙站WTS 13 號舖 (近黃大仙下?),"Kiosk WTS 13 of Unpaid Concourse at Wong Tai Sin Station, Kowloon",FALSE
+1117,538,7-Eleven 黃大仙 (非24小時營業),7-Eleven Wong Tai Sin (Non-24 Hours),黃大仙,Wong Tai Sin,22.3456771,114.1893123,九龍黃大仙翠竹街8號翠竹商場地下301號舖位,"Shop No.301, Level 3 of Tsui Chuk Commercial Complex, Tsui Chuk Garden, No.8 Chui Chuk Street, Wong Tai Sin, Kowloon",FALSE
+1558,911,7-Eleven 黃大仙 (非24小時營業),7-Eleven Wong Tai Sin (Non-24 Hours),黃大仙,Wong Tai Sin,22.34197728,114.1927153,九龍黃大仙龍翔道136號黃大仙上?黃大仙中心北館一樓N116號舖,"Shop No. N116, 1/F, Temple Mall North, Upper Wong Tai Sin Estate, No. 136 Lung Cheung Road, Wong Tai Sin, Kowloon",FALSE

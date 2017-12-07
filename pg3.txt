@@ -1,0 +1,47 @@
+social media
+invi code - pokeguideclosebeta
+wholeimgrect
+
+h/w < height/width
+
+125/100 < 200/100
+
+x: downward
+y: to the left
+top: right edge's x
+bottom: left edge's x
+left: upper edge's y
+right: lower edge's y
+
+(left,top)-----------------------
+|
+|
+|_____________________(right,bottom)
+
+90 - > (x,y)->(y,-x)
+________________________
+|       _______		|
+|      |	|	|
+|      |_______	|	|
+|			|
+|_______________________|
+
+as right bottom swap
+
+
+
+
+0,0                   200,0		0,0					150,0
+
+	10,5	170,5				150-8,10	150-5,10
+
+	10,8	170,8				150-8,170	150-5,170
+
+0,150		     200,150
+
+rotate left:
+0,0					200,0
+
+	10,150-(150-5)	170,150-(150-5)
+
+	10,150-(150-8)	170,150-(150-8)

@@ -1,0 +1,43 @@
+pokeguideclosebeta
+
+social media post
+-can not full screen photo
+-full screen profile pic
+
+FATAL EXCEPTION: main
+              Process: com.pokeguide.pokeguide, PID: 24139
+              java.lang.NullPointerException: Attempt to invoke virtual method 'void android.view.View.setVisibility(int)' on a null object reference
+              at com.pokeguide.pokeguide.activity.AutoloadingPostListFragment$1.run(AutoloadingPostListFragment.java:108)
+              at android.os.Handler.handleCallback(Handler.java:751)
+              at android.os.Handler.dispatchMessage(Handler.java:95)
+              at android.os.Looper.loop(Looper.java:154)
+              at android.app.ActivityThread.main(ActivityThread.java:6236)
+              at java.lang.reflect.Method.invoke(Native Method)
+              at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:891)
+              at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:781)
+
+delete method does not support a request body?
+-can delete wo 
+
+Laravel API
+-what is it?
+
+Logout
+Login fail?(facebook hash?)
+
+camera 
+-zoom in
+
+handle address not found issue
+-how to trigger
+
+wall's map page->
+no  'my location' by gps ->want to get back wo...
+
+wall post
+-location: search by name 'Time square' ->ok!
+	   cannot use in map locate 'time square'
+
+
+why need high accuracy?
+if use device only -> will be lag and do not work

@@ -1,0 +1,9 @@
+autoloading post list fragment -> no immediate update location distance
+
+post detail activity.java -> immediate tap on the image but cannot show
+
+wallpost adapter.java
+
+-----------------------------10/9
+-fix list view
+-fix showing floors

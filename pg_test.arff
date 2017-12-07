@@ -1,0 +1,13 @@
+@relation weka.datagenerators.classifiers.classification.RDG1-S_1_-n_100_-a_10_-c_2_-N_0_-I_0_-M_1_-R_10
+
+@attribute District {'The Peak','Wan Chai','Yau Tsim Mong','Sai Kung','Kowloon City','Kwun Tong','Central And Western',Eastern,'Tai Po','Tuen Mun','Sha Tin','Sham Shui Po',Southern,'Tsuen Wan','Kwai Tsing','North Point','Wong Tai Sin',Islands,'Yuen Long','Central & Western','Tung Lung Fort Special Area','Lantau South Country Park','Plover Cove Country Park','Sai Kung East Country Park','Pat Sin Leng Country Park','Ma On Shan Country Park','Sai Kung West Country Park','Plover Cove (extension) Country Park','Tai Lam Country Park','Sai Kung West Country Park (wan Tsai Extension)','Shing Mun Country Park','Lantau North Country Park','Tai Mo Shan Country Park','Tai Tam Country Park','Kam Shan Country Park','Lion Rock Country Park','Aberdeen Country Park','Tai Tam Country Park (quarry Bay Extension)','Clear Warer Bay Country Park','Tseung Kwan O','Discovery Bay',Aberdeen,Airport,'Sai Ying Pun','Ma On Shan','Lamma Island','Cheung Sha Wan','Tsim Sha Tsui','Kwai Chung',Central,'Shau Kei Wan','Sheung Shui','Peng Chau','Kowloon Central','Wah Fu','Mui Wo','Hong Kong East','Cheung Chau','Kowloon East','Sheung Wan','Kowloon Tong','Kowloon Bay',Jordan,Homantin,Mid-Level,'To Kwa Wan','Tai Wai',University,'Lantau Island','Tai Kok Tsui','Tin Shui Wai','Tai Koo Shing','Prince Edward','Siu Sai Wan','Tsim Sha Tsui East','Choi Hung','Tsz Wan Shan','San Po Kong','Mong Kok','Tung Chung','Chai Wan','Lok Fu',Shatin,'Yau Tong',Yaumatei,'Fo Tan','Ngau Tau Kok','Shek Kip Mei','Sau Mau Ping',Fanling,'Hung Hom','Lo Wu','Mei Foo','Lai Chi Kok','Lok Ma Chau','Lam Tin','Sai Wan Ho',Western,'Happy Valley',Admiralty,'Causeway Bay','Diamond Hill','Tsing Yi','Quarry Bay','Ap Lei Chau'}
+@attribute Lat numeric
+@attribute Lng numeric
+
+@data
+?,22.280166,114.183813
+?,22.277434,114.172654
+?,22.473138,114.049945
+?,22.333827,114.264456
+?,22.302897,114.178280
+?,22.275690,114.145946
